@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DIKWP×DIKWP Transformation Event",
+  "type": "object",
+  "required": ["id", "source_atoms", "target_atoms", "source_type", "target_type", "operator"],
+  "properties": {
+    "id": {"type": "string"},
+    "source_atoms": {"type": "array", "items": {"type": "string"}},
+    "target_atoms": {"type": "array", "items": {"type": "string"}},
+    "source_type": {"enum": ["D", "I", "K", "W", "P"]},
+    "target_type": {"enum": ["D", "I", "K", "W", "P"]},
+    "operator": {"type": "string"},
+    "semantic_gain": {"type": "number", "minimum": 0, "maximum": 1},
+    "semantic_loss": {"type": "number", "minimum": 0, "maximum": 1},
+    "reversibility": {"type": "number", "minimum": 0, "maximum": 1},
+    "purpose_shift": {"type": "number", "minimum": -1, "maximum": 1}
+  }
+}

@@ -1,0 +1,1156 @@
+{
+  "global_section_status": "partial-global-section",
+  "shared_sections": [
+    {
+      "semantic_feature": "relation",
+      "support": 0.9,
+      "observer_count": 9,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "purpose",
+      "support": 0.8,
+      "observer_count": 8,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "definition_tool",
+      "support": 0.5,
+      "observer_count": 5,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "boundary",
+      "support": 0.4,
+      "observer_count": 4,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "context",
+      "support": 0.4,
+      "observer_count": 4,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    }
+  ],
+  "partial_sections": [
+    {
+      "semantic_feature": "experimental_test",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "homeostasis",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "interaction",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "measurement",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "operational_boundary",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "persistence",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "pluralism",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "revision",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "rule_change",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "self_maintenance",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "uncertainty",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "viability",
+      "support": 0.3,
+      "observer_count": 3,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "adaptation",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "agency",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "concept_projection_loss",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "energy_flow",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "ethics",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "falsification",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "history",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "individuality",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "intrinsic_goal",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "lineage",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "model_comparison",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "mutual_transformation",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "mutual_vulnerability",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "new_dimension",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "open_evolution",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "open_space",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "perception",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "program_data_symmetry",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "scale",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "self_reference",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "semantic_contract",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "substrate_neutral",
+      "support": 0.2,
+      "observer_count": 2,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 1,
+      "negative_stances": 2,
+      "contradiction": 0.333333
+    },
+    {
+      "semantic_feature": "active_information",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "auditability",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "biochemistry",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "candidate_set",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "carbon",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "causal_loop",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "causal_model",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "cellular_only",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 1,
+      "negative_stances": 2,
+      "contradiction": 0.333333
+    },
+    {
+      "semantic_feature": "constraint_closure",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "continuity",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "continuum",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "counterexample",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "digital_life",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "dormancy",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "entropy",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "error_correction",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "evidence",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "false_positive",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "far_from_equilibrium",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "function",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "gaps",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "harm",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "healing",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "heredity",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "host_dependency",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "identity_change_parts",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "information",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "kantian_whole",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "learning",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "liminal",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "material_exchange",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "membrane",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "memory",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "meta_dynamics",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "metabolism",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "morphospace",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "multi_dimensional",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "multiscale",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "novelty",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "observer_boundary",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "origin",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "part_whole",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "phase_transition",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "phenomenology",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "physical_substrate",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "process_object",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "provenance",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "purpose_revision",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "push_back",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "replication",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "residual",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "selective_exchange",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "self_construction",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "self_modification",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "semantic_bundle",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "semantic_loss",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "state_space_change",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "subject_object",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "subjectivity",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "value",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "variation",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "virus",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "water",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    },
+    {
+      "semantic_feature": "welfare",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 0,
+      "negative_stances": 0,
+      "contradiction": 0.0
+    }
+  ],
+  "obstructions": [
+    {
+      "semantic_feature": "observer_relative",
+      "support": 0.1,
+      "observer_count": 1,
+      "contexts": [
+        "生命定义与跨基质判定"
+      ],
+      "positive_stances": 1,
+      "negative_stances": 1,
+      "contradiction": 0.5
+    }
+  ],
+  "obstruction_score": 0.492916,
+  "mean_overlap_compatibility": 0.387674,
+  "interpretation": "A shared semantic kernel can be glued, but it does not erase local meanings."
+}

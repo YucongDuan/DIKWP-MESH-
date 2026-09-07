@@ -1,0 +1,101 @@
+{
+  "system": "DIKWP-MESH²",
+  "version": "1.0.0",
+  "generated_at_utc": "2026-07-15T04:10:52.793977+00:00",
+  "python": "3.13.5 (main, May  5 2026, 21:05:52) [GCC 14.2.0]",
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "packages": {
+    "networkx": "3.6.1",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "matplotlib": "3.10.8",
+    "jinja2": "3.1.6",
+    "pytest": "9.0.2"
+  },
+  "input": {
+    "file": "examples/life_semantic_bundle.json",
+    "sha256": "3ac398827e67be7f14bdf8b3feff12adf751f8aaa488337bbc3194d08b991079"
+  },
+  "commands": [
+    "PYTHONPATH=src python -m dikwp_mesh2.cli analyze examples/life_semantic_bundle.json --out outputs",
+    "PYTHONPATH=src python -m dikwp_mesh2.cli audit examples/hierarchical_spec.json --out outputs/bad_hierarchy_audit.json",
+    "PYTHONPATH=src python -m dikwp_mesh2.cli route D W --top-k 5",
+    "PYTHONPATH=src python -m dikwp_mesh2.cli route P K --top-k 5",
+    "PYTHONPATH=src pytest -q"
+  ],
+  "tests": {
+    "status": "passed",
+    "count": 8,
+    "output_file": "outputs/test_results.txt"
+  },
+  "key_outputs": {
+    "outputs/analysis_summary.json": {
+      "sha256": "93e11a1dc7d4364daaf1fedd9c0aacd4e07da4586d4917145558aa52fed86258",
+      "bytes": 202
+    },
+    "outputs/semantic_bundle_result.json": {
+      "sha256": "7db74ccc092048097dea75dc7c53d92f66cc4a86333204c5092325bd150028c5",
+      "bytes": 119373
+    },
+    "outputs/transformation_tensor.json": {
+      "sha256": "4272a20e82ed23a7a025c88e3bb436a83f2b68c9f6e9440e6ee37c23b5221144",
+      "bytes": 13542
+    },
+    "outputs/hierarchy_audit.json": {
+      "sha256": "c848114d48002527a2abca3d426cf13e7b04fe0c40fea4a6599786771301f94f",
+      "bytes": 288
+    },
+    "outputs/bad_hierarchy_audit.json": {
+      "sha256": "8ee7ad620290b509cecd2a44f1f888e7d99f5d4331ad20c8e085a8a29f4bd391",
+      "bytes": 1934
+    },
+    "outputs/gluing_report.json": {
+      "sha256": "3dee0f2a386171afa1b2a37eddc2357ecf81a98644eb9f8777d4ca6e89b11cc5",
+      "bytes": 27243
+    },
+    "outputs/concept_escape_candidates.json": {
+      "sha256": "60fe88d1fd72bcfc3f5ff9f558dfdd8903b296e3796da21114f951552eba2975",
+      "bytes": 4740
+    },
+    "outputs/meta_operator_proposals.json": {
+      "sha256": "2b02b0ae2b50b87d962fd9b6ab9cd22ec7075b72db4a4406316065586ba0e337",
+      "bytes": 3538
+    },
+    "outputs/semantic_contracts.json": {
+      "sha256": "a51ad7405fd4fe3e3c1806685f07cc985278c61dc13edae84b93f525b0881e8a",
+      "bytes": 3178
+    },
+    "outputs/dashboard.html": {
+      "sha256": "fa2a5a50b023c54cc25ff822771d59d0b5a5be5a19b6f0824a70b0cde5707a11",
+      "bytes": 14141
+    },
+    "outputs/dikwp_network.png": {
+      "sha256": "86548b1c942b75dbff927623d04368af2293206ad1ca6d85559bf158aef7388c",
+      "bytes": 252501
+    },
+    "outputs/semantic_mesh.png": {
+      "sha256": "f7abc2ae88bec111af36d913e0010c7b8147a378325717a114967ba2518d34ba",
+      "bytes": 556095
+    },
+    "outputs/observer_similarity.png": {
+      "sha256": "89cdeb2dd475fdac51b2e79a419b32084a598dd0f2374f18b5638cf1d5dbe5c4",
+      "bytes": 204356
+    },
+    "outputs/transformation_usage.png": {
+      "sha256": "e74e78df219066a95ac846fe457e6d0ec1ebf9aef0bd4c03260b0c01509afda7",
+      "bytes": 51174
+    },
+    "outputs/routes_D_to_W.json": {
+      "sha256": "64a9ca49f187983ce0e1af69a13398a5814441fb88747e764651e966f7be864c",
+      "bytes": 3901
+    },
+    "outputs/routes_P_to_K.json": {
+      "sha256": "9a28b2b0a8ca566bce6d7d45dbf424c47a8d09fcffd413effc1a1ef305c6f179",
+      "bytes": 3871
+    },
+    "outputs/test_results.txt": {
+      "sha256": "eab8fa66c53032059b67e755cc48fb76ec14cfd2196757d95f541c32406bd977",
+      "bytes": 98
+    }
+  }
+}

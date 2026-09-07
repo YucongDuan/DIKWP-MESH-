@@ -1,0 +1,100 @@
+[
+  {
+    "name": "obstruction-preserving-glue",
+    "path": [
+      "I->K",
+      "K->W",
+      "W->I"
+    ],
+    "purpose": "Construct a shared model, audit its value/power effects, then return contested distinctions to the information graph instead of forcing consensus.",
+    "triggers": [
+      "observer_relative",
+      "cellular_only",
+      "substrate_neutral"
+    ],
+    "installation_status": "proposal-only",
+    "validation": "The operator is accepted only if it improves predictive coordination without reducing recorded dissent or provenance.",
+    "rollback": "Rollback when minority residual coverage falls or contradiction detection weakens."
+  },
+  {
+    "name": "residual-to-new-axis",
+    "path": [
+      "K->I",
+      "I->P",
+      "P->D",
+      "D->K"
+    ],
+    "purpose": "Convert recurring untranslatable residuals into a candidate semantic dimension, design observations for it, and test whether it explains previously disconnected cases.",
+    "triggers": [
+      "subjectivity",
+      "meta_dynamics",
+      "constraint_closure",
+      "continuum",
+      "error_correction"
+    ],
+    "installation_status": "proposal-only",
+    "validation": "Pre-register cases that the new axis must separate and cases on which it must remain neutral.",
+    "rollback": "Delete or quarantine the axis if it merely renames an existing feature or amplifies one observer's language."
+  },
+  {
+    "name": "axis-seeding::concept-projection-loss",
+    "path": [
+      "P->I",
+      "I->D",
+      "D->K",
+      "K->P"
+    ],
+    "purpose": "Operationalize the candidate dimension '概念投影损失' through measurements, models, and purpose revision.",
+    "triggers": [
+      "context",
+      "continuum",
+      "definition_tool",
+      "morphospace",
+      "pluralism",
+      "semantic_loss"
+    ],
+    "installation_status": "proposal-only",
+    "validation": "把高维语义场压缩成一个词或定义时，哪些关系、尺度、冲突和可能性被系统性丢失？",
+    "rollback": "Suspend if the dimension has low cross-observer transfer or cannot generate discriminating tests."
+  },
+  {
+    "name": "axis-seeding::scale-dependent-individuation",
+    "path": [
+      "P->I",
+      "I->D",
+      "D->K",
+      "K->P"
+    ],
+    "purpose": "Operationalize the candidate dimension '尺度依赖个体化' through measurements, models, and purpose revision.",
+    "triggers": [
+      "boundary",
+      "individuality",
+      "multiscale",
+      "observer_boundary",
+      "scale"
+    ],
+    "installation_status": "proposal-only",
+    "validation": "在细胞、个体、群体、生态或数字组织的不同尺度上，什么因果闭包使其成为可追踪的个体？",
+    "rollback": "Suspend if the dimension has low cross-observer transfer or cannot generate discriminating tests."
+  },
+  {
+    "name": "axis-seeding::observer-participation",
+    "path": [
+      "P->I",
+      "I->D",
+      "D->K",
+      "K->P"
+    ],
+    "purpose": "Operationalize the candidate dimension '观察者参与与反向塑形' through measurements, models, and purpose revision.",
+    "triggers": [
+      "interaction",
+      "mutual_transformation",
+      "observer_relative",
+      "push_back",
+      "subjectivity"
+    ],
+    "installation_status": "proposal-only",
+    "validation": "被评估对象是否会改变观察者的分类、测量和目的，使定义本身成为互动的一部分？",
+    "rollback": "Suspend if the dimension has low cross-observer transfer or cannot generate discriminating tests."
+  }
+]

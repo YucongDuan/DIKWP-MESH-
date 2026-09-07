@@ -1,0 +1,15 @@
+{
+  "hierarchy_leakage_score": 0.0,
+  "finding_count": 0,
+  "findings": [],
+  "transformation_coverage": 1.0,
+  "cycle_count": 89,
+  "verdict": "NETWORK_COMPATIBLE",
+  "type_centrality": {
+    "D": 0.170218,
+    "I": 0.222883,
+    "K": 0.246842,
+    "W": 0.157562,
+    "P": 0.202494
+  }
+}

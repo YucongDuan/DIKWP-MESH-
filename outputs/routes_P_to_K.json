@@ -1,0 +1,152 @@
+[
+  {
+    "path": [
+      "P",
+      "K"
+    ],
+    "operators": [
+      {
+        "type": "P->K",
+        "name": "purpose-construct-knowledge",
+        "description": "Select or construct models needed for a purpose, with explicit risk of motivated reasoning.",
+        "base_loss": 0.4,
+        "reversibility": 0.38,
+        "generativity": 0.7
+      }
+    ],
+    "hops": 1,
+    "cost": 0.5,
+    "cumulative_loss": 0.4,
+    "path_reversibility": 0.38,
+    "path_generativity": 0.7
+  },
+  {
+    "path": [
+      "P",
+      "W",
+      "K"
+    ],
+    "operators": [
+      {
+        "type": "P->W",
+        "name": "means-ends-audit",
+        "description": "Audit whether a purpose and its means remain acceptable under consequences and other purposes.",
+        "base_loss": 0.22,
+        "reversibility": 0.64,
+        "generativity": 0.6
+      },
+      {
+        "type": "W->K",
+        "name": "normative-model-select",
+        "description": "Select, constrain, or challenge explanatory models using explicit values and harms.",
+        "base_loss": 0.31,
+        "reversibility": 0.45,
+        "generativity": 0.62
+      }
+    ],
+    "hops": 2,
+    "cost": 0.7236,
+    "cumulative_loss": 0.4618,
+    "path_reversibility": 0.288,
+    "path_generativity": 0.848
+  },
+  {
+    "path": [
+      "P",
+      "I",
+      "K"
+    ],
+    "operators": [
+      {
+        "type": "P->I",
+        "name": "purpose-frame",
+        "description": "Choose distinctions and relations relevant to a purpose while logging excluded alternatives.",
+        "base_loss": 0.28,
+        "reversibility": 0.57,
+        "generativity": 0.58
+      },
+      {
+        "type": "I->K",
+        "name": "generalize",
+        "description": "Build explanatory, predictive, or causal models from relational patterns.",
+        "base_loss": 0.28,
+        "reversibility": 0.48,
+        "generativity": 0.66
+      }
+    ],
+    "hops": 2,
+    "cost": 0.7444,
+    "cumulative_loss": 0.4816,
+    "path_reversibility": 0.2736,
+    "path_generativity": 0.8572
+  },
+  {
+    "path": [
+      "P",
+      "D",
+      "K"
+    ],
+    "operators": [
+      {
+        "type": "P->D",
+        "name": "purpose-select-observation",
+        "description": "Choose what to measure, sample, or preserve in order to pursue or audit a purpose.",
+        "base_loss": 0.24,
+        "reversibility": 0.65,
+        "generativity": 0.48
+      },
+      {
+        "type": "D->K",
+        "name": "abduce-model",
+        "description": "Generate causal or generative hypotheses directly from observations while exposing assumptions.",
+        "base_loss": 0.34,
+        "reversibility": 0.42,
+        "generativity": 0.65
+      }
+    ],
+    "hops": 2,
+    "cost": 0.7676,
+    "cumulative_loss": 0.4984,
+    "path_reversibility": 0.273,
+    "path_generativity": 0.818
+  },
+  {
+    "path": [
+      "P",
+      "D",
+      "I",
+      "K"
+    ],
+    "operators": [
+      {
+        "type": "P->D",
+        "name": "purpose-select-observation",
+        "description": "Choose what to measure, sample, or preserve in order to pursue or audit a purpose.",
+        "base_loss": 0.24,
+        "reversibility": 0.65,
+        "generativity": 0.48
+      },
+      {
+        "type": "D->I",
+        "name": "differentiate",
+        "description": "Extract distinctions, regularities, contrasts, and context-dependent relations from observations.",
+        "base_loss": 0.16,
+        "reversibility": 0.78,
+        "generativity": 0.45
+      },
+      {
+        "type": "I->K",
+        "name": "generalize",
+        "description": "Build explanatory, predictive, or causal models from relational patterns.",
+        "base_loss": 0.28,
+        "reversibility": 0.48,
+        "generativity": 0.66
+      }
+    ],
+    "hops": 3,
+    "cost": 0.9076,
+    "cumulative_loss": 0.540352,
+    "path_reversibility": 0.24336,
+    "path_generativity": 0.90276
+  }
+]

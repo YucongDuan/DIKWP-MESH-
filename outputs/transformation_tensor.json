@@ -1,0 +1,635 @@
+{
+  "axes": [
+    "source_type",
+    "target_type",
+    "observer",
+    "context",
+    "time",
+    "modality",
+    "scale",
+    "provenance"
+  ],
+  "primitive_matrix": {
+    "D": {
+      "D": 1,
+      "I": 1,
+      "K": 1,
+      "W": 1,
+      "P": 1
+    },
+    "I": {
+      "D": 1,
+      "I": 1,
+      "K": 1,
+      "W": 1,
+      "P": 2
+    },
+    "K": {
+      "D": 1,
+      "I": 1,
+      "K": 2,
+      "W": 1,
+      "P": 1
+    },
+    "W": {
+      "D": 1,
+      "I": 1,
+      "K": 1,
+      "W": 1,
+      "P": 1
+    },
+    "P": {
+      "D": 1,
+      "I": 1,
+      "K": 1,
+      "W": 1,
+      "P": 1
+    }
+  },
+  "entries": [
+    {
+      "event_id": "t_dd",
+      "source_type": "D",
+      "target_type": "D",
+      "operator": "re-observe",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.45,
+      "semantic_loss": 0.08,
+      "reversibility": 0.9,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_di",
+      "source_type": "D",
+      "target_type": "I",
+      "operator": "differentiate",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.537,
+      "semantic_loss": 0.16,
+      "reversibility": 0.78,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_dk",
+      "source_type": "D",
+      "target_type": "K",
+      "operator": "abduce-model",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.607,
+      "semantic_loss": 0.34,
+      "reversibility": 0.42,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_dw",
+      "source_type": "D",
+      "target_type": "W",
+      "operator": "salience-evaluate",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.573,
+      "semantic_loss": 0.42,
+      "reversibility": 0.35,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_dp",
+      "source_type": "D",
+      "target_type": "P",
+      "operator": "purpose-infer",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.59,
+      "semantic_loss": 0.55,
+      "reversibility": 0.25,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_id",
+      "source_type": "I",
+      "target_type": "D",
+      "operator": "operationalize",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.537,
+      "semantic_loss": 0.2,
+      "reversibility": 0.7,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_ii",
+      "source_type": "I",
+      "target_type": "I",
+      "operator": "re-segment",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.573,
+      "semantic_loss": 0.12,
+      "reversibility": 0.82,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_ik",
+      "source_type": "I",
+      "target_type": "K",
+      "operator": "generalize",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.611,
+      "semantic_loss": 0.28,
+      "reversibility": 0.48,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_iw",
+      "source_type": "I",
+      "target_type": "W",
+      "operator": "consequence-map",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.583,
+      "semantic_loss": 0.35,
+      "reversibility": 0.42,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_ip",
+      "source_type": "I",
+      "target_type": "P",
+      "operator": "question-form",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.632,
+      "semantic_loss": 0.32,
+      "reversibility": 0.55,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_kd",
+      "source_type": "K",
+      "target_type": "D",
+      "operator": "predict-test",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.534,
+      "semantic_loss": 0.18,
+      "reversibility": 0.76,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_ki",
+      "source_type": "K",
+      "target_type": "I",
+      "operator": "derive-signature",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.527,
+      "semantic_loss": 0.15,
+      "reversibility": 0.8,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_kk",
+      "source_type": "K",
+      "target_type": "K",
+      "operator": "model-revise",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.639,
+      "semantic_loss": 0.14,
+      "reversibility": 0.65,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_kw",
+      "source_type": "K",
+      "target_type": "W",
+      "operator": "implication-audit",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.59,
+      "semantic_loss": 0.24,
+      "reversibility": 0.54,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_kp",
+      "source_type": "K",
+      "target_type": "P",
+      "operator": "goal-design",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.607,
+      "semantic_loss": 0.28,
+      "reversibility": 0.52,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_wd",
+      "source_type": "W",
+      "target_type": "D",
+      "operator": "value-directed-observe",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.555,
+      "semantic_loss": 0.22,
+      "reversibility": 0.68,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_wi",
+      "source_type": "W",
+      "target_type": "I",
+      "operator": "value-reweight",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.583,
+      "semantic_loss": 0.2,
+      "reversibility": 0.66,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_wk",
+      "source_type": "W",
+      "target_type": "K",
+      "operator": "normative-model-select",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.597,
+      "semantic_loss": 0.31,
+      "reversibility": 0.45,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_ww",
+      "source_type": "W",
+      "target_type": "W",
+      "operator": "value-negotiate",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.632,
+      "semantic_loss": 0.18,
+      "reversibility": 0.56,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_wp",
+      "source_type": "W",
+      "target_type": "P",
+      "operator": "commit",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.569,
+      "semantic_loss": 0.21,
+      "reversibility": 0.6,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_pd",
+      "source_type": "P",
+      "target_type": "D",
+      "operator": "purpose-select-observation",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.548,
+      "semantic_loss": 0.24,
+      "reversibility": 0.65,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_pi",
+      "source_type": "P",
+      "target_type": "I",
+      "operator": "purpose-frame",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.583,
+      "semantic_loss": 0.28,
+      "reversibility": 0.57,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_pk",
+      "source_type": "P",
+      "target_type": "K",
+      "operator": "purpose-construct-knowledge",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.625,
+      "semantic_loss": 0.4,
+      "reversibility": 0.38,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_pw",
+      "source_type": "P",
+      "target_type": "W",
+      "operator": "means-ends-audit",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.59,
+      "semantic_loss": 0.22,
+      "reversibility": 0.64,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_pp",
+      "source_type": "P",
+      "target_type": "P",
+      "operator": "purpose-transform",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.667,
+      "semantic_loss": 0.26,
+      "reversibility": 0.5,
+      "higher_order_path": []
+    },
+    {
+      "event_id": "t_meta_observer_escape",
+      "source_type": "I",
+      "target_type": "P",
+      "operator": "question-form+purpose-transform",
+      "observer": "mesh2_system",
+      "context": "concept_escape",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.83,
+      "semantic_loss": 0.18,
+      "reversibility": 0.62,
+      "higher_order_path": [
+        "D->I",
+        "I->P",
+        "P->P"
+      ]
+    },
+    {
+      "event_id": "t_meta_rule_rewrite",
+      "source_type": "K",
+      "target_type": "K",
+      "operator": "model-revise-through-purpose-feedback",
+      "observer": "mesh2_system",
+      "context": "operator_revision",
+      "scales": [
+        "multi-scale"
+      ],
+      "modalities": [
+        "text"
+      ],
+      "times": [
+        "2026"
+      ],
+      "semantic_gain": 0.88,
+      "semantic_loss": 0.14,
+      "reversibility": 0.55,
+      "higher_order_path": [
+        "K->P",
+        "P->K",
+        "K->K"
+      ]
+    }
+  ],
+  "event_count": 27,
+  "active_primitive_pairs": 25,
+  "primitive_coverage": 1.0,
+  "higher_order_event_count": 2,
+  "observer_diversity_entropy": -0.0,
+  "context_diversity_entropy": 0.455021,
+  "scale_diversity_entropy": -0.0,
+  "modality_diversity_entropy": -0.0,
+  "interpretation": "The 5×5 operator matrix is a base alphabet; actual meaning is indexed by observer, context, time, modality, scale and provenance."
+}

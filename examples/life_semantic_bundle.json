@@ -1,0 +1,2133 @@
+{
+  "concept": "生命（Life）",
+  "description": "以《Defining Life: A Conversation》中的多元观点为种子，演示DIKWP网状语义转化、跨主体拼接、冲突保留和概念解缚。所有文本均为系统化转述。",
+  "observers": [
+    {
+      "observer": "metabolism_identity",
+      "role": "代谢—身份连续性观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "persistence": 0.38,
+        "recognition": 0.22,
+        "experimental_test": 0.22,
+        "ecology": 0.18
+      },
+      "atoms": [
+        {
+          "id": "met_d1",
+          "label": "持续的能量与物质交换使组织远离平衡",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.38,
+            "I": 0.24,
+            "K": 0.18,
+            "W": 0.1,
+            "P": 0.1
+          },
+          "tags": [
+            "energy_flow",
+            "far_from_equilibrium",
+            "material_exchange",
+            "persistence",
+            "boundary"
+          ],
+          "stance": {
+            "replication_necessary": -0.65,
+            "substrate_neutral": -0.1
+          },
+          "evidence": [
+            "附件第12—13页：代谢与身份讨论"
+          ],
+          "confidence": 0.9,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第12—13页：代谢与身份讨论",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "met_i1",
+          "label": "部件持续替换而组织关系保持，构成动态身份",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.1,
+            "I": 0.46,
+            "K": 0.22,
+            "W": 0.12,
+            "P": 0.1
+          },
+          "tags": [
+            "identity_change_parts",
+            "self_maintenance",
+            "metabolism",
+            "history",
+            "relation"
+          ],
+          "stance": {
+            "binary_life": -0.2
+          },
+          "evidence": [
+            "附件第13页与第31页：通过改变部件保持身份"
+          ],
+          "confidence": 0.86,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第13页与第31页：通过改变部件保持身份",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "met_k1",
+          "label": "选择性交换、修复和稳态共同构成可检验的生存模型",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.1,
+            "I": 0.15,
+            "K": 0.48,
+            "W": 0.16,
+            "P": 0.11
+          },
+          "tags": [
+            "selective_exchange",
+            "healing",
+            "homeostasis",
+            "viability",
+            "self_maintenance",
+            "boundary"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第25、30页：修复与维持"
+          ],
+          "confidence": 0.84,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第25、30页：修复与维持",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "met_w1",
+          "label": "定义是否有用取决于它能否区分损伤、休眠与死亡",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.08,
+            "I": 0.12,
+            "K": 0.2,
+            "W": 0.48,
+            "P": 0.12
+          },
+          "tags": [
+            "definition_tool",
+            "context",
+            "dormancy",
+            "harm",
+            "operational_boundary"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第3、34页：上下文与操作边界"
+          ],
+          "confidence": 0.78,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第3、34页：上下文与操作边界",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "constraint_closure",
+      "role": "约束闭包—康德整体观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "organization": 0.38,
+        "self_construction": 0.3,
+        "causal_explanation": 0.22,
+        "recognition": 0.1
+      },
+      "atoms": [
+        {
+          "id": "cc_d1",
+          "label": "边界条件约束能量释放，并被这些过程反向生产",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.42,
+            "I": 0.22,
+            "K": 0.18,
+            "W": 0.08,
+            "P": 0.1
+          },
+          "tags": [
+            "constraint_closure",
+            "energy_flow",
+            "boundary",
+            "self_construction",
+            "causal_loop"
+          ],
+          "stance": {
+            "constraint_sufficient": 0.65
+          },
+          "evidence": [
+            "附件第4—5页：约束闭包"
+          ],
+          "confidence": 0.91,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第4—5页：约束闭包",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "cc_i1",
+          "label": "部分的功能由其对整体持续存在的贡献关系界定",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.08,
+            "I": 0.49,
+            "K": 0.2,
+            "W": 0.12,
+            "P": 0.11
+          },
+          "tags": [
+            "kantian_whole",
+            "part_whole",
+            "function",
+            "relation",
+            "persistence"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第5页：部分—整体功能关系"
+          ],
+          "confidence": 0.87,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第5页：部分—整体功能关系",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "cc_k1",
+          "label": "自生产闭包与适应闭环必须共同接受反事实检验",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.09,
+            "I": 0.15,
+            "K": 0.51,
+            "W": 0.13,
+            "P": 0.12
+          },
+          "tags": [
+            "constraint_closure",
+            "adaptation",
+            "self_maintenance",
+            "experimental_test",
+            "rule_change"
+          ],
+          "stance": {
+            "constraint_sufficient": 0.2
+          },
+          "evidence": [
+            "附件第14—16页：闭包与适应的争论"
+          ],
+          "confidence": 0.8,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第14—16页：闭包与适应的争论",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "cc_p1",
+          "label": "研究目的不是宣布唯一名称，而是找出闭包在哪些尺度成立",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.08,
+            "I": 0.12,
+            "K": 0.17,
+            "W": 0.18,
+            "P": 0.45
+          },
+          "tags": [
+            "purpose",
+            "scale",
+            "multiscale",
+            "individuality",
+            "definition_tool"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第21—23页：形态空间与尺度"
+          ],
+          "confidence": 0.82,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第21—23页：形态空间与尺度",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "information_replication",
+      "role": "信息—复制—纠错观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "heredity": 0.38,
+        "error_correction": 0.26,
+        "open_evolution": 0.24,
+        "recognition": 0.12
+      },
+      "atoms": [
+        {
+          "id": "ir_d1",
+          "label": "物理基质中的编码模式在噪声中保持低熵",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.48,
+            "I": 0.22,
+            "K": 0.14,
+            "W": 0.08,
+            "P": 0.08
+          },
+          "tags": [
+            "information",
+            "physical_substrate",
+            "entropy",
+            "error_correction",
+            "persistence"
+          ],
+          "stance": {
+            "replication_necessary": 0.75
+          },
+          "evidence": [
+            "附件第5页：信息复制与纠错"
+          ],
+          "confidence": 0.88,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第5页：信息复制与纠错",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ir_i1",
+          "label": "复制、变异、继承之间的差异关系构成谱系信息",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.1,
+            "I": 0.5,
+            "K": 0.2,
+            "W": 0.08,
+            "P": 0.12
+          },
+          "tags": [
+            "replication",
+            "variation",
+            "heredity",
+            "lineage",
+            "relation"
+          ],
+          "stance": {
+            "replication_necessary": 0.9
+          },
+          "evidence": [
+            "附件第8、28页：复制与变异"
+          ],
+          "confidence": 0.9,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第8、28页：复制与变异",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ir_k1",
+          "label": "模板复制与纠错是相近但不可等同的计算机制",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.09,
+            "I": 0.15,
+            "K": 0.54,
+            "W": 0.12,
+            "P": 0.1
+          },
+          "tags": [
+            "error_correction",
+            "replication",
+            "model_comparison",
+            "physical_substrate",
+            "uncertainty"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第5页：复制与纠错的区分"
+          ],
+          "confidence": 0.82,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第5页：复制与纠错的区分",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ir_p1",
+          "label": "用可区分实验判断信息是否产生可延续后继",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.12,
+            "I": 0.11,
+            "K": 0.22,
+            "W": 0.1,
+            "P": 0.45
+          },
+          "tags": [
+            "experimental_test",
+            "lineage",
+            "purpose",
+            "falsification",
+            "continuity"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第30页：可操作定义"
+          ],
+          "confidence": 0.8,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第30页：可操作定义",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "cognitive_agency",
+      "role": "认知—能动—内生规范观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "agency": 0.32,
+        "learning": 0.24,
+        "viability": 0.24,
+        "purpose": 0.2
+      },
+      "atoms": [
+        {
+          "id": "ca_d1",
+          "label": "系统持续感知内外差异并把不确定线索纳入状态",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.46,
+            "I": 0.24,
+            "K": 0.12,
+            "W": 0.08,
+            "P": 0.1
+          },
+          "tags": [
+            "perception",
+            "uncertainty",
+            "interaction",
+            "boundary",
+            "self_reference"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第13、30页：认知与感知"
+          ],
+          "confidence": 0.84,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第13、30页：认知与感知",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ca_i1",
+          "label": "记忆、学习、选择与行动形成自指的信息管理网络",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.08,
+            "I": 0.48,
+            "K": 0.22,
+            "W": 0.1,
+            "P": 0.12
+          },
+          "tags": [
+            "memory",
+            "learning",
+            "agency",
+            "self_reference",
+            "active_information"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第13、23页：认知作为主动信息管理"
+          ],
+          "confidence": 0.9,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第13、23页：认知作为主动信息管理",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ca_k1",
+          "label": "行为同时依赖外部情境、内部状态与历史",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.08,
+            "I": 0.16,
+            "K": 0.53,
+            "W": 0.13,
+            "P": 0.1
+          },
+          "tags": [
+            "history",
+            "context",
+            "agency",
+            "causal_model",
+            "adaptation"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第32页：情境与历史依赖"
+          ],
+          "confidence": 0.87,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第32页：情境与历史依赖",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ca_p1",
+          "label": "生命性目的必须由系统自身可生存条件生成并可修订",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.06,
+            "I": 0.1,
+            "K": 0.18,
+            "W": 0.18,
+            "P": 0.48
+          },
+          "tags": [
+            "intrinsic_goal",
+            "purpose",
+            "viability",
+            "homeostasis",
+            "rule_change"
+          ],
+          "stance": {
+            "external_goal_sufficient": -0.85
+          },
+          "evidence": [
+            "附件第9、16页：内生目的与反向塑形"
+          ],
+          "confidence": 0.89,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第9、16页：内生目的与反向塑形",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "observer_relational",
+      "role": "观察者参与—互相塑形观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "intersubjectivity": 0.34,
+        "mutuality": 0.28,
+        "anti_reduction": 0.2,
+        "ethics": 0.18
+      },
+      "atoms": [
+        {
+          "id": "or_d1",
+          "label": "任何测量都由观察能力、尺度和切分方式共同产生",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.49,
+            "I": 0.22,
+            "K": 0.12,
+            "W": 0.09,
+            "P": 0.08
+          },
+          "tags": [
+            "observer_relative",
+            "measurement",
+            "scale",
+            "observer_boundary",
+            "subjectivity"
+          ],
+          "stance": {
+            "observer_relative": 1.0,
+            "binary_life": -0.5
+          },
+          "evidence": [
+            "附件第2—3、24—26页：观察者相对性"
+          ],
+          "confidence": 0.88,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第2—3、24—26页：观察者相对性",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "or_i1",
+          "label": "观察者与对象相互作为程序和数据，关系可双向反转",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.07,
+            "I": 0.52,
+            "K": 0.18,
+            "W": 0.11,
+            "P": 0.12
+          },
+          "tags": [
+            "mutual_transformation",
+            "interaction",
+            "program_data_symmetry",
+            "push_back",
+            "relation"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第17—18页：程序—数据镜像与相互作用"
+          ],
+          "confidence": 0.91,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第17—18页：程序—数据镜像与相互作用",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "or_w1",
+          "label": "把对象固定为被定义者会抹除其反向改变观察者的能力",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.07,
+            "I": 0.12,
+            "K": 0.16,
+            "W": 0.51,
+            "P": 0.14
+          },
+          "tags": [
+            "subjectivity",
+            "mutual_vulnerability",
+            "ethics",
+            "concept_projection_loss",
+            "push_back"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第18—19页：相互脆弱与定义边界"
+          ],
+          "confidence": 0.86,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第18—19页：相互脆弱与定义边界",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "or_p1",
+          "label": "定义应成为可修改的关系契约而非观察者的终局命名",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.06,
+            "I": 0.11,
+            "K": 0.16,
+            "W": 0.16,
+            "P": 0.51
+          },
+          "tags": [
+            "semantic_contract",
+            "purpose",
+            "observer_relative",
+            "definition_tool",
+            "revision"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第18—20页：主观定义与互动"
+          ],
+          "confidence": 0.87,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第18—20页：主观定义与互动",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "morphospace_pluralist",
+      "role": "形态空间—多元相位观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "mapping": 0.32,
+        "pluralism": 0.28,
+        "discovery": 0.26,
+        "classification": 0.14
+      },
+      "atoms": [
+        {
+          "id": "mp_d1",
+          "label": "把生物、病毒、人工系统与耗散结构放入同一候选样本集",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.51,
+            "I": 0.19,
+            "K": 0.12,
+            "W": 0.08,
+            "P": 0.1
+          },
+          "tags": [
+            "morphospace",
+            "candidate_set",
+            "pluralism",
+            "continuum",
+            "substrate_neutral"
+          ],
+          "stance": {
+            "cellular_only": -0.75,
+            "binary_life": -0.9
+          },
+          "evidence": [
+            "附件第21—23页：形态空间样本"
+          ],
+          "confidence": 0.86,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第21—23页：形态空间样本",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "mp_i1",
+          "label": "轴之间的相关、空白区和相变面比单一标签更有信息",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.08,
+            "I": 0.55,
+            "K": 0.17,
+            "W": 0.09,
+            "P": 0.11
+          },
+          "tags": [
+            "morphospace",
+            "gaps",
+            "phase_transition",
+            "relation",
+            "concept_projection_loss"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第21—23页：轴、空白区和相变面"
+          ],
+          "confidence": 0.92,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第21—23页：轴、空白区和相变面",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "mp_k1",
+          "label": "生命性可能是多维连续分布而不是单一必要充分条件",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.06,
+            "I": 0.15,
+            "K": 0.56,
+            "W": 0.12,
+            "P": 0.11
+          },
+          "tags": [
+            "continuum",
+            "pluralism",
+            "multi_dimensional",
+            "model_comparison",
+            "definition_tool"
+          ],
+          "stance": {
+            "binary_life": -1.0
+          },
+          "evidence": [
+            "附件第20—22、28页：连续性与多维性"
+          ],
+          "confidence": 0.88,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第20—22、28页：连续性与多维性",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "mp_p1",
+          "label": "分类目的决定选择哪些轴，但轴应允许被新样本扩展",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.05,
+            "I": 0.1,
+            "K": 0.17,
+            "W": 0.15,
+            "P": 0.53
+          },
+          "tags": [
+            "purpose",
+            "context",
+            "open_space",
+            "new_dimension",
+            "revision"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第22—23、27页：开放状态空间"
+          ],
+          "confidence": 0.84,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第22—23、27页：开放状态空间",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "cellular_exceptionalist",
+      "role": "细胞例外论—客观边界观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "clear_boundary": 0.34,
+        "biochemical_origin": 0.3,
+        "objective_test": 0.24,
+        "classification": 0.12
+      },
+      "atoms": [
+        {
+          "id": "ce_d1",
+          "label": "兴奋性细胞膜给出内部主体与外部环境的物理边界",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.54,
+            "I": 0.2,
+            "K": 0.12,
+            "W": 0.06,
+            "P": 0.08
+          },
+          "tags": [
+            "cellular_only",
+            "membrane",
+            "boundary",
+            "biochemistry",
+            "subject_object"
+          ],
+          "stance": {
+            "cellular_only": 1.0,
+            "binary_life": 0.95,
+            "observer_relative": -0.8,
+            "substrate_neutral": -0.9
+          },
+          "evidence": [
+            "附件第10、23页：细胞生命观点"
+          ],
+          "confidence": 0.9,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第10、23页：细胞生命观点",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ce_i1",
+          "label": "病毒在细胞内外呈现不同生命关系，应视为临界或派生",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.09,
+            "I": 0.52,
+            "K": 0.19,
+            "W": 0.1,
+            "P": 0.1
+          },
+          "tags": [
+            "virus",
+            "liminal",
+            "host_dependency",
+            "relation",
+            "boundary"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第3页：病毒临界性"
+          ],
+          "confidence": 0.84,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第3页：病毒临界性",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ce_k1",
+          "label": "水、碳、膜生物能和核心代谢可能强烈约束生命起源",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.08,
+            "I": 0.14,
+            "K": 0.57,
+            "W": 0.1,
+            "P": 0.11
+          },
+          "tags": [
+            "biochemistry",
+            "carbon",
+            "water",
+            "membrane",
+            "origin"
+          ],
+          "stance": {
+            "substrate_neutral": -0.75
+          },
+          "evidence": [
+            "附件第6—7页：地球生命化学约束"
+          ],
+          "confidence": 0.86,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第6—7页：地球生命化学约束",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "ce_w1",
+          "label": "跨基质类比不能替代对真正自维持细胞组织的实验证据",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.07,
+            "I": 0.11,
+            "K": 0.17,
+            "W": 0.52,
+            "P": 0.13
+          },
+          "tags": [
+            "evidence",
+            "experimental_test",
+            "cellular_only",
+            "false_positive",
+            "operational_boundary"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第9—10页：例外论与证据边界"
+          ],
+          "confidence": 0.83,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第9—10页：例外论与证据边界",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "open_evolution_rule_change",
+      "role": "开放演化—规则自修改观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "open_evolution": 0.34,
+        "novelty": 0.28,
+        "rule_change": 0.24,
+        "future_space": 0.14
+      },
+      "atoms": [
+        {
+          "id": "oe_d1",
+          "label": "观察系统不仅改变状态，还改变可观察变量和状态空间",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.45,
+            "I": 0.23,
+            "K": 0.14,
+            "W": 0.07,
+            "P": 0.11
+          },
+          "tags": [
+            "open_space",
+            "state_space_change",
+            "novelty",
+            "meta_dynamics",
+            "measurement"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第27页：动态扩展状态空间"
+          ],
+          "confidence": 0.86,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第27页：动态扩展状态空间",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "oe_i1",
+          "label": "程序与数据、过程与对象在生命中互相进入并共同改写",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.06,
+            "I": 0.54,
+            "K": 0.19,
+            "W": 0.09,
+            "P": 0.12
+          },
+          "tags": [
+            "program_data_symmetry",
+            "process_object",
+            "self_reference",
+            "mutual_transformation",
+            "relation"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第14—18页：程序数据不可分离"
+          ],
+          "confidence": 0.91,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第14—18页：程序数据不可分离",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "oe_k1",
+          "label": "开放演化要求系统参与创造变异、选择、继承和个体化规则",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.06,
+            "I": 0.14,
+            "K": 0.57,
+            "W": 0.1,
+            "P": 0.13
+          },
+          "tags": [
+            "open_evolution",
+            "rule_change",
+            "self_modification",
+            "individuality",
+            "lineage"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第15—17页：改变自身适应规则"
+          ],
+          "confidence": 0.93,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第15—17页：改变自身适应规则",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "oe_p1",
+          "label": "目标本身必须能够分裂、合并、拒绝和产生新问题空间",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.04,
+            "I": 0.09,
+            "K": 0.15,
+            "W": 0.14,
+            "P": 0.58
+          },
+          "tags": [
+            "purpose",
+            "purpose_revision",
+            "rule_change",
+            "new_dimension",
+            "meta_dynamics"
+          ],
+          "stance": {
+            "external_goal_sufficient": -0.95
+          },
+          "evidence": [
+            "附件第16—17、27页：目的与规则自修改"
+          ],
+          "confidence": 0.92,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第16—17、27页：目的与规则自修改",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "context_definition_tools",
+      "role": "语境化定义—可证伪工具观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "problem_solving": 0.34,
+        "falsification": 0.26,
+        "auditability": 0.24,
+        "pluralism": 0.16
+      },
+      "atoms": [
+        {
+          "id": "cd_d1",
+          "label": "每项定义必须绑定任务、样本、测量能力和失败案例",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.5,
+            "I": 0.2,
+            "K": 0.12,
+            "W": 0.08,
+            "P": 0.1
+          },
+          "tags": [
+            "definition_tool",
+            "context",
+            "measurement",
+            "falsification",
+            "provenance"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第34—35页：定义是工具"
+          ],
+          "confidence": 0.89,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第34—35页：定义是工具",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "cd_i1",
+          "label": "同一个词在不同任务下可对应不同但可对齐的操作边界",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.08,
+            "I": 0.52,
+            "K": 0.19,
+            "W": 0.1,
+            "P": 0.11
+          },
+          "tags": [
+            "context",
+            "operational_boundary",
+            "semantic_contract",
+            "pluralism",
+            "relation"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第30、34页：上下文特定定义"
+          ],
+          "confidence": 0.86,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第30、34页：上下文特定定义",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "cd_k1",
+          "label": "任何候选定义都应记录反例、遗漏和不可翻译残差",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.06,
+            "I": 0.14,
+            "K": 0.55,
+            "W": 0.14,
+            "P": 0.11
+          },
+          "tags": [
+            "residual",
+            "counterexample",
+            "falsification",
+            "semantic_loss",
+            "uncertainty"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第20—23、27页：空白区与未决"
+          ],
+          "confidence": 0.9,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第20—23、27页：空白区与未决",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "cd_p1",
+          "label": "系统输出应是可审计语义包而非唯一最终定义",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.05,
+            "I": 0.1,
+            "K": 0.16,
+            "W": 0.16,
+            "P": 0.53
+          },
+          "tags": [
+            "semantic_bundle",
+            "purpose",
+            "definition_tool",
+            "auditability",
+            "revision"
+          ],
+          "stance": {},
+          "evidence": [
+            "基于附件整体争论的系统化推导"
+          ],
+          "confidence": 0.94,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "基于附件整体争论的系统化推导",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    },
+    {
+      "observer": "phenomenology_purpose",
+      "role": "目的—价值—体验开放观点",
+      "context": "生命定义与跨基质判定",
+      "purpose_profile": {
+        "intrinsic_goal": 0.32,
+        "value": 0.24,
+        "preservation": 0.22,
+        "cross_substrate": 0.22
+      },
+      "atoms": [
+        {
+          "id": "pp_d1",
+          "label": "系统对威胁、资源和内部偏离的差异反应可被观测",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.48,
+            "I": 0.22,
+            "K": 0.12,
+            "W": 0.09,
+            "P": 0.09
+          },
+          "tags": [
+            "viability",
+            "homeostasis",
+            "perception",
+            "intrinsic_goal",
+            "self_maintenance"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第9、32页：保存驱力与内部状态"
+          ],
+          "confidence": 0.83,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第9、32页：保存驱力与内部状态",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "pp_i1",
+          "label": "价值由系统与世界互动中哪些差异能改变持续存在而生成",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.07,
+            "I": 0.48,
+            "K": 0.18,
+            "W": 0.17,
+            "P": 0.1
+          },
+          "tags": [
+            "value",
+            "interaction",
+            "viability",
+            "relation",
+            "agency"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第23、32页：差异产生因果价值"
+          ],
+          "confidence": 0.86,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第23、32页：差异产生因果价值",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "pp_w1",
+          "label": "潜在体验、相互脆弱和生态关系不能被功能总分抹平",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.06,
+            "I": 0.11,
+            "K": 0.16,
+            "W": 0.55,
+            "P": 0.12
+          },
+          "tags": [
+            "phenomenology",
+            "mutual_vulnerability",
+            "ethics",
+            "welfare",
+            "pluralism"
+          ],
+          "stance": {},
+          "evidence": [
+            "附件第9、18—19页：体验与相互脆弱"
+          ],
+          "confidence": 0.82,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第9、18—19页：体验与相互脆弱",
+          "metadata": {
+            "paraphrased": true
+          }
+        },
+        {
+          "id": "pp_p1",
+          "label": "生命候选可存在于现实或虚拟基质，但目的应体现内生保持与开放变化",
+          "context": "生命定义与跨基质判定",
+          "type_weights": {
+            "D": 0.05,
+            "I": 0.09,
+            "K": 0.16,
+            "W": 0.15,
+            "P": 0.55
+          },
+          "tags": [
+            "substrate_neutral",
+            "digital_life",
+            "intrinsic_goal",
+            "open_evolution",
+            "purpose"
+          ],
+          "stance": {
+            "cellular_only": -0.85,
+            "substrate_neutral": 0.95
+          },
+          "evidence": [
+            "附件第9、28、32页：非生物与虚拟生命开放性"
+          ],
+          "confidence": 0.88,
+          "modality": "text",
+          "scale": "multi-scale",
+          "time": "2026",
+          "source": "附件第9、28、32页：非生物与虚拟生命开放性",
+          "metadata": {
+            "paraphrased": true
+          }
+        }
+      ]
+    }
+  ],
+  "transformations": [
+    {
+      "id": "t_dd",
+      "source_atoms": [
+        "met_d1"
+      ],
+      "target_atoms": [
+        "cc_d1"
+      ],
+      "source_type": "D",
+      "target_type": "D",
+      "operator": "re-observe",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.45,
+      "semantic_loss": 0.08,
+      "evidence_delta": 0.17,
+      "reversibility": 0.9,
+      "purpose_shift": 0,
+      "notes": "Re-sample, calibrate, denoise, aggregate, or change measurement granularity.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_di",
+      "source_atoms": [
+        "ir_d1"
+      ],
+      "target_atoms": [
+        "met_i1"
+      ],
+      "source_type": "D",
+      "target_type": "I",
+      "operator": "differentiate",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.537,
+      "semantic_loss": 0.16,
+      "evidence_delta": 0.16,
+      "reversibility": 0.78,
+      "purpose_shift": 0,
+      "notes": "Extract distinctions, regularities, contrasts, and context-dependent relations from observations.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_dk",
+      "source_atoms": [
+        "ca_d1"
+      ],
+      "target_atoms": [
+        "met_k1"
+      ],
+      "source_type": "D",
+      "target_type": "K",
+      "operator": "abduce-model",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.607,
+      "semantic_loss": 0.34,
+      "evidence_delta": 0.096,
+      "reversibility": 0.42,
+      "purpose_shift": 0,
+      "notes": "Generate causal or generative hypotheses directly from observations while exposing assumptions.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_dw",
+      "source_atoms": [
+        "or_d1"
+      ],
+      "target_atoms": [
+        "met_w1"
+      ],
+      "source_type": "D",
+      "target_type": "W",
+      "operator": "salience-evaluate",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.573,
+      "semantic_loss": 0.42,
+      "evidence_delta": 0.104,
+      "reversibility": 0.35,
+      "purpose_shift": 0,
+      "notes": "Assess immediate welfare, risk, or value relevance of observations without assuming a final theory.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_dp",
+      "source_atoms": [
+        "mp_d1"
+      ],
+      "target_atoms": [
+        "cc_p1"
+      ],
+      "source_type": "D",
+      "target_type": "P",
+      "operator": "purpose-infer",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.59,
+      "semantic_loss": 0.55,
+      "evidence_delta": 0.076,
+      "reversibility": 0.25,
+      "purpose_shift": 0.12,
+      "notes": "Infer candidate purposes or demands from observed behavior, with a high risk of projection.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_id",
+      "source_atoms": [
+        "cc_i1"
+      ],
+      "target_atoms": [
+        "ce_d1"
+      ],
+      "source_type": "I",
+      "target_type": "D",
+      "operator": "operationalize",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.537,
+      "semantic_loss": 0.2,
+      "evidence_delta": 0.136,
+      "reversibility": 0.7,
+      "purpose_shift": 0,
+      "notes": "Turn a relation or distinction into measurable variables, probes, and observations.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_ii",
+      "source_atoms": [
+        "ir_i1"
+      ],
+      "target_atoms": [
+        "ca_i1"
+      ],
+      "source_type": "I",
+      "target_type": "I",
+      "operator": "re-segment",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.573,
+      "semantic_loss": 0.12,
+      "evidence_delta": 0.164,
+      "reversibility": 0.82,
+      "purpose_shift": 0,
+      "notes": "Reframe, regroup, compress, or expand relational structure under another context.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_ik",
+      "source_atoms": [
+        "or_i1"
+      ],
+      "target_atoms": [
+        "cc_k1"
+      ],
+      "source_type": "I",
+      "target_type": "K",
+      "operator": "generalize",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.611,
+      "semantic_loss": 0.28,
+      "evidence_delta": 0.116,
+      "reversibility": 0.48,
+      "purpose_shift": 0,
+      "notes": "Build explanatory, predictive, or causal models from relational patterns.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_iw",
+      "source_atoms": [
+        "mp_i1"
+      ],
+      "target_atoms": [
+        "or_w1"
+      ],
+      "source_type": "I",
+      "target_type": "W",
+      "operator": "consequence-map",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.583,
+      "semantic_loss": 0.35,
+      "evidence_delta": 0.124,
+      "reversibility": 0.42,
+      "purpose_shift": 0,
+      "notes": "Translate patterns into value, risk, fairness, resilience, or long-term consequence structures.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_ip",
+      "source_atoms": [
+        "ce_i1"
+      ],
+      "target_atoms": [
+        "ir_p1"
+      ],
+      "source_type": "I",
+      "target_type": "P",
+      "operator": "question-form",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.632,
+      "semantic_loss": 0.32,
+      "evidence_delta": 0.14,
+      "reversibility": 0.55,
+      "purpose_shift": 0.12,
+      "notes": "Transform detected differences into questions, goals, or intervention candidates.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_kd",
+      "source_atoms": [
+        "ir_k1"
+      ],
+      "target_atoms": [
+        "oe_d1"
+      ],
+      "source_type": "K",
+      "target_type": "D",
+      "operator": "predict-test",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.534,
+      "semantic_loss": 0.18,
+      "evidence_delta": 0.16,
+      "reversibility": 0.76,
+      "purpose_shift": 0,
+      "notes": "Derive observable predictions and discriminating experiments from a model.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_ki",
+      "source_atoms": [
+        "ca_k1"
+      ],
+      "target_atoms": [
+        "oe_i1"
+      ],
+      "source_type": "K",
+      "target_type": "I",
+      "operator": "derive-signature",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.527,
+      "semantic_loss": 0.15,
+      "evidence_delta": 0.17,
+      "reversibility": 0.8,
+      "purpose_shift": 0,
+      "notes": "Extract relational signatures, implications, and compressed explanations from knowledge.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_kk",
+      "source_atoms": [
+        "mp_k1"
+      ],
+      "target_atoms": [
+        "ce_k1"
+      ],
+      "source_type": "K",
+      "target_type": "K",
+      "operator": "model-revise",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.639,
+      "semantic_loss": 0.14,
+      "evidence_delta": 0.144,
+      "reversibility": 0.65,
+      "purpose_shift": 0,
+      "notes": "Integrate, split, negate, analogize, or revise models while retaining provenance.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_kw",
+      "source_atoms": [
+        "oe_k1"
+      ],
+      "target_atoms": [
+        "ce_w1"
+      ],
+      "source_type": "K",
+      "target_type": "W",
+      "operator": "implication-audit",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.59,
+      "semantic_loss": 0.24,
+      "evidence_delta": 0.13,
+      "reversibility": 0.54,
+      "purpose_shift": 0,
+      "notes": "Evaluate model consequences, trade-offs, distributional effects, and unknown risks.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_kp",
+      "source_atoms": [
+        "cd_k1"
+      ],
+      "target_atoms": [
+        "ca_p1"
+      ],
+      "source_type": "K",
+      "target_type": "P",
+      "operator": "goal-design",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.607,
+      "semantic_loss": 0.28,
+      "evidence_delta": 0.136,
+      "reversibility": 0.52,
+      "purpose_shift": 0.12,
+      "notes": "Formulate controllable objectives, experiments, or commitments from a knowledge model.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_wd",
+      "source_atoms": [
+        "pp_w1"
+      ],
+      "target_atoms": [
+        "cd_d1"
+      ],
+      "source_type": "W",
+      "target_type": "D",
+      "operator": "value-directed-observe",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.555,
+      "semantic_loss": 0.22,
+      "evidence_delta": 0.15,
+      "reversibility": 0.68,
+      "purpose_shift": 0,
+      "notes": "Select observations required by safety, justice, welfare, or reversibility concerns.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_wi",
+      "source_atoms": [
+        "met_w1"
+      ],
+      "target_atoms": [
+        "cd_i1"
+      ],
+      "source_type": "W",
+      "target_type": "I",
+      "operator": "value-reweight",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.583,
+      "semantic_loss": 0.2,
+      "evidence_delta": 0.156,
+      "reversibility": 0.66,
+      "purpose_shift": 0,
+      "notes": "Change which distinctions matter under different affected parties and horizons.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_wk",
+      "source_atoms": [
+        "or_w1"
+      ],
+      "target_atoms": [
+        "met_k1"
+      ],
+      "source_type": "W",
+      "target_type": "K",
+      "operator": "normative-model-select",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.597,
+      "semantic_loss": 0.31,
+      "evidence_delta": 0.11,
+      "reversibility": 0.45,
+      "purpose_shift": 0,
+      "notes": "Select, constrain, or challenge explanatory models using explicit values and harms.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_ww",
+      "source_atoms": [
+        "ce_w1"
+      ],
+      "target_atoms": [
+        "pp_w1"
+      ],
+      "source_type": "W",
+      "target_type": "W",
+      "operator": "value-negotiate",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.632,
+      "semantic_loss": 0.18,
+      "evidence_delta": 0.132,
+      "reversibility": 0.56,
+      "purpose_shift": 0,
+      "notes": "Expose conflicts among values, stakeholders, time horizons, and scales without forced consensus.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_wp",
+      "source_atoms": [
+        "met_w1"
+      ],
+      "target_atoms": [
+        "or_p1"
+      ],
+      "source_type": "W",
+      "target_type": "P",
+      "operator": "commit",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.569,
+      "semantic_loss": 0.21,
+      "evidence_delta": 0.148,
+      "reversibility": 0.6,
+      "purpose_shift": 0.12,
+      "notes": "Convert evaluated trade-offs into bounded purposes, duties, prohibitions, or exit conditions.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_pd",
+      "source_atoms": [
+        "mp_p1"
+      ],
+      "target_atoms": [
+        "pp_d1"
+      ],
+      "source_type": "P",
+      "target_type": "D",
+      "operator": "purpose-select-observation",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.548,
+      "semantic_loss": 0.24,
+      "evidence_delta": 0.144,
+      "reversibility": 0.65,
+      "purpose_shift": -0.05,
+      "notes": "Choose what to measure, sample, or preserve in order to pursue or audit a purpose.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_pi",
+      "source_atoms": [
+        "oe_p1"
+      ],
+      "target_atoms": [
+        "pp_i1"
+      ],
+      "source_type": "P",
+      "target_type": "I",
+      "operator": "purpose-frame",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.583,
+      "semantic_loss": 0.28,
+      "evidence_delta": 0.136,
+      "reversibility": 0.57,
+      "purpose_shift": -0.05,
+      "notes": "Choose distinctions and relations relevant to a purpose while logging excluded alternatives.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_pk",
+      "source_atoms": [
+        "cd_p1"
+      ],
+      "target_atoms": [
+        "cc_k1"
+      ],
+      "source_type": "P",
+      "target_type": "K",
+      "operator": "purpose-construct-knowledge",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.625,
+      "semantic_loss": 0.4,
+      "evidence_delta": 0.1,
+      "reversibility": 0.38,
+      "purpose_shift": -0.05,
+      "notes": "Select or construct models needed for a purpose, with explicit risk of motivated reasoning.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_pw",
+      "source_atoms": [
+        "pp_p1"
+      ],
+      "target_atoms": [
+        "or_w1"
+      ],
+      "source_type": "P",
+      "target_type": "W",
+      "operator": "means-ends-audit",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.59,
+      "semantic_loss": 0.22,
+      "evidence_delta": 0.14,
+      "reversibility": 0.64,
+      "purpose_shift": -0.05,
+      "notes": "Audit whether a purpose and its means remain acceptable under consequences and other purposes.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_pp",
+      "source_atoms": [
+        "cc_p1"
+      ],
+      "target_atoms": [
+        "ir_p1"
+      ],
+      "source_type": "P",
+      "target_type": "P",
+      "operator": "purpose-transform",
+      "observer": "mesh2_system",
+      "context": "life_semantic_bundle",
+      "semantic_gain": 0.667,
+      "semantic_loss": 0.26,
+      "evidence_delta": 0.124,
+      "reversibility": 0.5,
+      "purpose_shift": 0.12,
+      "notes": "Split, merge, negotiate, suspend, reverse, or replace purposes and representation rights.",
+      "metadata": {
+        "primitive_operator": true,
+        "demonstration": true
+      }
+    },
+    {
+      "id": "t_meta_observer_escape",
+      "source_atoms": [
+        "or_d1",
+        "mp_i1"
+      ],
+      "target_atoms": [
+        "cd_p1",
+        "oe_p1"
+      ],
+      "source_type": "I",
+      "target_type": "P",
+      "operator": "question-form+purpose-transform",
+      "observer": "mesh2_system",
+      "context": "concept_escape",
+      "semantic_gain": 0.83,
+      "semantic_loss": 0.18,
+      "evidence_delta": 0.12,
+      "reversibility": 0.62,
+      "purpose_shift": 0.48,
+      "notes": "将观察者依赖与形态空间空白转化为“输出语义包而非单定义”的新目的。",
+      "metadata": {
+        "higher_order_path": [
+          "D->I",
+          "I->P",
+          "P->P"
+        ]
+      }
+    },
+    {
+      "id": "t_meta_rule_rewrite",
+      "source_atoms": [
+        "oe_k1",
+        "ca_p1"
+      ],
+      "target_atoms": [
+        "mp_p1",
+        "cd_k1"
+      ],
+      "source_type": "K",
+      "target_type": "K",
+      "operator": "model-revise-through-purpose-feedback",
+      "observer": "mesh2_system",
+      "context": "operator_revision",
+      "semantic_gain": 0.88,
+      "semantic_loss": 0.14,
+      "evidence_delta": 0.16,
+      "reversibility": 0.55,
+      "purpose_shift": 0.31,
+      "notes": "由开放演化与内生目的反向改写模型规则，并产生新的可证伪残差。",
+      "metadata": {
+        "higher_order_path": [
+          "K->P",
+          "P->K",
+          "K->K"
+        ]
+      }
+    }
+  ],
+  "hyperrelations": [
+    {
+      "id": "h_life_semantic_field",
+      "label": "生命高维语义场",
+      "atom_ids": [
+        "met_k1",
+        "cc_k1",
+        "ir_k1",
+        "ca_k1",
+        "or_i1",
+        "mp_k1",
+        "ce_k1",
+        "oe_k1",
+        "cd_k1",
+        "pp_i1"
+      ],
+      "relation_type": "multi_observer_field"
+    },
+    {
+      "id": "h_definition_conflict",
+      "label": "单一定义不可拼接冲突",
+      "atom_ids": [
+        "or_p1",
+        "mp_k1",
+        "ce_d1",
+        "cd_p1",
+        "pp_p1"
+      ],
+      "relation_type": "gluing_obstruction"
+    },
+    {
+      "id": "h_concept_escape",
+      "label": "概念空间逃逸候选",
+      "atom_ids": [
+        "oe_k1",
+        "oe_p1",
+        "mp_i1",
+        "mp_p1",
+        "or_w1",
+        "cd_k1"
+      ],
+      "relation_type": "new_semantic_axes"
+    },
+    {
+      "id": "h_viability_invariant",
+      "label": "跨观点可生存关系核",
+      "atom_ids": [
+        "met_k1",
+        "cc_d1",
+        "ca_p1",
+        "pp_d1"
+      ],
+      "relation_type": "candidate_invariant"
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "model": "DIKWP-MESH²",
+    "source_document": "Defining Life: A Conversation (2026)",
+    "interpretation_boundary": "演示语义工程机制，不声称给出生命的唯一终极定义。"
+  }
+}

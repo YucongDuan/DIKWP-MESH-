@@ -1,0 +1,122 @@
+{
+  "cellular_exceptionalist": {
+    "cellular_exceptionalist": 1.0,
+    "cognitive_agency": 0.021818,
+    "constraint_closure": 0.0675,
+    "context_definition_tools": 0.046452,
+    "information_replication": 0.048,
+    "metabolism_identity": 0.0675,
+    "morphospace_pluralist": 0.039746,
+    "observer_relational": 0.0225,
+    "open_evolution_rule_change": 0.021818,
+    "phenomenology_purpose": 0.021818
+  },
+  "cognitive_agency": {
+    "cellular_exceptionalist": 0.021818,
+    "cognitive_agency": 1.0,
+    "constraint_closure": 0.087273,
+    "context_definition_tools": 0.0675,
+    "information_replication": 0.045,
+    "metabolism_identity": 0.1125,
+    "morphospace_pluralist": 0.043636,
+    "observer_relational": 0.043636,
+    "open_evolution_rule_change": 0.065455,
+    "phenomenology_purpose": 0.173793
+  },
+  "constraint_closure": {
+    "cellular_exceptionalist": 0.0675,
+    "cognitive_agency": 0.087273,
+    "constraint_closure": 1.0,
+    "context_definition_tools": 0.065455,
+    "information_replication": 0.104555,
+    "metabolism_identity": 0.156764,
+    "morphospace_pluralist": 0.065455,
+    "observer_relational": 0.09,
+    "open_evolution_rule_change": 0.087273,
+    "phenomenology_purpose": 0.063529
+  },
+  "context_definition_tools": {
+    "cellular_exceptionalist": 0.046452,
+    "cognitive_agency": 0.0675,
+    "constraint_closure": 0.065455,
+    "context_definition_tools": 1.0,
+    "information_replication": 0.09931,
+    "metabolism_identity": 0.09,
+    "morphospace_pluralist": 0.201232,
+    "observer_relational": 0.154286,
+    "open_evolution_rule_change": 0.0675,
+    "phenomenology_purpose": 0.0675
+  },
+  "information_replication": {
+    "cellular_exceptionalist": 0.048,
+    "cognitive_agency": 0.045,
+    "constraint_closure": 0.104555,
+    "context_definition_tools": 0.09931,
+    "information_replication": 1.0,
+    "metabolism_identity": 0.070155,
+    "morphospace_pluralist": 0.072,
+    "observer_relational": 0.046452,
+    "open_evolution_rule_change": 0.152005,
+    "phenomenology_purpose": 0.045
+  },
+  "metabolism_identity": {
+    "cellular_exceptionalist": 0.0675,
+    "cognitive_agency": 0.1125,
+    "constraint_closure": 0.156764,
+    "context_definition_tools": 0.09,
+    "information_replication": 0.070155,
+    "metabolism_identity": 1.0,
+    "morphospace_pluralist": 0.065455,
+    "observer_relational": 0.042353,
+    "open_evolution_rule_change": 0.02,
+    "phenomenology_purpose": 0.087273
+  },
+  "morphospace_pluralist": {
+    "cellular_exceptionalist": 0.039746,
+    "cognitive_agency": 0.043636,
+    "constraint_closure": 0.065455,
+    "context_definition_tools": 0.201232,
+    "information_replication": 0.072,
+    "metabolism_identity": 0.065455,
+    "morphospace_pluralist": 1.0,
+    "observer_relational": 0.124138,
+    "open_evolution_rule_change": 0.092903,
+    "phenomenology_purpose": 0.092903
+  },
+  "observer_relational": {
+    "cellular_exceptionalist": 0.0225,
+    "cognitive_agency": 0.043636,
+    "constraint_closure": 0.09,
+    "context_definition_tools": 0.154286,
+    "information_replication": 0.046452,
+    "metabolism_identity": 0.042353,
+    "morphospace_pluralist": 0.124138,
+    "observer_relational": 1.0,
+    "open_evolution_rule_change": 0.12,
+    "phenomenology_purpose": 0.12
+  },
+  "open_evolution_rule_change": {
+    "cellular_exceptionalist": 0.021818,
+    "cognitive_agency": 0.065455,
+    "constraint_closure": 0.087273,
+    "context_definition_tools": 0.0675,
+    "information_replication": 0.152005,
+    "metabolism_identity": 0.02,
+    "morphospace_pluralist": 0.092903,
+    "observer_relational": 0.12,
+    "open_evolution_rule_change": 1.0,
+    "phenomenology_purpose": 0.065455
+  },
+  "phenomenology_purpose": {
+    "cellular_exceptionalist": 0.021818,
+    "cognitive_agency": 0.173793,
+    "constraint_closure": 0.063529,
+    "context_definition_tools": 0.0675,
+    "information_replication": 0.045,
+    "metabolism_identity": 0.087273,
+    "morphospace_pluralist": 0.092903,
+    "observer_relational": 0.12,
+    "open_evolution_rule_change": 0.065455,
+    "phenomenology_purpose": 1.0
+  }
+}

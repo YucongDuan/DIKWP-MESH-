@@ -1,0 +1,212 @@
+{
+  "D": {
+    "D": {
+      "name": "re-observe",
+      "description": "Re-sample, calibrate, denoise, aggregate, or change measurement granularity.",
+      "base_loss": 0.08,
+      "evidence_need": 0.25,
+      "reversibility": 0.9,
+      "generativity": 0.2
+    },
+    "I": {
+      "name": "differentiate",
+      "description": "Extract distinctions, regularities, contrasts, and context-dependent relations from observations.",
+      "base_loss": 0.16,
+      "evidence_need": 0.3,
+      "reversibility": 0.78,
+      "generativity": 0.45
+    },
+    "K": {
+      "name": "abduce-model",
+      "description": "Generate causal or generative hypotheses directly from observations while exposing assumptions.",
+      "base_loss": 0.34,
+      "evidence_need": 0.62,
+      "reversibility": 0.42,
+      "generativity": 0.65
+    },
+    "W": {
+      "name": "salience-evaluate",
+      "description": "Assess immediate welfare, risk, or value relevance of observations without assuming a final theory.",
+      "base_loss": 0.42,
+      "evidence_need": 0.58,
+      "reversibility": 0.35,
+      "generativity": 0.55
+    },
+    "P": {
+      "name": "purpose-infer",
+      "description": "Infer candidate purposes or demands from observed behavior, with a high risk of projection.",
+      "base_loss": 0.55,
+      "evidence_need": 0.72,
+      "reversibility": 0.25,
+      "generativity": 0.6
+    }
+  },
+  "I": {
+    "D": {
+      "name": "operationalize",
+      "description": "Turn a relation or distinction into measurable variables, probes, and observations.",
+      "base_loss": 0.2,
+      "evidence_need": 0.42,
+      "reversibility": 0.7,
+      "generativity": 0.45
+    },
+    "I": {
+      "name": "re-segment",
+      "description": "Reframe, regroup, compress, or expand relational structure under another context.",
+      "base_loss": 0.12,
+      "evidence_need": 0.28,
+      "reversibility": 0.82,
+      "generativity": 0.55
+    },
+    "K": {
+      "name": "generalize",
+      "description": "Build explanatory, predictive, or causal models from relational patterns.",
+      "base_loss": 0.28,
+      "evidence_need": 0.52,
+      "reversibility": 0.48,
+      "generativity": 0.66
+    },
+    "W": {
+      "name": "consequence-map",
+      "description": "Translate patterns into value, risk, fairness, resilience, or long-term consequence structures.",
+      "base_loss": 0.35,
+      "evidence_need": 0.48,
+      "reversibility": 0.42,
+      "generativity": 0.58
+    },
+    "P": {
+      "name": "question-form",
+      "description": "Transform detected differences into questions, goals, or intervention candidates.",
+      "base_loss": 0.32,
+      "evidence_need": 0.4,
+      "reversibility": 0.55,
+      "generativity": 0.72
+    }
+  },
+  "K": {
+    "D": {
+      "name": "predict-test",
+      "description": "Derive observable predictions and discriminating experiments from a model.",
+      "base_loss": 0.18,
+      "evidence_need": 0.3,
+      "reversibility": 0.76,
+      "generativity": 0.44
+    },
+    "I": {
+      "name": "derive-signature",
+      "description": "Extract relational signatures, implications, and compressed explanations from knowledge.",
+      "base_loss": 0.15,
+      "evidence_need": 0.25,
+      "reversibility": 0.8,
+      "generativity": 0.42
+    },
+    "K": {
+      "name": "model-revise",
+      "description": "Integrate, split, negate, analogize, or revise models while retaining provenance.",
+      "base_loss": 0.14,
+      "evidence_need": 0.38,
+      "reversibility": 0.65,
+      "generativity": 0.74
+    },
+    "W": {
+      "name": "implication-audit",
+      "description": "Evaluate model consequences, trade-offs, distributional effects, and unknown risks.",
+      "base_loss": 0.24,
+      "evidence_need": 0.45,
+      "reversibility": 0.54,
+      "generativity": 0.6
+    },
+    "P": {
+      "name": "goal-design",
+      "description": "Formulate controllable objectives, experiments, or commitments from a knowledge model.",
+      "base_loss": 0.28,
+      "evidence_need": 0.42,
+      "reversibility": 0.52,
+      "generativity": 0.65
+    }
+  },
+  "W": {
+    "D": {
+      "name": "value-directed-observe",
+      "description": "Select observations required by safety, justice, welfare, or reversibility concerns.",
+      "base_loss": 0.22,
+      "evidence_need": 0.35,
+      "reversibility": 0.68,
+      "generativity": 0.5
+    },
+    "I": {
+      "name": "value-reweight",
+      "description": "Change which distinctions matter under different affected parties and horizons.",
+      "base_loss": 0.2,
+      "evidence_need": 0.32,
+      "reversibility": 0.66,
+      "generativity": 0.58
+    },
+    "K": {
+      "name": "normative-model-select",
+      "description": "Select, constrain, or challenge explanatory models using explicit values and harms.",
+      "base_loss": 0.31,
+      "evidence_need": 0.55,
+      "reversibility": 0.45,
+      "generativity": 0.62
+    },
+    "W": {
+      "name": "value-negotiate",
+      "description": "Expose conflicts among values, stakeholders, time horizons, and scales without forced consensus.",
+      "base_loss": 0.18,
+      "evidence_need": 0.44,
+      "reversibility": 0.56,
+      "generativity": 0.72
+    },
+    "P": {
+      "name": "commit",
+      "description": "Convert evaluated trade-offs into bounded purposes, duties, prohibitions, or exit conditions.",
+      "base_loss": 0.21,
+      "evidence_need": 0.36,
+      "reversibility": 0.6,
+      "generativity": 0.54
+    }
+  },
+  "P": {
+    "D": {
+      "name": "purpose-select-observation",
+      "description": "Choose what to measure, sample, or preserve in order to pursue or audit a purpose.",
+      "base_loss": 0.24,
+      "evidence_need": 0.38,
+      "reversibility": 0.65,
+      "generativity": 0.48
+    },
+    "I": {
+      "name": "purpose-frame",
+      "description": "Choose distinctions and relations relevant to a purpose while logging excluded alternatives.",
+      "base_loss": 0.28,
+      "evidence_need": 0.42,
+      "reversibility": 0.57,
+      "generativity": 0.58
+    },
+    "K": {
+      "name": "purpose-construct-knowledge",
+      "description": "Select or construct models needed for a purpose, with explicit risk of motivated reasoning.",
+      "base_loss": 0.4,
+      "evidence_need": 0.6,
+      "reversibility": 0.38,
+      "generativity": 0.7
+    },
+    "W": {
+      "name": "means-ends-audit",
+      "description": "Audit whether a purpose and its means remain acceptable under consequences and other purposes.",
+      "base_loss": 0.22,
+      "evidence_need": 0.4,
+      "reversibility": 0.64,
+      "generativity": 0.6
+    },
+    "P": {
+      "name": "purpose-transform",
+      "description": "Split, merge, negotiate, suspend, reverse, or replace purposes and representation rights.",
+      "base_loss": 0.26,
+      "evidence_need": 0.48,
+      "reversibility": 0.5,
+      "generativity": 0.82
+    }
+  }
+}

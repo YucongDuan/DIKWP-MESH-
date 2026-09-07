@@ -1,0 +1,7 @@
+{
+  "name": "incorrect_dikwp_pyramid",
+  "edges": [["D", "I"], ["I", "K"], ["K", "W"], ["W", "P"]],
+  "privileged_types": ["P"],
+  "global_controllers": ["P"],
+  "concept_sources": ["single_expert"]
+}

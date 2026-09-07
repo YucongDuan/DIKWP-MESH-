@@ -1,0 +1,61 @@
+{
+  "hierarchy_leakage_score": 1.0,
+  "finding_count": 8,
+  "findings": [
+    {
+      "code": "LINEAR_PIPELINE",
+      "severity": "critical",
+      "message": "Only the D→I→K→W→P chain is implemented; this is a hierarchy, not a DIKWP network."
+    },
+    {
+      "code": "NO_FEEDBACK_CYCLES",
+      "severity": "high",
+      "message": "The graph has no directed cycle, so later semantic resources cannot revise earlier ones."
+    },
+    {
+      "code": "POOR_TRANSFORMATION_COVERAGE",
+      "severity": "high",
+      "message": "21 of 25 DIKWP×DIKWP transformation classes are absent.",
+      "examples": [
+        "W->W",
+        "W->I",
+        "W->D",
+        "W->K",
+        "P->W",
+        "P->P",
+        "P->I",
+        "P->D",
+        "P->K",
+        "I->W"
+      ]
+    },
+    {
+      "code": "PRIVILEGED_TYPE",
+      "severity": "high",
+      "message": "The following DIKWP types are treated as ontologically superior: ['P']."
+    },
+    {
+      "code": "PURPOSE_MONARCHY",
+      "severity": "high",
+      "message": "Purpose is a global controller. Full DIKWP networking requires purposes themselves to be inferred, contested, revised, and sometimes suspended."
+    },
+    {
+      "code": "SINGLE_OBSERVER_DEFINITION",
+      "severity": "high",
+      "message": "The concept is defined from one observer or authority, preventing intersubjective semantic construction."
+    },
+    {
+      "code": "PURPOSE_CANNOT_GENERATE_OTHER_TYPES",
+      "severity": "medium",
+      "message": "Purpose cannot select observations, distinctions, knowledge, or value audits."
+    },
+    {
+      "code": "PURPOSE_REVISION_BOTTLENECK",
+      "severity": "high",
+      "message": "Purpose is revisable from only ['W']; networked DIKWP should permit multiple evidential, relational, model and value routes to contest purpose."
+    }
+  ],
+  "transformation_coverage": 0.16,
+  "cycle_count": 0,
+  "verdict": "REJECT_AS_HIERARCHICAL"
+}

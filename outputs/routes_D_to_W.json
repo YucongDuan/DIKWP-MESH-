@@ -1,0 +1,152 @@
+[
+  {
+    "path": [
+      "D",
+      "W"
+    ],
+    "operators": [
+      {
+        "type": "D->W",
+        "name": "salience-evaluate",
+        "description": "Assess immediate welfare, risk, or value relevance of observations without assuming a final theory.",
+        "base_loss": 0.42,
+        "reversibility": 0.35,
+        "generativity": 0.55
+      }
+    ],
+    "hops": 1,
+    "cost": 0.5108,
+    "cumulative_loss": 0.42,
+    "path_reversibility": 0.35,
+    "path_generativity": 0.55
+  },
+  {
+    "path": [
+      "D",
+      "I",
+      "W"
+    ],
+    "operators": [
+      {
+        "type": "D->I",
+        "name": "differentiate",
+        "description": "Extract distinctions, regularities, contrasts, and context-dependent relations from observations.",
+        "base_loss": 0.16,
+        "reversibility": 0.78,
+        "generativity": 0.45
+      },
+      {
+        "type": "I->W",
+        "name": "consequence-map",
+        "description": "Translate patterns into value, risk, fairness, resilience, or long-term consequence structures.",
+        "base_loss": 0.35,
+        "reversibility": 0.42,
+        "generativity": 0.58
+      }
+    ],
+    "hops": 2,
+    "cost": 0.6436,
+    "cumulative_loss": 0.454,
+    "path_reversibility": 0.3276,
+    "path_generativity": 0.769
+  },
+  {
+    "path": [
+      "D",
+      "K",
+      "W"
+    ],
+    "operators": [
+      {
+        "type": "D->K",
+        "name": "abduce-model",
+        "description": "Generate causal or generative hypotheses directly from observations while exposing assumptions.",
+        "base_loss": 0.34,
+        "reversibility": 0.42,
+        "generativity": 0.65
+      },
+      {
+        "type": "K->W",
+        "name": "implication-audit",
+        "description": "Evaluate model consequences, trade-offs, distributional effects, and unknown risks.",
+        "base_loss": 0.24,
+        "reversibility": 0.54,
+        "generativity": 0.6
+      }
+    ],
+    "hops": 2,
+    "cost": 0.8092,
+    "cumulative_loss": 0.4984,
+    "path_reversibility": 0.2268,
+    "path_generativity": 0.86
+  },
+  {
+    "path": [
+      "D",
+      "I",
+      "P",
+      "W"
+    ],
+    "operators": [
+      {
+        "type": "D->I",
+        "name": "differentiate",
+        "description": "Extract distinctions, regularities, contrasts, and context-dependent relations from observations.",
+        "base_loss": 0.16,
+        "reversibility": 0.78,
+        "generativity": 0.45
+      },
+      {
+        "type": "I->P",
+        "name": "question-form",
+        "description": "Transform detected differences into questions, goals, or intervention candidates.",
+        "base_loss": 0.32,
+        "reversibility": 0.55,
+        "generativity": 0.72
+      },
+      {
+        "type": "P->W",
+        "name": "means-ends-audit",
+        "description": "Audit whether a purpose and its means remain acceptable under consequences and other purposes.",
+        "base_loss": 0.22,
+        "reversibility": 0.64,
+        "generativity": 0.6
+      }
+    ],
+    "hops": 3,
+    "cost": 0.878,
+    "cumulative_loss": 0.554464,
+    "path_reversibility": 0.27456,
+    "path_generativity": 0.9384
+  },
+  {
+    "path": [
+      "D",
+      "P",
+      "W"
+    ],
+    "operators": [
+      {
+        "type": "D->P",
+        "name": "purpose-infer",
+        "description": "Infer candidate purposes or demands from observed behavior, with a high risk of projection.",
+        "base_loss": 0.55,
+        "reversibility": 0.25,
+        "generativity": 0.6
+      },
+      {
+        "type": "P->W",
+        "name": "means-ends-audit",
+        "description": "Audit whether a purpose and its means remain acceptable under consequences and other purposes.",
+        "base_loss": 0.22,
+        "reversibility": 0.64,
+        "generativity": 0.6
+      }
+    ],
+    "hops": 2,
+    "cost": 0.936,
+    "cumulative_loss": 0.649,
+    "path_reversibility": 0.16,
+    "path_generativity": 0.84
+  }
+]

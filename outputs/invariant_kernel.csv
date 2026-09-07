@@ -1,0 +1,6 @@
+﻿feature,support,confidence,disagreement,observers
+relation,0.9,0.881111,0.0,cellular_exceptionalist|constraint_closure|context_definition_tools|information_replication|metabolism_identity|morphospace_pluralist|observer_relational|open_evolution_rule_change|phenomenology_purpose
+purpose,0.8,0.87,0.0,cognitive_agency|constraint_closure|context_definition_tools|information_replication|morphospace_pluralist|observer_relational|open_evolution_rule_change|phenomenology_purpose
+definition_tool,0.5,0.863333,0.0,constraint_closure|context_definition_tools|metabolism_identity|morphospace_pluralist|observer_relational
+boundary,0.4,0.871667,0.0,cellular_exceptionalist|cognitive_agency|constraint_closure|metabolism_identity
+context,0.4,0.848,0.0,cognitive_agency|context_definition_tools|metabolism_identity|morphospace_pluralist

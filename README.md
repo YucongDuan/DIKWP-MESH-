@@ -28,9 +28,29 @@ Chinese name: **DIKWP网状语义生成、跨主体概念解缚与共知演化�
 
 ## Quick start
 
+The source tree is now directly available at the repository root. The original
+ZIP is retained as a historical snapshot, not as the only way to inspect or run
+the project. For the pinned Python 3.12 reproduction environment:
+
 ```bash
-cd DIKWP_MESH2_MVP
-python -m pip install -r requirements.txt
+python -m venv .venv
+# Linux/macOS: source .venv/bin/activate
+# Windows: .venv\Scripts\activate
+python -m pip install -r requirements.lock
+python scripts/reproduce.py
+```
+
+The runner executes the test suite, regenerates semantic analysis and the offline
+dashboard, checks the negative hierarchy fixture, and compares fresh semantic
+metrics, conflicts, invariant features and transformation usage against the
+historical snapshot. Failures return a nonzero exit code; fresh logs, dependency
+versions and source hashes are stored in `.reproduction/`. Numeric comparison
+uses a stated `1e-6` tolerance. PNG existence is checked, not byte-identical image
+reproduction. No network is used after dependencies are installed.
+
+Individual commands remain available:
+
+```bash
 PYTHONPATH=src python -m dikwp_mesh2.cli analyze examples/life_semantic_bundle.json --out outputs
 PYTHONPATH=src python -m dikwp_mesh2.cli route D W --top-k 5
 PYTHONPATH=src python -m dikwp_mesh2.cli audit examples/hierarchical_spec.json --out outputs/bad_hierarchy_audit.json
@@ -38,6 +58,9 @@ PYTHONPATH=src pytest -q
 ```
 
 Open `outputs/dashboard.html` after running the analysis.
+
+See [English reproduction guide](docs/REPRODUCIBILITY.md),
+[中文说明](README_CN.md), and [archive provenance](docs/SOURCE_IMPORT.md).
 
 ## Demonstration bundle
 
@@ -66,3 +89,16 @@ The analyzer produces an auditable semantic bundle rather than a final definitio
 ## Boundaries
 
 This is a research and design prototype. It does not prove an observer-independent metaphysical truth, certify consciousness, or replace domain experts. Its purpose is to make semantic transformations, perspective dependencies, disagreements, power concentration and concept-compression losses inspectable.
+
+An "invariant kernel" here is an algorithmically mined feature set relative to
+the supplied observers, thresholds and fixture. It is not a formally proved
+universal invariant. The historical `RUN_PROOF.json` and checksum manifest are
+preserved under `docs/source-import/` and are not presented as fresh test results.
+
+## Connected research entry points
+
+- [PACT](https://github.com/YucongDuan/DIKWP-PACT-v0.1.0) supplies purpose/permission trace benchmarks.
+- [VerityWeave](https://github.com/YucongDuan/DIKWP-VERITYWEAVE-v2.0.0) supplies evidence-sensitive resilience analysis.
+- [Portfolio](https://github.com/YucongDuan) and [research homepage](https://yucong-duan-research.dikwp407.chatgpt.site) provide broader navigation.
+
+These are research-scope links, not a claim of tested API integration or endorsement.

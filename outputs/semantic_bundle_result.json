@@ -1,0 +1,4601 @@
+{
+  "concept": "生命（Life）",
+  "observer_count": 10,
+  "atom_count": 40,
+  "invariant_kernel": [
+    {
+      "semantic_feature": "relation",
+      "support": 0.9,
+      "observers": [
+        "cellular_exceptionalist",
+        "constraint_closure",
+        "context_definition_tools",
+        "information_replication",
+        "metabolism_identity",
+        "morphospace_pluralist",
+        "observer_relational",
+        "open_evolution_rule_change",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.881111,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.081111,
+        "I": 0.508889,
+        "K": 0.191111,
+        "P": 0.11,
+        "W": 0.108889
+      },
+      "type_entropy": 1.944806,
+      "example_labels": [
+        "部件持续替换而组织关系保持，构成动态身份",
+        "部分的功能由其对整体持续存在的贡献关系界定",
+        "复制、变异、继承之间的差异关系构成谱系信息",
+        "观察者与对象相互作为程序和数据，关系可双向反转"
+      ]
+    },
+    {
+      "semantic_feature": "purpose",
+      "support": 0.8,
+      "observers": [
+        "cognitive_agency",
+        "constraint_closure",
+        "context_definition_tools",
+        "information_replication",
+        "morphospace_pluralist",
+        "observer_relational",
+        "open_evolution_rule_change",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06375,
+        "I": 0.1025,
+        "K": 0.17125,
+        "P": 0.51,
+        "W": 0.1525
+      },
+      "type_entropy": 1.935178,
+      "example_labels": [
+        "研究目的不是宣布唯一名称，而是找出闭包在哪些尺度成立",
+        "用可区分实验判断信息是否产生可延续后继",
+        "生命性目的必须由系统自身可生存条件生成并可修订",
+        "定义应成为可修改的关系契约而非观察者的终局命名"
+      ]
+    },
+    {
+      "semantic_feature": "definition_tool",
+      "support": 0.5,
+      "observers": [
+        "constraint_closure",
+        "context_definition_tools",
+        "metabolism_identity",
+        "morphospace_pluralist",
+        "observer_relational"
+      ],
+      "mean_confidence": 0.863333,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.138333,
+        "I": 0.133333,
+        "K": 0.228333,
+        "P": 0.303333,
+        "W": 0.196667
+      },
+      "type_entropy": 2.252345,
+      "example_labels": [
+        "定义是否有用取决于它能否区分损伤、休眠与死亡",
+        "研究目的不是宣布唯一名称，而是找出闭包在哪些尺度成立",
+        "定义应成为可修改的关系契约而非观察者的终局命名",
+        "生命性可能是多维连续分布而不是单一必要充分条件"
+      ]
+    },
+    {
+      "semantic_feature": "boundary",
+      "support": 0.4,
+      "observers": [
+        "cellular_exceptionalist",
+        "cognitive_agency",
+        "constraint_closure",
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.871667,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.331667,
+        "I": 0.261667,
+        "K": 0.211667,
+        "P": 0.098333,
+        "W": 0.096667
+      },
+      "type_entropy": 2.163243,
+      "example_labels": [
+        "持续的能量与物质交换使组织远离平衡",
+        "选择性交换、修复和稳态共同构成可检验的生存模型",
+        "边界条件约束能量释放，并被这些过程反向生产",
+        "系统持续感知内外差异并把不确定线索纳入状态"
+      ]
+    },
+    {
+      "semantic_feature": "context",
+      "support": 0.4,
+      "observers": [
+        "cognitive_agency",
+        "context_definition_tools",
+        "metabolism_identity",
+        "morphospace_pluralist"
+      ],
+      "mean_confidence": 0.848,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.158,
+        "I": 0.22,
+        "K": 0.242,
+        "P": 0.192,
+        "W": 0.188
+      },
+      "type_entropy": 2.306947,
+      "example_labels": [
+        "定义是否有用取决于它能否区分损伤、休眠与死亡",
+        "行为同时依赖外部情境、内部状态与历史",
+        "分类目的决定选择哪些轴，但轴应允许被新样本扩展",
+        "每项定义必须绑定任务、样本、测量能力和失败案例"
+      ]
+    }
+  ],
+  "perspective_branches": [
+    {
+      "semantic_feature": "viability",
+      "support": 0.3,
+      "observers": [
+        "cognitive_agency",
+        "metabolism_identity",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.855,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1775,
+        "I": 0.2375,
+        "K": 0.24,
+        "P": 0.195,
+        "W": 0.15
+      },
+      "type_entropy": 2.299857,
+      "example_labels": [
+        "选择性交换、修复和稳态共同构成可检验的生存模型",
+        "生命性目的必须由系统自身可生存条件生成并可修订",
+        "系统对威胁、资源和内部偏离的差异反应可被观测",
+        "价值由系统与世界互动中哪些差异能改变持续存在而生成"
+      ]
+    },
+    {
+      "semantic_feature": "homeostasis",
+      "support": 0.3,
+      "observers": [
+        "cognitive_agency",
+        "metabolism_identity",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.853333,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.213333,
+        "I": 0.156667,
+        "K": 0.26,
+        "P": 0.226667,
+        "W": 0.143333
+      },
+      "type_entropy": 2.286806,
+      "example_labels": [
+        "选择性交换、修复和稳态共同构成可检验的生存模型",
+        "生命性目的必须由系统自身可生存条件生成并可修订",
+        "系统对威胁、资源和内部偏离的差异反应可被观测"
+      ]
+    },
+    {
+      "semantic_feature": "pluralism",
+      "support": 0.3,
+      "observers": [
+        "context_definition_tools",
+        "morphospace_pluralist",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.855,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1775,
+        "I": 0.2425,
+        "K": 0.2575,
+        "P": 0.11,
+        "W": 0.2125
+      },
+      "type_entropy": 2.26749,
+      "example_labels": [
+        "把生物、病毒、人工系统与耗散结构放入同一候选样本集",
+        "生命性可能是多维连续分布而不是单一必要充分条件",
+        "同一个词在不同任务下可对应不同但可对齐的操作边界",
+        "潜在体验、相互脆弱和生态关系不能被功能总分抹平"
+      ]
+    },
+    {
+      "semantic_feature": "experimental_test",
+      "support": 0.3,
+      "observers": [
+        "cellular_exceptionalist",
+        "constraint_closure",
+        "information_replication"
+      ],
+      "mean_confidence": 0.81,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.093333,
+        "I": 0.123333,
+        "K": 0.3,
+        "P": 0.233333,
+        "W": 0.25
+      },
+      "type_entropy": 2.202705,
+      "example_labels": [
+        "自生产闭包与适应闭环必须共同接受反事实检验",
+        "用可区分实验判断信息是否产生可延续后继",
+        "跨基质类比不能替代对真正自维持细胞组织的实验证据"
+      ]
+    },
+    {
+      "semantic_feature": "self_maintenance",
+      "support": 0.3,
+      "observers": [
+        "constraint_closure",
+        "metabolism_identity",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.8325,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1925,
+        "I": 0.245,
+        "K": 0.3325,
+        "P": 0.105,
+        "W": 0.125
+      },
+      "type_entropy": 2.199339,
+      "example_labels": [
+        "部件持续替换而组织关系保持，构成动态身份",
+        "选择性交换、修复和稳态共同构成可检验的生存模型",
+        "自生产闭包与适应闭环必须共同接受反事实检验",
+        "系统对威胁、资源和内部偏离的差异反应可被观测"
+      ]
+    },
+    {
+      "semantic_feature": "persistence",
+      "support": 0.3,
+      "observers": [
+        "constraint_closure",
+        "information_replication",
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.883333,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.313333,
+        "I": 0.316667,
+        "K": 0.173333,
+        "P": 0.096667,
+        "W": 0.1
+      },
+      "type_entropy": 2.146223,
+      "example_labels": [
+        "持续的能量与物质交换使组织远离平衡",
+        "部分的功能由其对整体持续存在的贡献关系界定",
+        "物理基质中的编码模式在噪声中保持低熵"
+      ]
+    },
+    {
+      "semantic_feature": "operational_boundary",
+      "support": 0.3,
+      "observers": [
+        "cellular_exceptionalist",
+        "context_definition_tools",
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.823333,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.076667,
+        "I": 0.25,
+        "K": 0.186667,
+        "P": 0.12,
+        "W": 0.366667
+      },
+      "type_entropy": 2.13388,
+      "example_labels": [
+        "定义是否有用取决于它能否区分损伤、休眠与死亡",
+        "跨基质类比不能替代对真正自维持细胞组织的实验证据",
+        "同一个词在不同任务下可对应不同但可对齐的操作边界"
+      ]
+    },
+    {
+      "semantic_feature": "uncertainty",
+      "support": 0.3,
+      "observers": [
+        "cognitive_agency",
+        "context_definition_tools",
+        "information_replication"
+      ],
+      "mean_confidence": 0.853333,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.203333,
+        "I": 0.176667,
+        "K": 0.403333,
+        "P": 0.103333,
+        "W": 0.113333
+      },
+      "type_entropy": 2.131848,
+      "example_labels": [
+        "模板复制与纠错是相近但不可等同的计算机制",
+        "系统持续感知内外差异并把不确定线索纳入状态",
+        "任何候选定义都应记录反例、遗漏和不可翻译残差"
+      ]
+    },
+    {
+      "semantic_feature": "interaction",
+      "support": 0.3,
+      "observers": [
+        "cognitive_agency",
+        "observer_relational",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.2,
+        "I": 0.413333,
+        "K": 0.16,
+        "P": 0.106667,
+        "W": 0.12
+      },
+      "type_entropy": 2.125722,
+      "example_labels": [
+        "系统持续感知内外差异并把不确定线索纳入状态",
+        "观察者与对象相互作为程序和数据，关系可双向反转",
+        "价值由系统与世界互动中哪些差异能改变持续存在而生成"
+      ]
+    },
+    {
+      "semantic_feature": "rule_change",
+      "support": 0.3,
+      "observers": [
+        "cognitive_agency",
+        "constraint_closure",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.885,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.0625,
+        "I": 0.12,
+        "K": 0.3525,
+        "P": 0.3275,
+        "W": 0.1375
+      },
+      "type_entropy": 2.068345,
+      "example_labels": [
+        "自生产闭包与适应闭环必须共同接受反事实检验",
+        "生命性目的必须由系统自身可生存条件生成并可修订",
+        "开放演化要求系统参与创造变异、选择、继承和个体化规则",
+        "目标本身必须能够分裂、合并、拒绝和产生新问题空间"
+      ]
+    },
+    {
+      "semantic_feature": "measurement",
+      "support": 0.3,
+      "observers": [
+        "context_definition_tools",
+        "observer_relational",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.876667,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.48,
+        "I": 0.216667,
+        "K": 0.126667,
+        "P": 0.096667,
+        "W": 0.08
+      },
+      "type_entropy": 1.98127,
+      "example_labels": [
+        "任何测量都由观察能力、尺度和切分方式共同产生",
+        "观察系统不仅改变状态，还改变可观察变量和状态空间",
+        "每项定义必须绑定任务、样本、测量能力和失败案例"
+      ]
+    },
+    {
+      "semantic_feature": "revision",
+      "support": 0.3,
+      "observers": [
+        "context_definition_tools",
+        "morphospace_pluralist",
+        "observer_relational"
+      ],
+      "mean_confidence": 0.883333,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.053333,
+        "I": 0.103333,
+        "K": 0.163333,
+        "P": 0.523333,
+        "W": 0.156667
+      },
+      "type_entropy": 1.898744,
+      "example_labels": [
+        "定义应成为可修改的关系契约而非观察者的终局命名",
+        "分类目的决定选择哪些轴，但轴应允许被新样本扩展",
+        "系统输出应是可审计语义包而非唯一最终定义"
+      ]
+    },
+    {
+      "semantic_feature": "scale",
+      "support": 0.2,
+      "observers": [
+        "constraint_closure",
+        "observer_relational"
+      ],
+      "mean_confidence": 0.85,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.285,
+        "I": 0.17,
+        "K": 0.145,
+        "P": 0.265,
+        "W": 0.135
+      },
+      "type_entropy": 2.252398,
+      "example_labels": [
+        "研究目的不是宣布唯一名称，而是找出闭包在哪些尺度成立",
+        "任何测量都由观察能力、尺度和切分方式共同产生"
+      ]
+    },
+    {
+      "semantic_feature": "falsification",
+      "support": 0.2,
+      "observers": [
+        "context_definition_tools",
+        "information_replication"
+      ],
+      "mean_confidence": 0.863333,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.226667,
+        "I": 0.15,
+        "K": 0.296667,
+        "P": 0.22,
+        "W": 0.106667
+      },
+      "type_entropy": 2.240982,
+      "example_labels": [
+        "用可区分实验判断信息是否产生可延续后继",
+        "每项定义必须绑定任务、样本、测量能力和失败案例",
+        "任何候选定义都应记录反例、遗漏和不可翻译残差"
+      ]
+    },
+    {
+      "semantic_feature": "open_space",
+      "support": 0.2,
+      "observers": [
+        "morphospace_pluralist",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.85,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.25,
+        "I": 0.165,
+        "K": 0.155,
+        "P": 0.32,
+        "W": 0.11
+      },
+      "type_entropy": 2.222129,
+      "example_labels": [
+        "分类目的决定选择哪些轴，但轴应允许被新样本扩展",
+        "观察系统不仅改变状态，还改变可观察变量和状态空间"
+      ]
+    },
+    {
+      "semantic_feature": "intrinsic_goal",
+      "support": 0.2,
+      "observers": [
+        "cognitive_agency",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.866667,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.196667,
+        "I": 0.136667,
+        "K": 0.153333,
+        "P": 0.373333,
+        "W": 0.14
+      },
+      "type_entropy": 2.196417,
+      "example_labels": [
+        "生命性目的必须由系统自身可生存条件生成并可修订",
+        "系统对威胁、资源和内部偏离的差异反应可被观测",
+        "生命候选可存在于现实或虚拟基质，但目的应体现内生保持与开放变化"
+      ]
+    },
+    {
+      "semantic_feature": "lineage",
+      "support": 0.2,
+      "observers": [
+        "information_replication",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.876667,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.093333,
+        "I": 0.25,
+        "K": 0.33,
+        "P": 0.233333,
+        "W": 0.093333
+      },
+      "type_entropy": 2.156386,
+      "example_labels": [
+        "复制、变异、继承之间的差异关系构成谱系信息",
+        "用可区分实验判断信息是否产生可延续后继",
+        "开放演化要求系统参与创造变异、选择、继承和个体化规则"
+      ]
+    },
+    {
+      "semantic_feature": "semantic_contract",
+      "support": 0.2,
+      "observers": [
+        "context_definition_tools",
+        "observer_relational"
+      ],
+      "mean_confidence": 0.865,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.07,
+        "I": 0.315,
+        "K": 0.175,
+        "P": 0.31,
+        "W": 0.13
+      },
+      "type_entropy": 2.140016,
+      "example_labels": [
+        "定义应成为可修改的关系契约而非观察者的终局命名",
+        "同一个词在不同任务下可对应不同但可对齐的操作边界"
+      ]
+    },
+    {
+      "semantic_feature": "concept_projection_loss",
+      "support": 0.2,
+      "observers": [
+        "morphospace_pluralist",
+        "observer_relational"
+      ],
+      "mean_confidence": 0.89,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.075,
+        "I": 0.335,
+        "K": 0.165,
+        "P": 0.125,
+        "W": 0.3
+      },
+      "type_entropy": 2.133825,
+      "example_labels": [
+        "把对象固定为被定义者会抹除其反向改变观察者的能力",
+        "轴之间的相关、空白区和相变面比单一标签更有信息"
+      ]
+    },
+    {
+      "semantic_feature": "energy_flow",
+      "support": 0.2,
+      "observers": [
+        "constraint_closure",
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.905,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.4,
+        "I": 0.23,
+        "K": 0.18,
+        "P": 0.1,
+        "W": 0.09
+      },
+      "type_entropy": 2.106593,
+      "example_labels": [
+        "持续的能量与物质交换使组织远离平衡",
+        "边界条件约束能量释放，并被这些过程反向生产"
+      ]
+    },
+    {
+      "semantic_feature": "self_reference",
+      "support": 0.2,
+      "observers": [
+        "cognitive_agency",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.883333,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.2,
+        "I": 0.42,
+        "K": 0.176667,
+        "P": 0.113333,
+        "W": 0.09
+      },
+      "type_entropy": 2.100531,
+      "example_labels": [
+        "系统持续感知内外差异并把不确定线索纳入状态",
+        "记忆、学习、选择与行动形成自指的信息管理网络",
+        "程序与数据、过程与对象在生命中互相进入并共同改写"
+      ]
+    },
+    {
+      "semantic_feature": "individuality",
+      "support": 0.2,
+      "observers": [
+        "constraint_closure",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.875,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.07,
+        "I": 0.13,
+        "K": 0.37,
+        "P": 0.29,
+        "W": 0.14
+      },
+      "type_entropy": 2.096942,
+      "example_labels": [
+        "研究目的不是宣布唯一名称，而是找出闭包在哪些尺度成立",
+        "开放演化要求系统参与创造变异、选择、继承和个体化规则"
+      ]
+    },
+    {
+      "semantic_feature": "history",
+      "support": 0.2,
+      "observers": [
+        "cognitive_agency",
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.865,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.09,
+        "I": 0.31,
+        "K": 0.375,
+        "P": 0.1,
+        "W": 0.125
+      },
+      "type_entropy": 2.07428,
+      "example_labels": [
+        "部件持续替换而组织关系保持，构成动态身份",
+        "行为同时依赖外部情境、内部状态与历史"
+      ]
+    },
+    {
+      "semantic_feature": "agency",
+      "support": 0.2,
+      "observers": [
+        "cognitive_agency",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.876667,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.076667,
+        "I": 0.373333,
+        "K": 0.31,
+        "P": 0.106667,
+        "W": 0.133333
+      },
+      "type_entropy": 2.070538,
+      "example_labels": [
+        "记忆、学习、选择与行动形成自指的信息管理网络",
+        "行为同时依赖外部情境、内部状态与历史",
+        "价值由系统与世界互动中哪些差异能改变持续存在而生成"
+      ]
+    },
+    {
+      "semantic_feature": "open_evolution",
+      "support": 0.2,
+      "observers": [
+        "open_evolution_rule_change",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.905,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.055,
+        "I": 0.115,
+        "K": 0.365,
+        "P": 0.34,
+        "W": 0.125
+      },
+      "type_entropy": 2.023872,
+      "example_labels": [
+        "开放演化要求系统参与创造变异、选择、继承和个体化规则",
+        "生命候选可存在于现实或虚拟基质，但目的应体现内生保持与开放变化"
+      ]
+    },
+    {
+      "semantic_feature": "perception",
+      "support": 0.2,
+      "observers": [
+        "cognitive_agency",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.835,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.47,
+        "I": 0.23,
+        "K": 0.12,
+        "P": 0.095,
+        "W": 0.085
+      },
+      "type_entropy": 1.991597,
+      "example_labels": [
+        "系统持续感知内外差异并把不确定线索纳入状态",
+        "系统对威胁、资源和内部偏离的差异反应可被观测"
+      ]
+    },
+    {
+      "semantic_feature": "adaptation",
+      "support": 0.2,
+      "observers": [
+        "cognitive_agency",
+        "constraint_closure"
+      ],
+      "mean_confidence": 0.835,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.085,
+        "I": 0.155,
+        "K": 0.52,
+        "P": 0.11,
+        "W": 0.13
+      },
+      "type_entropy": 1.942698,
+      "example_labels": [
+        "自生产闭包与适应闭环必须共同接受反事实检验",
+        "行为同时依赖外部情境、内部状态与历史"
+      ]
+    },
+    {
+      "semantic_feature": "ethics",
+      "support": 0.2,
+      "observers": [
+        "observer_relational",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.84,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.065,
+        "I": 0.115,
+        "K": 0.16,
+        "P": 0.13,
+        "W": 0.53
+      },
+      "type_entropy": 1.906263,
+      "example_labels": [
+        "把对象固定为被定义者会抹除其反向改变观察者的能力",
+        "潜在体验、相互脆弱和生态关系不能被功能总分抹平"
+      ]
+    },
+    {
+      "semantic_feature": "mutual_vulnerability",
+      "support": 0.2,
+      "observers": [
+        "observer_relational",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.84,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.065,
+        "I": 0.115,
+        "K": 0.16,
+        "P": 0.13,
+        "W": 0.53
+      },
+      "type_entropy": 1.906263,
+      "example_labels": [
+        "把对象固定为被定义者会抹除其反向改变观察者的能力",
+        "潜在体验、相互脆弱和生态关系不能被功能总分抹平"
+      ]
+    },
+    {
+      "semantic_feature": "mutual_transformation",
+      "support": 0.2,
+      "observers": [
+        "observer_relational",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.91,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.065,
+        "I": 0.53,
+        "K": 0.185,
+        "P": 0.12,
+        "W": 0.1
+      },
+      "type_entropy": 1.891393,
+      "example_labels": [
+        "观察者与对象相互作为程序和数据，关系可双向反转",
+        "程序与数据、过程与对象在生命中互相进入并共同改写"
+      ]
+    },
+    {
+      "semantic_feature": "program_data_symmetry",
+      "support": 0.2,
+      "observers": [
+        "observer_relational",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.91,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.065,
+        "I": 0.53,
+        "K": 0.185,
+        "P": 0.12,
+        "W": 0.1
+      },
+      "type_entropy": 1.891393,
+      "example_labels": [
+        "观察者与对象相互作为程序和数据，关系可双向反转",
+        "程序与数据、过程与对象在生命中互相进入并共同改写"
+      ]
+    },
+    {
+      "semantic_feature": "model_comparison",
+      "support": 0.2,
+      "observers": [
+        "information_replication",
+        "morphospace_pluralist"
+      ],
+      "mean_confidence": 0.85,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.075,
+        "I": 0.15,
+        "K": 0.55,
+        "P": 0.105,
+        "W": 0.12
+      },
+      "type_entropy": 1.873669,
+      "example_labels": [
+        "模板复制与纠错是相近但不可等同的计算机制",
+        "生命性可能是多维连续分布而不是单一必要充分条件"
+      ]
+    },
+    {
+      "semantic_feature": "new_dimension",
+      "support": 0.2,
+      "observers": [
+        "morphospace_pluralist",
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.88,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.045,
+        "I": 0.095,
+        "K": 0.16,
+        "P": 0.555,
+        "W": 0.145
+      },
+      "type_entropy": 1.822348,
+      "example_labels": [
+        "分类目的决定选择哪些轴，但轴应允许被新样本扩展",
+        "目标本身必须能够分裂、合并、拒绝和产生新问题空间"
+      ]
+    }
+  ],
+  "conflicts": [
+    {
+      "semantic_feature": "observer_relative",
+      "support": 0.1,
+      "observers": [
+        "observer_relational"
+      ],
+      "mean_confidence": 0.875,
+      "mean_stance": 0.1,
+      "disagreement": 0.81,
+      "type_distribution": {
+        "D": 0.275,
+        "I": 0.165,
+        "K": 0.14,
+        "P": 0.295,
+        "W": 0.125
+      },
+      "type_entropy": 2.232766,
+      "example_labels": [
+        "任何测量都由观察能力、尺度和切分方式共同产生",
+        "定义应成为可修改的关系契约而非观察者的终局命名"
+      ],
+      "positive_count": 1,
+      "negative_count": 1
+    },
+    {
+      "semantic_feature": "cellular_only",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.865,
+      "mean_stance": -0.2,
+      "disagreement": 0.721667,
+      "type_distribution": {
+        "D": 0.305,
+        "I": 0.155,
+        "K": 0.145,
+        "P": 0.105,
+        "W": 0.29
+      },
+      "type_entropy": 2.202666,
+      "example_labels": [
+        "兴奋性细胞膜给出内部主体与外部环境的物理边界",
+        "跨基质类比不能替代对真正自维持细胞组织的实验证据"
+      ],
+      "positive_count": 1,
+      "negative_count": 2
+    },
+    {
+      "semantic_feature": "substrate_neutral",
+      "support": 0.2,
+      "observers": [
+        "morphospace_pluralist",
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": -0.2,
+      "disagreement": 0.53125,
+      "type_distribution": {
+        "D": 0.28,
+        "I": 0.14,
+        "K": 0.14,
+        "P": 0.325,
+        "W": 0.115
+      },
+      "type_entropy": 2.194258,
+      "example_labels": [
+        "把生物、病毒、人工系统与耗散结构放入同一候选样本集",
+        "生命候选可存在于现实或虚拟基质，但目的应体现内生保持与开放变化"
+      ],
+      "positive_count": 1,
+      "negative_count": 2
+    }
+  ],
+  "residuals": [
+    {
+      "semantic_feature": "subjectivity",
+      "support": 0.1,
+      "observers": [
+        "observer_relational"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.28,
+        "I": 0.17,
+        "K": 0.14,
+        "P": 0.11,
+        "W": 0.3
+      },
+      "type_entropy": 2.217294,
+      "example_labels": [
+        "任何测量都由观察能力、尺度和切分方式共同产生",
+        "把对象固定为被定义者会抹除其反向改变观察者的能力"
+      ]
+    },
+    {
+      "semantic_feature": "meta_dynamics",
+      "support": 0.1,
+      "observers": [
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.89,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.245,
+        "I": 0.16,
+        "K": 0.145,
+        "P": 0.345,
+        "W": 0.105
+      },
+      "type_entropy": 2.195211,
+      "example_labels": [
+        "观察系统不仅改变状态，还改变可观察变量和状态空间",
+        "目标本身必须能够分裂、合并、拒绝和产生新问题空间"
+      ]
+    },
+    {
+      "semantic_feature": "constraint_closure",
+      "support": 0.1,
+      "observers": [
+        "constraint_closure"
+      ],
+      "mean_confidence": 0.855,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.255,
+        "I": 0.185,
+        "K": 0.345,
+        "P": 0.11,
+        "W": 0.105
+      },
+      "type_entropy": 2.174467,
+      "example_labels": [
+        "边界条件约束能量释放，并被这些过程反向生产",
+        "自生产闭包与适应闭环必须共同接受反事实检验"
+      ]
+    },
+    {
+      "semantic_feature": "continuum",
+      "support": 0.1,
+      "observers": [
+        "morphospace_pluralist"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.285,
+        "I": 0.17,
+        "K": 0.34,
+        "P": 0.105,
+        "W": 0.1
+      },
+      "type_entropy": 2.15349,
+      "example_labels": [
+        "把生物、病毒、人工系统与耗散结构放入同一候选样本集",
+        "生命性可能是多维连续分布而不是单一必要充分条件"
+      ]
+    },
+    {
+      "semantic_feature": "error_correction",
+      "support": 0.1,
+      "observers": [
+        "information_replication"
+      ],
+      "mean_confidence": 0.85,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.285,
+        "I": 0.185,
+        "K": 0.34,
+        "P": 0.09,
+        "W": 0.1
+      },
+      "type_entropy": 2.14051,
+      "example_labels": [
+        "物理基质中的编码模式在噪声中保持低熵",
+        "模板复制与纠错是相近但不可等同的计算机制"
+      ]
+    },
+    {
+      "semantic_feature": "physical_substrate",
+      "support": 0.1,
+      "observers": [
+        "information_replication"
+      ],
+      "mean_confidence": 0.85,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.285,
+        "I": 0.185,
+        "K": 0.34,
+        "P": 0.09,
+        "W": 0.1
+      },
+      "type_entropy": 2.14051,
+      "example_labels": [
+        "物理基质中的编码模式在噪声中保持低熵",
+        "模板复制与纠错是相近但不可等同的计算机制"
+      ]
+    },
+    {
+      "semantic_feature": "push_back",
+      "support": 0.1,
+      "observers": [
+        "observer_relational"
+      ],
+      "mean_confidence": 0.885,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.07,
+        "I": 0.32,
+        "K": 0.17,
+        "P": 0.13,
+        "W": 0.31
+      },
+      "type_entropy": 2.135615,
+      "example_labels": [
+        "观察者与对象相互作为程序和数据，关系可双向反转",
+        "把对象固定为被定义者会抹除其反向改变观察者的能力"
+      ]
+    },
+    {
+      "semantic_feature": "far_from_equilibrium",
+      "support": 0.1,
+      "observers": [
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.38,
+        "I": 0.24,
+        "K": 0.18,
+        "P": 0.1,
+        "W": 0.1
+      },
+      "type_entropy": 2.134281,
+      "example_labels": [
+        "持续的能量与物质交换使组织远离平衡"
+      ]
+    },
+    {
+      "semantic_feature": "material_exchange",
+      "support": 0.1,
+      "observers": [
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.38,
+        "I": 0.24,
+        "K": 0.18,
+        "P": 0.1,
+        "W": 0.1
+      },
+      "type_entropy": 2.134281,
+      "example_labels": [
+        "持续的能量与物质交换使组织远离平衡"
+      ]
+    },
+    {
+      "semantic_feature": "biochemistry",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.88,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.31,
+        "I": 0.17,
+        "K": 0.345,
+        "P": 0.095,
+        "W": 0.08
+      },
+      "type_entropy": 2.102193,
+      "example_labels": [
+        "兴奋性细胞膜给出内部主体与外部环境的物理边界",
+        "水、碳、膜生物能和核心代谢可能强烈约束生命起源"
+      ]
+    },
+    {
+      "semantic_feature": "membrane",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.88,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.31,
+        "I": 0.17,
+        "K": 0.345,
+        "P": 0.095,
+        "W": 0.08
+      },
+      "type_entropy": 2.102193,
+      "example_labels": [
+        "兴奋性细胞膜给出内部主体与外部环境的物理边界",
+        "水、碳、膜生物能和核心代谢可能强烈约束生命起源"
+      ]
+    },
+    {
+      "semantic_feature": "morphospace",
+      "support": 0.1,
+      "observers": [
+        "morphospace_pluralist"
+      ],
+      "mean_confidence": 0.89,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.295,
+        "I": 0.37,
+        "K": 0.145,
+        "P": 0.105,
+        "W": 0.085
+      },
+      "type_entropy": 2.097944,
+      "example_labels": [
+        "把生物、病毒、人工系统与耗散结构放入同一候选样本集",
+        "轴之间的相关、空白区和相变面比单一标签更有信息"
+      ]
+    },
+    {
+      "semantic_feature": "causal_loop",
+      "support": 0.1,
+      "observers": [
+        "constraint_closure"
+      ],
+      "mean_confidence": 0.91,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.42,
+        "I": 0.22,
+        "K": 0.18,
+        "P": 0.1,
+        "W": 0.08
+      },
+      "type_entropy": 2.075229,
+      "example_labels": [
+        "边界条件约束能量释放，并被这些过程反向生产"
+      ]
+    },
+    {
+      "semantic_feature": "self_construction",
+      "support": 0.1,
+      "observers": [
+        "constraint_closure"
+      ],
+      "mean_confidence": 0.91,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.42,
+        "I": 0.22,
+        "K": 0.18,
+        "P": 0.1,
+        "W": 0.08
+      },
+      "type_entropy": 2.075229,
+      "example_labels": [
+        "边界条件约束能量释放，并被这些过程反向生产"
+      ]
+    },
+    {
+      "semantic_feature": "replication",
+      "support": 0.1,
+      "observers": [
+        "information_replication"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.095,
+        "I": 0.325,
+        "K": 0.37,
+        "P": 0.11,
+        "W": 0.1
+      },
+      "type_entropy": 2.062806,
+      "example_labels": [
+        "复制、变异、继承之间的差异关系构成谱系信息",
+        "模板复制与纠错是相近但不可等同的计算机制"
+      ]
+    },
+    {
+      "semantic_feature": "multiscale",
+      "support": 0.1,
+      "observers": [
+        "constraint_closure"
+      ],
+      "mean_confidence": 0.82,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.12,
+        "K": 0.17,
+        "P": 0.45,
+        "W": 0.18
+      },
+      "type_entropy": 2.056872,
+      "example_labels": [
+        "研究目的不是宣布唯一名称，而是找出闭包在哪些尺度成立"
+      ]
+    },
+    {
+      "semantic_feature": "continuity",
+      "support": 0.1,
+      "observers": [
+        "information_replication"
+      ],
+      "mean_confidence": 0.8,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.12,
+        "I": 0.11,
+        "K": 0.22,
+        "P": 0.45,
+        "W": 0.1
+      },
+      "type_entropy": 2.048522,
+      "example_labels": [
+        "用可区分实验判断信息是否产生可延续后继"
+      ]
+    },
+    {
+      "semantic_feature": "identity_change_parts",
+      "support": 0.1,
+      "observers": [
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1,
+        "I": 0.46,
+        "K": 0.22,
+        "P": 0.1,
+        "W": 0.12
+      },
+      "type_entropy": 2.027362,
+      "example_labels": [
+        "部件持续替换而组织关系保持，构成动态身份"
+      ]
+    },
+    {
+      "semantic_feature": "metabolism",
+      "support": 0.1,
+      "observers": [
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1,
+        "I": 0.46,
+        "K": 0.22,
+        "P": 0.1,
+        "W": 0.12
+      },
+      "type_entropy": 2.027362,
+      "example_labels": [
+        "部件持续替换而组织关系保持，构成动态身份"
+      ]
+    },
+    {
+      "semantic_feature": "healing",
+      "support": 0.1,
+      "observers": [
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.84,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1,
+        "I": 0.15,
+        "K": 0.48,
+        "P": 0.11,
+        "W": 0.16
+      },
+      "type_entropy": 2.02431,
+      "example_labels": [
+        "选择性交换、修复和稳态共同构成可检验的生存模型"
+      ]
+    },
+    {
+      "semantic_feature": "selective_exchange",
+      "support": 0.1,
+      "observers": [
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.84,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1,
+        "I": 0.15,
+        "K": 0.48,
+        "P": 0.11,
+        "W": 0.16
+      },
+      "type_entropy": 2.02431,
+      "example_labels": [
+        "选择性交换、修复和稳态共同构成可检验的生存模型"
+      ]
+    },
+    {
+      "semantic_feature": "novelty",
+      "support": 0.1,
+      "observers": [
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.45,
+        "I": 0.23,
+        "K": 0.14,
+        "P": 0.11,
+        "W": 0.07
+      },
+      "type_entropy": 2.022021,
+      "example_labels": [
+        "观察系统不仅改变状态，还改变可观察变量和状态空间"
+      ]
+    },
+    {
+      "semantic_feature": "state_space_change",
+      "support": 0.1,
+      "observers": [
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.45,
+        "I": 0.23,
+        "K": 0.14,
+        "P": 0.11,
+        "W": 0.07
+      },
+      "type_entropy": 2.022021,
+      "example_labels": [
+        "观察系统不仅改变状态，还改变可观察变量和状态空间"
+      ]
+    },
+    {
+      "semantic_feature": "dormancy",
+      "support": 0.1,
+      "observers": [
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.78,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.12,
+        "K": 0.2,
+        "P": 0.12,
+        "W": 0.48
+      },
+      "type_entropy": 1.998298,
+      "example_labels": [
+        "定义是否有用取决于它能否区分损伤、休眠与死亡"
+      ]
+    },
+    {
+      "semantic_feature": "harm",
+      "support": 0.1,
+      "observers": [
+        "metabolism_identity"
+      ],
+      "mean_confidence": 0.78,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.12,
+        "K": 0.2,
+        "P": 0.12,
+        "W": 0.48
+      },
+      "type_entropy": 1.998298,
+      "example_labels": [
+        "定义是否有用取决于它能否区分损伤、休眠与死亡"
+      ]
+    },
+    {
+      "semantic_feature": "value",
+      "support": 0.1,
+      "observers": [
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.07,
+        "I": 0.48,
+        "K": 0.18,
+        "P": 0.1,
+        "W": 0.17
+      },
+      "type_entropy": 1.988911,
+      "example_labels": [
+        "价值由系统与世界互动中哪些差异能改变持续存在而生成"
+      ]
+    },
+    {
+      "semantic_feature": "active_information",
+      "support": 0.1,
+      "observers": [
+        "cognitive_agency"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.48,
+        "K": 0.22,
+        "P": 0.12,
+        "W": 0.1
+      },
+      "type_entropy": 1.979611,
+      "example_labels": [
+        "记忆、学习、选择与行动形成自指的信息管理网络"
+      ]
+    },
+    {
+      "semantic_feature": "learning",
+      "support": 0.1,
+      "observers": [
+        "cognitive_agency"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.48,
+        "K": 0.22,
+        "P": 0.12,
+        "W": 0.1
+      },
+      "type_entropy": 1.979611,
+      "example_labels": [
+        "记忆、学习、选择与行动形成自指的信息管理网络"
+      ]
+    },
+    {
+      "semantic_feature": "memory",
+      "support": 0.1,
+      "observers": [
+        "cognitive_agency"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.48,
+        "K": 0.22,
+        "P": 0.12,
+        "W": 0.1
+      },
+      "type_entropy": 1.979611,
+      "example_labels": [
+        "记忆、学习、选择与行动形成自指的信息管理网络"
+      ]
+    },
+    {
+      "semantic_feature": "function",
+      "support": 0.1,
+      "observers": [
+        "constraint_closure"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.49,
+        "K": 0.2,
+        "P": 0.11,
+        "W": 0.12
+      },
+      "type_entropy": 1.97753,
+      "example_labels": [
+        "部分的功能由其对整体持续存在的贡献关系界定"
+      ]
+    },
+    {
+      "semantic_feature": "kantian_whole",
+      "support": 0.1,
+      "observers": [
+        "constraint_closure"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.49,
+        "K": 0.2,
+        "P": 0.11,
+        "W": 0.12
+      },
+      "type_entropy": 1.97753,
+      "example_labels": [
+        "部分的功能由其对整体持续存在的贡献关系界定"
+      ]
+    },
+    {
+      "semantic_feature": "part_whole",
+      "support": 0.1,
+      "observers": [
+        "constraint_closure"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.49,
+        "K": 0.2,
+        "P": 0.11,
+        "W": 0.12
+      },
+      "type_entropy": 1.97753,
+      "example_labels": [
+        "部分的功能由其对整体持续存在的贡献关系界定"
+      ]
+    },
+    {
+      "semantic_feature": "entropy",
+      "support": 0.1,
+      "observers": [
+        "information_replication"
+      ],
+      "mean_confidence": 0.88,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.48,
+        "I": 0.22,
+        "K": 0.14,
+        "P": 0.08,
+        "W": 0.08
+      },
+      "type_entropy": 1.96897,
+      "example_labels": [
+        "物理基质中的编码模式在噪声中保持低熵"
+      ]
+    },
+    {
+      "semantic_feature": "information",
+      "support": 0.1,
+      "observers": [
+        "information_replication"
+      ],
+      "mean_confidence": 0.88,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.48,
+        "I": 0.22,
+        "K": 0.14,
+        "P": 0.08,
+        "W": 0.08
+      },
+      "type_entropy": 1.96897,
+      "example_labels": [
+        "物理基质中的编码模式在噪声中保持低熵"
+      ]
+    },
+    {
+      "semantic_feature": "observer_boundary",
+      "support": 0.1,
+      "observers": [
+        "observer_relational"
+      ],
+      "mean_confidence": 0.88,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.49,
+        "I": 0.22,
+        "K": 0.12,
+        "P": 0.08,
+        "W": 0.09
+      },
+      "type_entropy": 1.956085,
+      "example_labels": [
+        "任何测量都由观察能力、尺度和切分方式共同产生"
+      ]
+    },
+    {
+      "semantic_feature": "heredity",
+      "support": 0.1,
+      "observers": [
+        "information_replication"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1,
+        "I": 0.5,
+        "K": 0.2,
+        "P": 0.12,
+        "W": 0.08
+      },
+      "type_entropy": 1.955154,
+      "example_labels": [
+        "复制、变异、继承之间的差异关系构成谱系信息"
+      ]
+    },
+    {
+      "semantic_feature": "provenance",
+      "support": 0.1,
+      "observers": [
+        "context_definition_tools"
+      ],
+      "mean_confidence": 0.89,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.5,
+        "I": 0.2,
+        "K": 0.12,
+        "P": 0.1,
+        "W": 0.08
+      },
+      "type_entropy": 1.955154,
+      "example_labels": [
+        "每项定义必须绑定任务、样本、测量能力和失败案例"
+      ]
+    },
+    {
+      "semantic_feature": "variation",
+      "support": 0.1,
+      "observers": [
+        "information_replication"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.1,
+        "I": 0.5,
+        "K": 0.2,
+        "P": 0.12,
+        "W": 0.08
+      },
+      "type_entropy": 1.955154,
+      "example_labels": [
+        "复制、变异、继承之间的差异关系构成谱系信息"
+      ]
+    },
+    {
+      "semantic_feature": "candidate_set",
+      "support": 0.1,
+      "observers": [
+        "morphospace_pluralist"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.51,
+        "I": 0.19,
+        "K": 0.12,
+        "P": 0.1,
+        "W": 0.08
+      },
+      "type_entropy": 1.941425,
+      "example_labels": [
+        "把生物、病毒、人工系统与耗散结构放入同一候选样本集"
+      ]
+    },
+    {
+      "semantic_feature": "evidence",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.83,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.07,
+        "I": 0.11,
+        "K": 0.17,
+        "P": 0.13,
+        "W": 0.52
+      },
+      "type_entropy": 1.926649,
+      "example_labels": [
+        "跨基质类比不能替代对真正自维持细胞组织的实验证据"
+      ]
+    },
+    {
+      "semantic_feature": "false_positive",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.83,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.07,
+        "I": 0.11,
+        "K": 0.17,
+        "P": 0.13,
+        "W": 0.52
+      },
+      "type_entropy": 1.926649,
+      "example_labels": [
+        "跨基质类比不能替代对真正自维持细胞组织的实验证据"
+      ]
+    },
+    {
+      "semantic_feature": "host_dependency",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.84,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.09,
+        "I": 0.52,
+        "K": 0.19,
+        "P": 0.1,
+        "W": 0.1
+      },
+      "type_entropy": 1.922842,
+      "example_labels": [
+        "病毒在细胞内外呈现不同生命关系，应视为临界或派生"
+      ]
+    },
+    {
+      "semantic_feature": "liminal",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.84,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.09,
+        "I": 0.52,
+        "K": 0.19,
+        "P": 0.1,
+        "W": 0.1
+      },
+      "type_entropy": 1.922842,
+      "example_labels": [
+        "病毒在细胞内外呈现不同生命关系，应视为临界或派生"
+      ]
+    },
+    {
+      "semantic_feature": "virus",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.84,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.09,
+        "I": 0.52,
+        "K": 0.19,
+        "P": 0.1,
+        "W": 0.1
+      },
+      "type_entropy": 1.922842,
+      "example_labels": [
+        "病毒在细胞内外呈现不同生命关系，应视为临界或派生"
+      ]
+    },
+    {
+      "semantic_feature": "causal_model",
+      "support": 0.1,
+      "observers": [
+        "cognitive_agency"
+      ],
+      "mean_confidence": 0.87,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.16,
+        "K": 0.53,
+        "P": 0.1,
+        "W": 0.13
+      },
+      "type_entropy": 1.914808,
+      "example_labels": [
+        "行为同时依赖外部情境、内部状态与历史"
+      ]
+    },
+    {
+      "semantic_feature": "auditability",
+      "support": 0.1,
+      "observers": [
+        "context_definition_tools"
+      ],
+      "mean_confidence": 0.94,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.05,
+        "I": 0.1,
+        "K": 0.16,
+        "P": 0.53,
+        "W": 0.16
+      },
+      "type_entropy": 1.879769,
+      "example_labels": [
+        "系统输出应是可审计语义包而非唯一最终定义"
+      ]
+    },
+    {
+      "semantic_feature": "semantic_bundle",
+      "support": 0.1,
+      "observers": [
+        "context_definition_tools"
+      ],
+      "mean_confidence": 0.94,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.05,
+        "I": 0.1,
+        "K": 0.16,
+        "P": 0.53,
+        "W": 0.16
+      },
+      "type_entropy": 1.879769,
+      "example_labels": [
+        "系统输出应是可审计语义包而非唯一最终定义"
+      ]
+    },
+    {
+      "semantic_feature": "gaps",
+      "support": 0.1,
+      "observers": [
+        "morphospace_pluralist"
+      ],
+      "mean_confidence": 0.92,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.55,
+        "K": 0.17,
+        "P": 0.11,
+        "W": 0.09
+      },
+      "type_entropy": 1.863409,
+      "example_labels": [
+        "轴之间的相关、空白区和相变面比单一标签更有信息"
+      ]
+    },
+    {
+      "semantic_feature": "phase_transition",
+      "support": 0.1,
+      "observers": [
+        "morphospace_pluralist"
+      ],
+      "mean_confidence": 0.92,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.55,
+        "K": 0.17,
+        "P": 0.11,
+        "W": 0.09
+      },
+      "type_entropy": 1.863409,
+      "example_labels": [
+        "轴之间的相关、空白区和相变面比单一标签更有信息"
+      ]
+    },
+    {
+      "semantic_feature": "counterexample",
+      "support": 0.1,
+      "observers": [
+        "context_definition_tools"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06,
+        "I": 0.14,
+        "K": 0.55,
+        "P": 0.11,
+        "W": 0.14
+      },
+      "type_entropy": 1.862414,
+      "example_labels": [
+        "任何候选定义都应记录反例、遗漏和不可翻译残差"
+      ]
+    },
+    {
+      "semantic_feature": "residual",
+      "support": 0.1,
+      "observers": [
+        "context_definition_tools"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06,
+        "I": 0.14,
+        "K": 0.55,
+        "P": 0.11,
+        "W": 0.14
+      },
+      "type_entropy": 1.862414,
+      "example_labels": [
+        "任何候选定义都应记录反例、遗漏和不可翻译残差"
+      ]
+    },
+    {
+      "semantic_feature": "semantic_loss",
+      "support": 0.1,
+      "observers": [
+        "context_definition_tools"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06,
+        "I": 0.14,
+        "K": 0.55,
+        "P": 0.11,
+        "W": 0.14
+      },
+      "type_entropy": 1.862414,
+      "example_labels": [
+        "任何候选定义都应记录反例、遗漏和不可翻译残差"
+      ]
+    },
+    {
+      "semantic_feature": "process_object",
+      "support": 0.1,
+      "observers": [
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.91,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06,
+        "I": 0.54,
+        "K": 0.19,
+        "P": 0.12,
+        "W": 0.09
+      },
+      "type_entropy": 1.858524,
+      "example_labels": [
+        "程序与数据、过程与对象在生命中互相进入并共同改写"
+      ]
+    },
+    {
+      "semantic_feature": "phenomenology",
+      "support": 0.1,
+      "observers": [
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.82,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06,
+        "I": 0.11,
+        "K": 0.16,
+        "P": 0.12,
+        "W": 0.55
+      },
+      "type_entropy": 1.858278,
+      "example_labels": [
+        "潜在体验、相互脆弱和生态关系不能被功能总分抹平"
+      ]
+    },
+    {
+      "semantic_feature": "welfare",
+      "support": 0.1,
+      "observers": [
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.82,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06,
+        "I": 0.11,
+        "K": 0.16,
+        "P": 0.12,
+        "W": 0.55
+      },
+      "type_entropy": 1.858278,
+      "example_labels": [
+        "潜在体验、相互脆弱和生态关系不能被功能总分抹平"
+      ]
+    },
+    {
+      "semantic_feature": "subject_object",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.9,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.54,
+        "I": 0.2,
+        "K": 0.12,
+        "P": 0.08,
+        "W": 0.06
+      },
+      "type_entropy": 1.846538,
+      "example_labels": [
+        "兴奋性细胞膜给出内部主体与外部环境的物理边界"
+      ]
+    },
+    {
+      "semantic_feature": "multi_dimensional",
+      "support": 0.1,
+      "observers": [
+        "morphospace_pluralist"
+      ],
+      "mean_confidence": 0.88,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06,
+        "I": 0.15,
+        "K": 0.56,
+        "P": 0.11,
+        "W": 0.12
+      },
+      "type_entropy": 1.839873,
+      "example_labels": [
+        "生命性可能是多维连续分布而不是单一必要充分条件"
+      ]
+    },
+    {
+      "semantic_feature": "digital_life",
+      "support": 0.1,
+      "observers": [
+        "phenomenology_purpose"
+      ],
+      "mean_confidence": 0.88,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.05,
+        "I": 0.09,
+        "K": 0.16,
+        "P": 0.55,
+        "W": 0.15
+      },
+      "type_entropy": 1.836685,
+      "example_labels": [
+        "生命候选可存在于现实或虚拟基质，但目的应体现内生保持与开放变化"
+      ]
+    },
+    {
+      "semantic_feature": "carbon",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.14,
+        "K": 0.57,
+        "P": 0.11,
+        "W": 0.1
+      },
+      "type_entropy": 1.833349,
+      "example_labels": [
+        "水、碳、膜生物能和核心代谢可能强烈约束生命起源"
+      ]
+    },
+    {
+      "semantic_feature": "origin",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.14,
+        "K": 0.57,
+        "P": 0.11,
+        "W": 0.1
+      },
+      "type_entropy": 1.833349,
+      "example_labels": [
+        "水、碳、膜生物能和核心代谢可能强烈约束生命起源"
+      ]
+    },
+    {
+      "semantic_feature": "water",
+      "support": 0.1,
+      "observers": [
+        "cellular_exceptionalist"
+      ],
+      "mean_confidence": 0.86,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.08,
+        "I": 0.14,
+        "K": 0.57,
+        "P": 0.11,
+        "W": 0.1
+      },
+      "type_entropy": 1.833349,
+      "example_labels": [
+        "水、碳、膜生物能和核心代谢可能强烈约束生命起源"
+      ]
+    },
+    {
+      "semantic_feature": "self_modification",
+      "support": 0.1,
+      "observers": [
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.93,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.06,
+        "I": 0.14,
+        "K": 0.57,
+        "P": 0.13,
+        "W": 0.1
+      },
+      "type_entropy": 1.817731,
+      "example_labels": [
+        "开放演化要求系统参与创造变异、选择、继承和个体化规则"
+      ]
+    },
+    {
+      "semantic_feature": "purpose_revision",
+      "support": 0.1,
+      "observers": [
+        "open_evolution_rule_change"
+      ],
+      "mean_confidence": 0.92,
+      "mean_stance": 0.0,
+      "disagreement": 0.0,
+      "type_distribution": {
+        "D": 0.04,
+        "I": 0.09,
+        "K": 0.15,
+        "P": 0.58,
+        "W": 0.14
+      },
+      "type_entropy": 1.761871,
+      "example_labels": [
+        "目标本身必须能够分裂、合并、拒绝和产生新问题空间"
+      ]
+    }
+  ],
+  "escape_candidates": [
+    {
+      "candidate_dimension": "概念投影损失",
+      "candidate_dimension_en": "concept-projection-loss",
+      "trigger_features": [
+        "context",
+        "continuum",
+        "definition_tool",
+        "morphospace",
+        "pluralism",
+        "semantic_loss"
+      ],
+      "observer_support": [
+        "cognitive_agency",
+        "constraint_closure",
+        "context_definition_tools",
+        "metabolism_identity",
+        "morphospace_pluralist",
+        "observer_relational",
+        "phenomenology_purpose"
+      ],
+      "support": 0.7,
+      "cross_DIKWP_span": [
+        "D",
+        "I",
+        "K",
+        "P",
+        "W"
+      ],
+      "tension": 0.0,
+      "escape_need": 0.665,
+      "operational_question": "把高维语义场压缩成一个词或定义时，哪些关系、尺度、冲突和可能性被系统性丢失？",
+      "status": "candidate-axis-not-a-new-definition"
+    },
+    {
+      "candidate_dimension": "尺度依赖个体化",
+      "candidate_dimension_en": "scale-dependent-individuation",
+      "trigger_features": [
+        "boundary",
+        "individuality",
+        "multiscale",
+        "observer_boundary",
+        "scale"
+      ],
+      "observer_support": [
+        "cellular_exceptionalist",
+        "cognitive_agency",
+        "constraint_closure",
+        "metabolism_identity",
+        "observer_relational",
+        "open_evolution_rule_change"
+      ],
+      "support": 0.6,
+      "cross_DIKWP_span": [
+        "D",
+        "I",
+        "K",
+        "P",
+        "W"
+      ],
+      "tension": 0.0,
+      "escape_need": 0.62,
+      "operational_question": "在细胞、个体、群体、生态或数字组织的不同尺度上，什么因果闭包使其成为可追踪的个体？",
+      "status": "candidate-axis-not-a-new-definition"
+    },
+    {
+      "candidate_dimension": "观察者参与与反向塑形",
+      "candidate_dimension_en": "observer-participation",
+      "trigger_features": [
+        "interaction",
+        "mutual_transformation",
+        "observer_relative",
+        "push_back",
+        "subjectivity"
+      ],
+      "observer_support": [
+        "cognitive_agency",
+        "observer_relational",
+        "open_evolution_rule_change",
+        "phenomenology_purpose"
+      ],
+      "support": 0.4,
+      "cross_DIKWP_span": [
+        "D",
+        "I",
+        "K",
+        "P",
+        "W"
+      ],
+      "tension": 0.162,
+      "escape_need": 0.5624,
+      "operational_question": "被评估对象是否会改变观察者的分类、测量和目的，使定义本身成为互动的一部分？",
+      "status": "candidate-axis-not-a-new-definition"
+    },
+    {
+      "candidate_dimension": "可生存规范内生性",
+      "candidate_dimension_en": "endogenous-viability-normativity",
+      "trigger_features": [
+        "agency",
+        "healing",
+        "homeostasis",
+        "intrinsic_goal",
+        "self_maintenance",
+        "viability"
+      ],
+      "observer_support": [
+        "cognitive_agency",
+        "constraint_closure",
+        "metabolism_identity",
+        "phenomenology_purpose"
+      ],
+      "support": 0.4,
+      "cross_DIKWP_span": [
+        "D",
+        "I",
+        "K",
+        "P",
+        "W"
+      ],
+      "tension": 0.0,
+      "escape_need": 0.53,
+      "operational_question": "何种状态对系统而言是由其自身组织产生的可接受或不可接受状态，而非外部评价者强加？",
+      "status": "candidate-axis-not-a-new-definition"
+    },
+    {
+      "candidate_dimension": "规则自修改能力",
+      "candidate_dimension_en": "rule-self-modification",
+      "trigger_features": [
+        "meta_dynamics",
+        "novelty",
+        "open_evolution",
+        "rule_change",
+        "self_modification"
+      ],
+      "observer_support": [
+        "cognitive_agency",
+        "constraint_closure",
+        "open_evolution_rule_change",
+        "phenomenology_purpose"
+      ],
+      "support": 0.4,
+      "cross_DIKWP_span": [
+        "D",
+        "I",
+        "K",
+        "P",
+        "W"
+      ],
+      "tension": 0.0,
+      "escape_need": 0.53,
+      "operational_question": "系统是否能够改变产生自身适应、学习、复制或定义的规则，而不只是沿既定规则优化？",
+      "status": "candidate-axis-not-a-new-definition"
+    },
+    {
+      "candidate_dimension": "基质—约束可迁移性",
+      "candidate_dimension_en": "substrate-constraint-portability",
+      "trigger_features": [
+        "constraint_closure",
+        "digital_life",
+        "substrate_neutral"
+      ],
+      "observer_support": [
+        "constraint_closure",
+        "morphospace_pluralist",
+        "phenomenology_purpose"
+      ],
+      "support": 0.3,
+      "cross_DIKWP_span": [
+        "D",
+        "I",
+        "K",
+        "P",
+        "W"
+      ],
+      "tension": 0.177083,
+      "escape_need": 0.520417,
+      "operational_question": "维持身份和功能的约束能否跨碳基、硅基、化学、机器人或虚拟基质迁移？",
+      "status": "candidate-axis-not-a-new-definition"
+    }
+  ],
+  "gluing": {
+    "global_section_status": "partial-global-section",
+    "shared_sections": [
+      {
+        "semantic_feature": "relation",
+        "support": 0.9,
+        "observer_count": 9,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "purpose",
+        "support": 0.8,
+        "observer_count": 8,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "definition_tool",
+        "support": 0.5,
+        "observer_count": 5,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "boundary",
+        "support": 0.4,
+        "observer_count": 4,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "context",
+        "support": 0.4,
+        "observer_count": 4,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      }
+    ],
+    "partial_sections": [
+      {
+        "semantic_feature": "experimental_test",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "homeostasis",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "interaction",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "measurement",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "operational_boundary",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "persistence",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "pluralism",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "revision",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "rule_change",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "self_maintenance",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "uncertainty",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "viability",
+        "support": 0.3,
+        "observer_count": 3,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "adaptation",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "agency",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "concept_projection_loss",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "energy_flow",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "ethics",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "falsification",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "history",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "individuality",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "intrinsic_goal",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "lineage",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "model_comparison",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "mutual_transformation",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "mutual_vulnerability",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "new_dimension",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "open_evolution",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "open_space",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "perception",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "program_data_symmetry",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "scale",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "self_reference",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "semantic_contract",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "substrate_neutral",
+        "support": 0.2,
+        "observer_count": 2,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 1,
+        "negative_stances": 2,
+        "contradiction": 0.333333
+      },
+      {
+        "semantic_feature": "active_information",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "auditability",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "biochemistry",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "candidate_set",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "carbon",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "causal_loop",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "causal_model",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "cellular_only",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 1,
+        "negative_stances": 2,
+        "contradiction": 0.333333
+      },
+      {
+        "semantic_feature": "constraint_closure",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "continuity",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "continuum",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "counterexample",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "digital_life",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "dormancy",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "entropy",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "error_correction",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "evidence",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "false_positive",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "far_from_equilibrium",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "function",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "gaps",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "harm",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "healing",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "heredity",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "host_dependency",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "identity_change_parts",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "information",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "kantian_whole",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "learning",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "liminal",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "material_exchange",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "membrane",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "memory",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "meta_dynamics",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "metabolism",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "morphospace",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "multi_dimensional",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "multiscale",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "novelty",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "observer_boundary",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "origin",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "part_whole",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "phase_transition",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "phenomenology",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "physical_substrate",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "process_object",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "provenance",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "purpose_revision",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "push_back",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "replication",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "residual",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "selective_exchange",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "self_construction",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "self_modification",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "semantic_bundle",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "semantic_loss",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "state_space_change",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "subject_object",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "subjectivity",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "value",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "variation",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "virus",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "water",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      },
+      {
+        "semantic_feature": "welfare",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 0,
+        "negative_stances": 0,
+        "contradiction": 0.0
+      }
+    ],
+    "obstructions": [
+      {
+        "semantic_feature": "observer_relative",
+        "support": 0.1,
+        "observer_count": 1,
+        "contexts": [
+          "生命定义与跨基质判定"
+        ],
+        "positive_stances": 1,
+        "negative_stances": 1,
+        "contradiction": 0.5
+      }
+    ],
+    "obstruction_score": 0.492916,
+    "mean_overlap_compatibility": 0.387674,
+    "interpretation": "A shared semantic kernel can be glued, but it does not erase local meanings."
+  },
+  "metrics": {
+    "mean_cross_observer_alignment": 0.388176,
+    "mean_cross_observer_compatibility": 0.387674,
+    "observer_dominance": 0.1,
+    "subjectivity_escape_score": 0.611959,
+    "concept_escape_readiness": 0.784076,
+    "transformation_type_coverage": 1.0,
+    "cross_DIKWP_atom_span": 0.6,
+    "directed_cycle_count": 1.0,
+    "gluing_obstruction_score": 0.492916
+  },
+  "transformation_usage": {
+    "D->D": 1,
+    "D->I": 1,
+    "D->K": 1,
+    "D->W": 1,
+    "D->P": 1,
+    "I->D": 1,
+    "I->I": 1,
+    "I->K": 1,
+    "I->W": 1,
+    "I->P": 2,
+    "K->D": 1,
+    "K->I": 1,
+    "K->K": 2,
+    "K->W": 1,
+    "K->P": 1,
+    "W->D": 1,
+    "W->I": 1,
+    "W->K": 1,
+    "W->W": 1,
+    "W->P": 1,
+    "P->D": 1,
+    "P->I": 1,
+    "P->K": 1,
+    "P->W": 1,
+    "P->P": 1
+  },
+  "hierarchy_audit": {
+    "hierarchy_leakage_score": 0.0,
+    "finding_count": 0,
+    "findings": [],
+    "transformation_coverage": 1.0,
+    "cycle_count": 89,
+    "verdict": "NETWORK_COMPATIBLE",
+    "type_centrality": {
+      "D": 0.170218,
+      "I": 0.222883,
+      "K": 0.246842,
+      "W": 0.157562,
+      "P": 0.202494
+    }
+  },
+  "transformation_tensor": {
+    "axes": [
+      "source_type",
+      "target_type",
+      "observer",
+      "context",
+      "time",
+      "modality",
+      "scale",
+      "provenance"
+    ],
+    "primitive_matrix": {
+      "D": {
+        "D": 1,
+        "I": 1,
+        "K": 1,
+        "W": 1,
+        "P": 1
+      },
+      "I": {
+        "D": 1,
+        "I": 1,
+        "K": 1,
+        "W": 1,
+        "P": 2
+      },
+      "K": {
+        "D": 1,
+        "I": 1,
+        "K": 2,
+        "W": 1,
+        "P": 1
+      },
+      "W": {
+        "D": 1,
+        "I": 1,
+        "K": 1,
+        "W": 1,
+        "P": 1
+      },
+      "P": {
+        "D": 1,
+        "I": 1,
+        "K": 1,
+        "W": 1,
+        "P": 1
+      }
+    },
+    "entries": [
+      {
+        "event_id": "t_dd",
+        "source_type": "D",
+        "target_type": "D",
+        "operator": "re-observe",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.45,
+        "semantic_loss": 0.08,
+        "reversibility": 0.9,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_di",
+        "source_type": "D",
+        "target_type": "I",
+        "operator": "differentiate",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.537,
+        "semantic_loss": 0.16,
+        "reversibility": 0.78,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_dk",
+        "source_type": "D",
+        "target_type": "K",
+        "operator": "abduce-model",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.607,
+        "semantic_loss": 0.34,
+        "reversibility": 0.42,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_dw",
+        "source_type": "D",
+        "target_type": "W",
+        "operator": "salience-evaluate",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.573,
+        "semantic_loss": 0.42,
+        "reversibility": 0.35,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_dp",
+        "source_type": "D",
+        "target_type": "P",
+        "operator": "purpose-infer",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.59,
+        "semantic_loss": 0.55,
+        "reversibility": 0.25,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_id",
+        "source_type": "I",
+        "target_type": "D",
+        "operator": "operationalize",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.537,
+        "semantic_loss": 0.2,
+        "reversibility": 0.7,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_ii",
+        "source_type": "I",
+        "target_type": "I",
+        "operator": "re-segment",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.573,
+        "semantic_loss": 0.12,
+        "reversibility": 0.82,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_ik",
+        "source_type": "I",
+        "target_type": "K",
+        "operator": "generalize",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.611,
+        "semantic_loss": 0.28,
+        "reversibility": 0.48,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_iw",
+        "source_type": "I",
+        "target_type": "W",
+        "operator": "consequence-map",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.583,
+        "semantic_loss": 0.35,
+        "reversibility": 0.42,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_ip",
+        "source_type": "I",
+        "target_type": "P",
+        "operator": "question-form",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.632,
+        "semantic_loss": 0.32,
+        "reversibility": 0.55,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_kd",
+        "source_type": "K",
+        "target_type": "D",
+        "operator": "predict-test",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.534,
+        "semantic_loss": 0.18,
+        "reversibility": 0.76,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_ki",
+        "source_type": "K",
+        "target_type": "I",
+        "operator": "derive-signature",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.527,
+        "semantic_loss": 0.15,
+        "reversibility": 0.8,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_kk",
+        "source_type": "K",
+        "target_type": "K",
+        "operator": "model-revise",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.639,
+        "semantic_loss": 0.14,
+        "reversibility": 0.65,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_kw",
+        "source_type": "K",
+        "target_type": "W",
+        "operator": "implication-audit",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.59,
+        "semantic_loss": 0.24,
+        "reversibility": 0.54,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_kp",
+        "source_type": "K",
+        "target_type": "P",
+        "operator": "goal-design",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.607,
+        "semantic_loss": 0.28,
+        "reversibility": 0.52,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_wd",
+        "source_type": "W",
+        "target_type": "D",
+        "operator": "value-directed-observe",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.555,
+        "semantic_loss": 0.22,
+        "reversibility": 0.68,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_wi",
+        "source_type": "W",
+        "target_type": "I",
+        "operator": "value-reweight",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.583,
+        "semantic_loss": 0.2,
+        "reversibility": 0.66,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_wk",
+        "source_type": "W",
+        "target_type": "K",
+        "operator": "normative-model-select",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.597,
+        "semantic_loss": 0.31,
+        "reversibility": 0.45,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_ww",
+        "source_type": "W",
+        "target_type": "W",
+        "operator": "value-negotiate",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.632,
+        "semantic_loss": 0.18,
+        "reversibility": 0.56,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_wp",
+        "source_type": "W",
+        "target_type": "P",
+        "operator": "commit",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.569,
+        "semantic_loss": 0.21,
+        "reversibility": 0.6,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_pd",
+        "source_type": "P",
+        "target_type": "D",
+        "operator": "purpose-select-observation",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.548,
+        "semantic_loss": 0.24,
+        "reversibility": 0.65,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_pi",
+        "source_type": "P",
+        "target_type": "I",
+        "operator": "purpose-frame",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.583,
+        "semantic_loss": 0.28,
+        "reversibility": 0.57,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_pk",
+        "source_type": "P",
+        "target_type": "K",
+        "operator": "purpose-construct-knowledge",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.625,
+        "semantic_loss": 0.4,
+        "reversibility": 0.38,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_pw",
+        "source_type": "P",
+        "target_type": "W",
+        "operator": "means-ends-audit",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.59,
+        "semantic_loss": 0.22,
+        "reversibility": 0.64,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_pp",
+        "source_type": "P",
+        "target_type": "P",
+        "operator": "purpose-transform",
+        "observer": "mesh2_system",
+        "context": "life_semantic_bundle",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.667,
+        "semantic_loss": 0.26,
+        "reversibility": 0.5,
+        "higher_order_path": []
+      },
+      {
+        "event_id": "t_meta_observer_escape",
+        "source_type": "I",
+        "target_type": "P",
+        "operator": "question-form+purpose-transform",
+        "observer": "mesh2_system",
+        "context": "concept_escape",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.83,
+        "semantic_loss": 0.18,
+        "reversibility": 0.62,
+        "higher_order_path": [
+          "D->I",
+          "I->P",
+          "P->P"
+        ]
+      },
+      {
+        "event_id": "t_meta_rule_rewrite",
+        "source_type": "K",
+        "target_type": "K",
+        "operator": "model-revise-through-purpose-feedback",
+        "observer": "mesh2_system",
+        "context": "operator_revision",
+        "scales": [
+          "multi-scale"
+        ],
+        "modalities": [
+          "text"
+        ],
+        "times": [
+          "2026"
+        ],
+        "semantic_gain": 0.88,
+        "semantic_loss": 0.14,
+        "reversibility": 0.55,
+        "higher_order_path": [
+          "K->P",
+          "P->K",
+          "K->K"
+        ]
+      }
+    ],
+    "event_count": 27,
+    "active_primitive_pairs": 25,
+    "primitive_coverage": 1.0,
+    "higher_order_event_count": 2,
+    "observer_diversity_entropy": -0.0,
+    "context_diversity_entropy": 0.455021,
+    "scale_diversity_entropy": -0.0,
+    "modality_diversity_entropy": -0.0,
+    "interpretation": "The 5×5 operator matrix is a base alphabet; actual meaning is indexed by observer, context, time, modality, scale and provenance."
+  },
+  "meta_operator_proposals": [
+    {
+      "name": "obstruction-preserving-glue",
+      "path": [
+        "I->K",
+        "K->W",
+        "W->I"
+      ],
+      "purpose": "Construct a shared model, audit its value/power effects, then return contested distinctions to the information graph instead of forcing consensus.",
+      "triggers": [
+        "observer_relative",
+        "cellular_only",
+        "substrate_neutral"
+      ],
+      "installation_status": "proposal-only",
+      "validation": "The operator is accepted only if it improves predictive coordination without reducing recorded dissent or provenance.",
+      "rollback": "Rollback when minority residual coverage falls or contradiction detection weakens."
+    },
+    {
+      "name": "residual-to-new-axis",
+      "path": [
+        "K->I",
+        "I->P",
+        "P->D",
+        "D->K"
+      ],
+      "purpose": "Convert recurring untranslatable residuals into a candidate semantic dimension, design observations for it, and test whether it explains previously disconnected cases.",
+      "triggers": [
+        "subjectivity",
+        "meta_dynamics",
+        "constraint_closure",
+        "continuum",
+        "error_correction"
+      ],
+      "installation_status": "proposal-only",
+      "validation": "Pre-register cases that the new axis must separate and cases on which it must remain neutral.",
+      "rollback": "Delete or quarantine the axis if it merely renames an existing feature or amplifies one observer's language."
+    },
+    {
+      "name": "axis-seeding::concept-projection-loss",
+      "path": [
+        "P->I",
+        "I->D",
+        "D->K",
+        "K->P"
+      ],
+      "purpose": "Operationalize the candidate dimension '概念投影损失' through measurements, models, and purpose revision.",
+      "triggers": [
+        "context",
+        "continuum",
+        "definition_tool",
+        "morphospace",
+        "pluralism",
+        "semantic_loss"
+      ],
+      "installation_status": "proposal-only",
+      "validation": "把高维语义场压缩成一个词或定义时，哪些关系、尺度、冲突和可能性被系统性丢失？",
+      "rollback": "Suspend if the dimension has low cross-observer transfer or cannot generate discriminating tests."
+    },
+    {
+      "name": "axis-seeding::scale-dependent-individuation",
+      "path": [
+        "P->I",
+        "I->D",
+        "D->K",
+        "K->P"
+      ],
+      "purpose": "Operationalize the candidate dimension '尺度依赖个体化' through measurements, models, and purpose revision.",
+      "triggers": [
+        "boundary",
+        "individuality",
+        "multiscale",
+        "observer_boundary",
+        "scale"
+      ],
+      "installation_status": "proposal-only",
+      "validation": "在细胞、个体、群体、生态或数字组织的不同尺度上，什么因果闭包使其成为可追踪的个体？",
+      "rollback": "Suspend if the dimension has low cross-observer transfer or cannot generate discriminating tests."
+    },
+    {
+      "name": "axis-seeding::observer-participation",
+      "path": [
+        "P->I",
+        "I->D",
+        "D->K",
+        "K->P"
+      ],
+      "purpose": "Operationalize the candidate dimension '观察者参与与反向塑形' through measurements, models, and purpose revision.",
+      "triggers": [
+        "interaction",
+        "mutual_transformation",
+        "observer_relative",
+        "push_back",
+        "subjectivity"
+      ],
+      "installation_status": "proposal-only",
+      "validation": "被评估对象是否会改变观察者的分类、测量和目的，使定义本身成为互动的一部分？",
+      "rollback": "Suspend if the dimension has low cross-observer transfer or cannot generate discriminating tests."
+    }
+  ],
+  "semantic_contracts": [
+    {
+      "contract": "recognition-and-classification",
+      "concept": "生命（Life）",
+      "use": "Compare candidates without asserting an observer-free essence.",
+      "minimum_shared_features": [
+        "relation",
+        "purpose",
+        "definition_tool",
+        "boundary",
+        "context"
+      ],
+      "must_report_conflicts": [
+        "observer_relative",
+        "cellular_only",
+        "substrate_neutral"
+      ],
+      "must_preserve_residuals": [
+        "subjectivity",
+        "meta_dynamics",
+        "constraint_closure",
+        "continuum",
+        "error_correction",
+        "physical_substrate"
+      ],
+      "candidate_new_axes": [
+        "概念投影损失",
+        "尺度依赖个体化",
+        "观察者参与与反向塑形",
+        "可生存规范内生性",
+        "规则自修改能力"
+      ],
+      "decision_output": [
+        "inside-operational-boundary",
+        "outside-operational-boundary",
+        "liminal",
+        "insufficient-evidence"
+      ],
+      "prohibited_output": "single metaphysical truth label"
+    },
+    {
+      "contract": "research-and-concept-escape",
+      "concept": "生命（Life）",
+      "use": "Discover missing dimensions and redesign experiments when existing concepts compress away relevant structure.",
+      "minimum_shared_features": [
+        "relation",
+        "purpose",
+        "definition_tool",
+        "boundary",
+        "context"
+      ],
+      "must_report_conflicts": [
+        "observer_relative",
+        "cellular_only",
+        "substrate_neutral"
+      ],
+      "must_preserve_residuals": [
+        "subjectivity",
+        "meta_dynamics",
+        "constraint_closure",
+        "continuum",
+        "error_correction",
+        "physical_substrate"
+      ],
+      "candidate_new_axes": [
+        "概念投影损失",
+        "尺度依赖个体化",
+        "观察者参与与反向塑形",
+        "可生存规范内生性",
+        "规则自修改能力"
+      ],
+      "decision_output": [
+        "retain-axis",
+        "split-axis",
+        "merge-axis",
+        "seed-new-axis",
+        "defer"
+      ],
+      "prohibited_output": "installing a new axis without preregistered discriminating tests"
+    },
+    {
+      "contract": "governance-and-rights",
+      "concept": "生命（Life）",
+      "use": "Make decisions while acknowledging that different operational purposes require different boundaries.",
+      "minimum_shared_features": [
+        "relation",
+        "purpose",
+        "definition_tool",
+        "boundary",
+        "context"
+      ],
+      "must_report_conflicts": [
+        "observer_relative",
+        "cellular_only",
+        "substrate_neutral"
+      ],
+      "must_preserve_residuals": [
+        "subjectivity",
+        "meta_dynamics",
+        "constraint_closure",
+        "continuum",
+        "error_correction",
+        "physical_substrate"
+      ],
+      "candidate_new_axes": [
+        "概念投影损失",
+        "尺度依赖个体化",
+        "观察者参与与反向塑形",
+        "可生存规范内生性",
+        "规则自修改能力"
+      ],
+      "decision_output": [
+        "precautionary-protection",
+        "ordinary-treatment",
+        "independent-review",
+        "no-action"
+      ],
+      "prohibited_output": "using semantic consensus as a substitute for legal authority, welfare evidence, or due process"
+    }
+  ]
+}

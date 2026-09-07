@@ -1,0 +1,120 @@
+[
+  {
+    "contract": "recognition-and-classification",
+    "concept": "生命（Life）",
+    "use": "Compare candidates without asserting an observer-free essence.",
+    "minimum_shared_features": [
+      "relation",
+      "purpose",
+      "definition_tool",
+      "boundary",
+      "context"
+    ],
+    "must_report_conflicts": [
+      "observer_relative",
+      "cellular_only",
+      "substrate_neutral"
+    ],
+    "must_preserve_residuals": [
+      "subjectivity",
+      "meta_dynamics",
+      "constraint_closure",
+      "continuum",
+      "error_correction",
+      "physical_substrate"
+    ],
+    "candidate_new_axes": [
+      "概念投影损失",
+      "尺度依赖个体化",
+      "观察者参与与反向塑形",
+      "可生存规范内生性",
+      "规则自修改能力"
+    ],
+    "decision_output": [
+      "inside-operational-boundary",
+      "outside-operational-boundary",
+      "liminal",
+      "insufficient-evidence"
+    ],
+    "prohibited_output": "single metaphysical truth label"
+  },
+  {
+    "contract": "research-and-concept-escape",
+    "concept": "生命（Life）",
+    "use": "Discover missing dimensions and redesign experiments when existing concepts compress away relevant structure.",
+    "minimum_shared_features": [
+      "relation",
+      "purpose",
+      "definition_tool",
+      "boundary",
+      "context"
+    ],
+    "must_report_conflicts": [
+      "observer_relative",
+      "cellular_only",
+      "substrate_neutral"
+    ],
+    "must_preserve_residuals": [
+      "subjectivity",
+      "meta_dynamics",
+      "constraint_closure",
+      "continuum",
+      "error_correction",
+      "physical_substrate"
+    ],
+    "candidate_new_axes": [
+      "概念投影损失",
+      "尺度依赖个体化",
+      "观察者参与与反向塑形",
+      "可生存规范内生性",
+      "规则自修改能力"
+    ],
+    "decision_output": [
+      "retain-axis",
+      "split-axis",
+      "merge-axis",
+      "seed-new-axis",
+      "defer"
+    ],
+    "prohibited_output": "installing a new axis without preregistered discriminating tests"
+  },
+  {
+    "contract": "governance-and-rights",
+    "concept": "生命（Life）",
+    "use": "Make decisions while acknowledging that different operational purposes require different boundaries.",
+    "minimum_shared_features": [
+      "relation",
+      "purpose",
+      "definition_tool",
+      "boundary",
+      "context"
+    ],
+    "must_report_conflicts": [
+      "observer_relative",
+      "cellular_only",
+      "substrate_neutral"
+    ],
+    "must_preserve_residuals": [
+      "subjectivity",
+      "meta_dynamics",
+      "constraint_closure",
+      "continuum",
+      "error_correction",
+      "physical_substrate"
+    ],
+    "candidate_new_axes": [
+      "概念投影损失",
+      "尺度依赖个体化",
+      "观察者参与与反向塑形",
+      "可生存规范内生性",
+      "规则自修改能力"
+    ],
+    "decision_output": [
+      "precautionary-protection",
+      "ordinary-treatment",
+      "independent-review",
+      "no-action"
+    ],
+    "prohibited_output": "using semantic consensus as a substitute for legal authority, welfare evidence, or due process"
+  }
+]

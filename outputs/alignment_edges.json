@@ -1,0 +1,7542 @@
+[
+  {
+    "atom_a": "or_p1",
+    "atom_b": "cd_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.673077,
+    "compatibility": 0.673077,
+    "shared_tags": [
+      "definition_tool",
+      "purpose",
+      "revision"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "oe_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.672952,
+    "compatibility": 0.672952,
+    "shared_tags": [
+      "mutual_transformation",
+      "program_data_symmetry",
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "oe_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.629445,
+    "compatibility": 0.629445,
+    "shared_tags": [
+      "purpose",
+      "rule_change"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "cd_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.587427,
+    "compatibility": 0.587427,
+    "shared_tags": [
+      "purpose",
+      "revision"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "mp_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.58729,
+    "compatibility": 0.58729,
+    "shared_tags": [
+      "purpose",
+      "revision"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "pp_w1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.586997,
+    "compatibility": 0.586997,
+    "shared_tags": [
+      "ethics",
+      "mutual_vulnerability"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "oe_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.586846,
+    "compatibility": 0.586846,
+    "shared_tags": [
+      "new_dimension",
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "cc_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.586528,
+    "compatibility": 0.586528,
+    "shared_tags": [
+      "boundary",
+      "energy_flow"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "or_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.586218,
+    "compatibility": 0.586218,
+    "shared_tags": [
+      "definition_tool",
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "pp_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.585873,
+    "compatibility": 0.585873,
+    "shared_tags": [
+      "intrinsic_goal",
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.585545,
+    "compatibility": 0.585545,
+    "shared_tags": [
+      "interaction",
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "cd_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.585371,
+    "compatibility": 0.585371,
+    "shared_tags": [
+      "definition_tool",
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "pp_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.531038,
+    "compatibility": 0.531038,
+    "shared_tags": [
+      "homeostasis",
+      "self_maintenance",
+      "viability"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "pp_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.529814,
+    "compatibility": 0.529814,
+    "shared_tags": [
+      "homeostasis",
+      "intrinsic_goal",
+      "viability"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "cd_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520759,
+    "compatibility": 0.520759,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_p1",
+    "atom_b": "pp_p1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.52069,
+    "compatibility": 0.52069,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "pp_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.520688,
+    "compatibility": 0.520688,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "cd_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520684,
+    "compatibility": 0.520684,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_p1",
+    "atom_b": "pp_p1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.520595,
+    "compatibility": 0.520595,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_i1",
+    "atom_b": "cd_i1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520563,
+    "compatibility": 0.520563,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ca_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.520546,
+    "compatibility": 0.520546,
+    "shared_tags": [
+      "adaptation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "oe_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.520486,
+    "compatibility": 0.520486,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "cd_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520466,
+    "compatibility": 0.520466,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "ce_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.52046,
+    "compatibility": 0.52046,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.520453,
+    "compatibility": 0.520453,
+    "shared_tags": [
+      "perception"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "cd_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520445,
+    "compatibility": 0.520445,
+    "shared_tags": [
+      "measurement"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "cd_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520437,
+    "compatibility": 0.520437,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "mp_k1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.520437,
+    "compatibility": 0.520437,
+    "shared_tags": [
+      "model_comparison"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "mp_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.520403,
+    "compatibility": 0.520403,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "ce_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.520398,
+    "compatibility": 0.520398,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "cd_i1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520358,
+    "compatibility": 0.520358,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ce_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.520355,
+    "compatibility": 0.520355,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "ce_i1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.520355,
+    "compatibility": 0.520355,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "or_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.520349,
+    "compatibility": 0.520349,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "pp_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.520342,
+    "compatibility": 0.520342,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "cd_k1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520295,
+    "compatibility": 0.520295,
+    "shared_tags": [
+      "uncertainty"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ca_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.520283,
+    "compatibility": 0.520283,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "oe_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.520277,
+    "compatibility": 0.520277,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "or_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.520228,
+    "compatibility": 0.520228,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "cc_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.520209,
+    "compatibility": 0.520209,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_p1",
+    "atom_b": "cd_p1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.520183,
+    "compatibility": 0.520183,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ir_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.519984,
+    "compatibility": 0.519984,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ce_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.51997,
+    "compatibility": 0.51997,
+    "shared_tags": [
+      "operational_boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "cd_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.519907,
+    "compatibility": 0.519907,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "or_i1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.519893,
+    "compatibility": 0.519893,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "oe_i1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.519871,
+    "compatibility": 0.519871,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "mp_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.519834,
+    "compatibility": 0.519834,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "oe_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.5198,
+    "compatibility": 0.5198,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "mp_i1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.519734,
+    "compatibility": 0.519734,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "oe_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.519655,
+    "compatibility": 0.519655,
+    "shared_tags": [
+      "measurement"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "oe_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.519578,
+    "compatibility": 0.519578,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.519555,
+    "compatibility": 0.519555,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "oe_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.519545,
+    "compatibility": 0.519545,
+    "shared_tags": [
+      "rule_change"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "oe_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.519502,
+    "compatibility": 0.519502,
+    "shared_tags": [
+      "self_reference"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_d1",
+    "atom_b": "cd_d1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.519476,
+    "compatibility": 0.519476,
+    "shared_tags": [
+      "measurement"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ir_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.519437,
+    "compatibility": 0.519437,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "mp_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.519381,
+    "compatibility": 0.519381,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ce_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.519354,
+    "compatibility": 0.519354,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "cd_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.519206,
+    "compatibility": 0.519206,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "or_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.518706,
+    "compatibility": 0.518706,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ca_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.518655,
+    "compatibility": 0.518655,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.518638,
+    "compatibility": 0.518638,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "mp_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.518553,
+    "compatibility": 0.518553,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.518426,
+    "compatibility": 0.518426,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "ce_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.518383,
+    "compatibility": 0.518383,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.51834,
+    "compatibility": 0.51834,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.517996,
+    "compatibility": 0.517996,
+    "shared_tags": [
+      "agency"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "oe_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.517939,
+    "compatibility": 0.517939,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "pp_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.51762,
+    "compatibility": 0.51762,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.517451,
+    "compatibility": 0.517451,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "mp_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.517409,
+    "compatibility": 0.517409,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.517208,
+    "compatibility": 0.517208,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ca_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.516978,
+    "compatibility": 0.516978,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "pp_i1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.516832,
+    "compatibility": 0.516832,
+    "shared_tags": [
+      "relation"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ir_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.516203,
+    "compatibility": 0.516203,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "oe_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.515803,
+    "compatibility": 0.515803,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "ca_p1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.515708,
+    "compatibility": 0.515708,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "or_p1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.515483,
+    "compatibility": 0.515483,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "mp_p1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.515358,
+    "compatibility": 0.515358,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ce_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.515312,
+    "compatibility": 0.515312,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "cc_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.514844,
+    "compatibility": 0.514844,
+    "shared_tags": [
+      "self_maintenance"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "cd_p1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.514476,
+    "compatibility": 0.514476,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "pp_p1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.514165,
+    "compatibility": 0.514165,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "oe_p1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.512362,
+    "compatibility": 0.512362,
+    "shared_tags": [
+      "purpose"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ce_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.503246,
+    "compatibility": 0.503246,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "mp_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.489329,
+    "compatibility": 0.489329,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ca_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.479251,
+    "compatibility": 0.479251,
+    "shared_tags": [
+      "homeostasis",
+      "viability"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "cd_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.468765,
+    "compatibility": 0.468765,
+    "shared_tags": [
+      "context",
+      "operational_boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.467441,
+    "compatibility": 0.467441,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "cd_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.467434,
+    "compatibility": 0.467434,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "ce_w1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.467369,
+    "compatibility": 0.467369,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "ca_k1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.467367,
+    "compatibility": 0.467367,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "cd_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.467311,
+    "compatibility": 0.467311,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "or_d1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.467274,
+    "compatibility": 0.467274,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.467259,
+    "compatibility": 0.467259,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "oe_k1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.467234,
+    "compatibility": 0.467234,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "pp_w1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.467229,
+    "compatibility": 0.467229,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "oe_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.467185,
+    "compatibility": 0.467185,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "oe_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.46718,
+    "compatibility": 0.46718,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "ce_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.467172,
+    "compatibility": 0.467172,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ir_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.467146,
+    "compatibility": 0.467146,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.467144,
+    "compatibility": 0.467144,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "ce_k1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.467112,
+    "compatibility": 0.467112,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "mp_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.467108,
+    "compatibility": 0.467108,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ca_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.467102,
+    "compatibility": 0.467102,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "cd_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.467078,
+    "compatibility": 0.467078,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "cd_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.466951,
+    "compatibility": 0.466951,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ca_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.466917,
+    "compatibility": 0.466917,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "ca_i1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.466905,
+    "compatibility": 0.466905,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "cd_d1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.466896,
+    "compatibility": 0.466896,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "ca_d1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.466887,
+    "compatibility": 0.466887,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "or_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.46687,
+    "compatibility": 0.46687,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.46681,
+    "compatibility": 0.46681,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "cd_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.466808,
+    "compatibility": 0.466808,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "oe_d1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.466797,
+    "compatibility": 0.466797,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_k1",
+    "atom_b": "cd_k1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.466753,
+    "compatibility": 0.466753,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "cd_k1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.466735,
+    "compatibility": 0.466735,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "ce_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.466718,
+    "compatibility": 0.466718,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "mp_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.466707,
+    "compatibility": 0.466707,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.46669,
+    "compatibility": 0.46669,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "cd_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.466685,
+    "compatibility": 0.466685,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "oe_k1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.466584,
+    "compatibility": 0.466584,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "mp_d1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.466558,
+    "compatibility": 0.466558,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "ce_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.466523,
+    "compatibility": 0.466523,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ce_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.466445,
+    "compatibility": 0.466445,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "or_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.466423,
+    "compatibility": 0.466423,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ca_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.466405,
+    "compatibility": 0.466405,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "oe_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.466394,
+    "compatibility": 0.466394,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "or_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.466361,
+    "compatibility": 0.466361,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "cd_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.466351,
+    "compatibility": 0.466351,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "oe_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.466333,
+    "compatibility": 0.466333,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "ce_d1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.466263,
+    "compatibility": 0.466263,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.466232,
+    "compatibility": 0.466232,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ir_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.466043,
+    "compatibility": 0.466043,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "cd_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.465767,
+    "compatibility": 0.465767,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "mp_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.465737,
+    "compatibility": 0.465737,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "pp_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.465644,
+    "compatibility": 0.465644,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ir_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.465619,
+    "compatibility": 0.465619,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "oe_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.465554,
+    "compatibility": 0.465554,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "mp_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.465306,
+    "compatibility": 0.465306,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "mp_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.465102,
+    "compatibility": 0.465102,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.464793,
+    "compatibility": 0.464793,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "oe_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.464696,
+    "compatibility": 0.464696,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "oe_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.464608,
+    "compatibility": 0.464608,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ce_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.464402,
+    "compatibility": 0.464402,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "or_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.464372,
+    "compatibility": 0.464372,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ir_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.463917,
+    "compatibility": 0.417525,
+    "shared_tags": [
+      "persistence"
+    ],
+    "conflicts": [
+      "replication_necessary"
+    ]
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "cd_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.463904,
+    "compatibility": 0.463904,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "oe_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.463892,
+    "compatibility": 0.463892,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "mp_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.463228,
+    "compatibility": 0.463228,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "pp_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.462371,
+    "compatibility": 0.462371,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "or_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.461729,
+    "compatibility": 0.461729,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "cd_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.460431,
+    "compatibility": 0.460431,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "mp_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.459331,
+    "compatibility": 0.459331,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "cc_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.454225,
+    "compatibility": 0.454225,
+    "shared_tags": [
+      "persistence"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ce_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.45352,
+    "compatibility": 0.45352,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "cd_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.448005,
+    "compatibility": 0.448005,
+    "shared_tags": [
+      "context",
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ca_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.44773,
+    "compatibility": 0.44773,
+    "shared_tags": [
+      "history"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "cc_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.447682,
+    "compatibility": 0.447682,
+    "shared_tags": [
+      "self_maintenance"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ir_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.440536,
+    "compatibility": 0.440536,
+    "shared_tags": [
+      "experimental_test"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ce_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.439722,
+    "compatibility": 0.439722,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "cc_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.436306,
+    "compatibility": 0.436306,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "oe_k1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.435702,
+    "compatibility": 0.435702,
+    "shared_tags": [
+      "lineage"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "ce_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.434171,
+    "compatibility": 0.434171,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "pp_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.433409,
+    "compatibility": 0.433409,
+    "shared_tags": [
+      "agency"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "pp_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.433163,
+    "compatibility": 0.433163,
+    "shared_tags": [
+      "viability"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.432692,
+    "compatibility": 0.432692,
+    "shared_tags": [
+      "self_maintenance"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "cd_k1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.432381,
+    "compatibility": 0.432381,
+    "shared_tags": [
+      "falsification"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ca_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.430649,
+    "compatibility": 0.430649,
+    "shared_tags": [
+      "context"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "cd_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.429625,
+    "compatibility": 0.429625,
+    "shared_tags": [
+      "context"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.429596,
+    "compatibility": 0.429596,
+    "shared_tags": [
+      "interaction"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "or_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.428268,
+    "compatibility": 0.428268,
+    "shared_tags": [
+      "interaction"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ce_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.427256,
+    "compatibility": 0.427256,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "cc_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.426946,
+    "compatibility": 0.426946,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ir_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.425111,
+    "compatibility": 0.425111,
+    "shared_tags": [
+      "persistence"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "oe_k1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.424794,
+    "compatibility": 0.424794,
+    "shared_tags": [
+      "lineage"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "mp_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.424481,
+    "compatibility": 0.424481,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ca_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.424006,
+    "compatibility": 0.424006,
+    "shared_tags": [
+      "rule_change"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "oe_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.423692,
+    "compatibility": 0.423692,
+    "shared_tags": [
+      "self_reference"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "cd_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.423081,
+    "compatibility": 0.423081,
+    "shared_tags": [
+      "pluralism"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "oe_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.420058,
+    "compatibility": 0.420058,
+    "shared_tags": [
+      "individuality"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "or_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.419512,
+    "compatibility": 0.419512,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "oe_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.418206,
+    "compatibility": 0.418206,
+    "shared_tags": [
+      "rule_change"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ce_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.417909,
+    "compatibility": 0.417909,
+    "shared_tags": [
+      "experimental_test"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "mp_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.417272,
+    "compatibility": 0.417272,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "cd_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.415973,
+    "compatibility": 0.415973,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "mp_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.413775,
+    "compatibility": 0.413775,
+    "shared_tags": [
+      "context"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.409527,
+    "compatibility": 0.409527,
+    "shared_tags": [
+      "substrate_neutral"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "cd_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.407852,
+    "compatibility": 0.407852,
+    "shared_tags": [
+      "pluralism"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "or_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.407306,
+    "compatibility": 0.407306,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "ce_w1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.406879,
+    "compatibility": 0.406879,
+    "shared_tags": [
+      "experimental_test"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "mp_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.404486,
+    "compatibility": 0.404486,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "mp_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.404199,
+    "compatibility": 0.404199,
+    "shared_tags": [
+      "context"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "cd_d1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.40372,
+    "compatibility": 0.40372,
+    "shared_tags": [
+      "falsification"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "pp_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.403431,
+    "compatibility": 0.403431,
+    "shared_tags": [
+      "viability"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_k1",
+    "atom_b": "pp_p1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.402139,
+    "compatibility": 0.402139,
+    "shared_tags": [
+      "open_evolution"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ca_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.402074,
+    "compatibility": 0.402074,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ca_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.401531,
+    "compatibility": 0.401531,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "pp_w1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.401225,
+    "compatibility": 0.401225,
+    "shared_tags": [
+      "pluralism"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "cd_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.401099,
+    "compatibility": 0.401099,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "oe_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.399102,
+    "compatibility": 0.399102,
+    "shared_tags": [
+      "rule_change"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "cd_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.397679,
+    "compatibility": 0.397679,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.397604,
+    "compatibility": 0.397604,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "pp_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.397482,
+    "compatibility": 0.397482,
+    "shared_tags": [
+      "self_maintenance"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "ce_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.397124,
+    "compatibility": 0.317699,
+    "shared_tags": [],
+    "conflicts": [
+      "binary_life",
+      "observer_relative"
+    ]
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "ca_d1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.396276,
+    "compatibility": 0.396276,
+    "shared_tags": [
+      "uncertainty"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "cc_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.395789,
+    "compatibility": 0.395789,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "cd_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.395087,
+    "compatibility": 0.395087,
+    "shared_tags": [
+      "semantic_contract"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "or_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.394808,
+    "compatibility": 0.394808,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "mp_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.393949,
+    "compatibility": 0.393949,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ca_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.393527,
+    "compatibility": 0.393527,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ir_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.39167,
+    "compatibility": 0.39167,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "cd_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.391606,
+    "compatibility": 0.391606,
+    "shared_tags": [
+      "operational_boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ca_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.390744,
+    "compatibility": 0.390744,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ir_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.390618,
+    "compatibility": 0.390618,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "oe_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.390494,
+    "compatibility": 0.390494,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "cd_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.389811,
+    "compatibility": 0.389811,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "cd_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.389704,
+    "compatibility": 0.389704,
+    "shared_tags": [
+      "context"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "cd_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.388957,
+    "compatibility": 0.388957,
+    "shared_tags": [
+      "context"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "oe_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.388886,
+    "compatibility": 0.388886,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ca_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.388265,
+    "compatibility": 0.388265,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "mp_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.388246,
+    "compatibility": 0.388246,
+    "shared_tags": [
+      "concept_projection_loss"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ce_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.387776,
+    "compatibility": 0.387776,
+    "shared_tags": [
+      "boundary"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ca_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.387763,
+    "compatibility": 0.387763,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "cc_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.387678,
+    "compatibility": 0.387678,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ir_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.387271,
+    "compatibility": 0.387271,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "ca_i1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.386925,
+    "compatibility": 0.386925,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.386738,
+    "compatibility": 0.386738,
+    "shared_tags": [
+      "pluralism"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "cd_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.386441,
+    "compatibility": 0.386441,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "oe_d1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.38642,
+    "compatibility": 0.38642,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "or_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.385788,
+    "compatibility": 0.385788,
+    "shared_tags": [
+      "scale"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "ca_d1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.385442,
+    "compatibility": 0.385442,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "cd_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.384898,
+    "compatibility": 0.384898,
+    "shared_tags": [
+      "uncertainty"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "mp_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.384705,
+    "compatibility": 0.384705,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "ce_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.384566,
+    "compatibility": 0.307653,
+    "shared_tags": [],
+    "conflicts": [
+      "binary_life",
+      "cellular_only"
+    ]
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ca_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.384154,
+    "compatibility": 0.384154,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ir_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.384147,
+    "compatibility": 0.384147,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ce_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.384077,
+    "compatibility": 0.384077,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "or_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.38365,
+    "compatibility": 0.38365,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "cd_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.383645,
+    "compatibility": 0.383645,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "oe_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.383632,
+    "compatibility": 0.383632,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "cd_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.382993,
+    "compatibility": 0.382993,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.382365,
+    "compatibility": 0.382365,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "oe_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.381633,
+    "compatibility": 0.381633,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ir_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.38147,
+    "compatibility": 0.38147,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "ca_k1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.381358,
+    "compatibility": 0.381358,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "oe_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.381221,
+    "compatibility": 0.381221,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "oe_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.381117,
+    "compatibility": 0.381117,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "ce_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.380967,
+    "compatibility": 0.380967,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "cc_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.380841,
+    "compatibility": 0.380841,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ir_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.380707,
+    "compatibility": 0.380707,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "oe_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.380573,
+    "compatibility": 0.380573,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "or_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.380371,
+    "compatibility": 0.380371,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "mp_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.380249,
+    "compatibility": 0.380249,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "cc_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.380079,
+    "compatibility": 0.380079,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ir_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.380006,
+    "compatibility": 0.380006,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "mp_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.379977,
+    "compatibility": 0.379977,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "pp_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.379973,
+    "compatibility": 0.379973,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ca_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.379853,
+    "compatibility": 0.379853,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ce_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.379705,
+    "compatibility": 0.379705,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "oe_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.379641,
+    "compatibility": 0.379641,
+    "shared_tags": [
+      "open_space"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "cd_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.379238,
+    "compatibility": 0.379238,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "ca_k1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.378938,
+    "compatibility": 0.378938,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "cd_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.378638,
+    "compatibility": 0.378638,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "or_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.378586,
+    "compatibility": 0.378586,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_d1",
+    "atom_b": "cd_i1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.378405,
+    "compatibility": 0.378405,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "mp_k1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.378096,
+    "compatibility": 0.378096,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "cd_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.377901,
+    "compatibility": 0.377901,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "cd_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.37787,
+    "compatibility": 0.37787,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "ce_k1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.377771,
+    "compatibility": 0.377771,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ca_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.377658,
+    "compatibility": 0.377658,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "mp_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.377591,
+    "compatibility": 0.377591,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ce_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.377541,
+    "compatibility": 0.377541,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "or_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.376986,
+    "compatibility": 0.376986,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ir_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.376958,
+    "compatibility": 0.376958,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ca_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.376675,
+    "compatibility": 0.376675,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "or_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.376606,
+    "compatibility": 0.376606,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "cc_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.376394,
+    "compatibility": 0.376394,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.376251,
+    "compatibility": 0.376251,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "ce_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.376238,
+    "compatibility": 0.376238,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.376206,
+    "compatibility": 0.376206,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "cd_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.376187,
+    "compatibility": 0.376187,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "oe_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.376117,
+    "compatibility": 0.376117,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "cd_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.376055,
+    "compatibility": 0.376055,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ce_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.375921,
+    "compatibility": 0.375921,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "oe_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.37578,
+    "compatibility": 0.37578,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "mp_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.375715,
+    "compatibility": 0.375715,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "pp_i1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.375405,
+    "compatibility": 0.375405,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "oe_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.375316,
+    "compatibility": 0.375316,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "oe_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.375265,
+    "compatibility": 0.375265,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "cd_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.375037,
+    "compatibility": 0.375037,
+    "shared_tags": [
+      "definition_tool"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "pp_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.374965,
+    "compatibility": 0.374965,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "mp_k1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.374904,
+    "compatibility": 0.374904,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "ce_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.374779,
+    "compatibility": 0.374779,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "or_d1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.374036,
+    "compatibility": 0.374036,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "or_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.373663,
+    "compatibility": 0.373663,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "or_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.373577,
+    "compatibility": 0.373577,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ce_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.373501,
+    "compatibility": 0.373501,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "oe_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.37344,
+    "compatibility": 0.37344,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ce_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.373418,
+    "compatibility": 0.373418,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ir_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.373282,
+    "compatibility": 0.373282,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "pp_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.372986,
+    "compatibility": 0.372986,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "oe_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.372953,
+    "compatibility": 0.372953,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "cd_k1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.372843,
+    "compatibility": 0.372843,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "pp_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.37269,
+    "compatibility": 0.37269,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "ce_i1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.372603,
+    "compatibility": 0.372603,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "oe_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.372599,
+    "compatibility": 0.372599,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_k1",
+    "atom_b": "pp_i1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.372472,
+    "compatibility": 0.372472,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "ca_i1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.372462,
+    "compatibility": 0.372462,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "ce_i1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.372178,
+    "compatibility": 0.372178,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "cd_i1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.372159,
+    "compatibility": 0.372159,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.371655,
+    "compatibility": 0.371655,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "ce_k1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.371583,
+    "compatibility": 0.371583,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ir_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.371533,
+    "compatibility": 0.371533,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.371135,
+    "compatibility": 0.371135,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.370861,
+    "compatibility": 0.370861,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "cd_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.370437,
+    "compatibility": 0.370437,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "pp_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.370256,
+    "compatibility": 0.370256,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ir_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.3698,
+    "compatibility": 0.3698,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "pp_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.369653,
+    "compatibility": 0.369653,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "ce_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.369623,
+    "compatibility": 0.369623,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "ce_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.369481,
+    "compatibility": 0.369481,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "cd_i1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.369414,
+    "compatibility": 0.369414,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "or_i1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.369332,
+    "compatibility": 0.369332,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "or_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.368867,
+    "compatibility": 0.368867,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ca_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.368857,
+    "compatibility": 0.368857,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "cd_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.368854,
+    "compatibility": 0.368854,
+    "shared_tags": [
+      "context"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "mp_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.36885,
+    "compatibility": 0.36885,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "oe_i1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.368707,
+    "compatibility": 0.368707,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "or_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.368678,
+    "compatibility": 0.368678,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.368535,
+    "compatibility": 0.368535,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.368038,
+    "compatibility": 0.368038,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_k1",
+    "atom_b": "pp_i1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.367907,
+    "compatibility": 0.367907,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "pp_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.367866,
+    "compatibility": 0.367866,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "pp_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.367838,
+    "compatibility": 0.367838,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "cd_k1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.367654,
+    "compatibility": 0.367654,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "cd_d1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.367438,
+    "compatibility": 0.367438,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "mp_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.367142,
+    "compatibility": 0.367142,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "cd_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.367069,
+    "compatibility": 0.367069,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "mp_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.367063,
+    "compatibility": 0.367063,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "oe_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.366828,
+    "compatibility": 0.366828,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "mp_i1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.3667,
+    "compatibility": 0.3667,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ir_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.366565,
+    "compatibility": 0.366565,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "cd_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.366389,
+    "compatibility": 0.366389,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "cd_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.366279,
+    "compatibility": 0.366279,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.366081,
+    "compatibility": 0.366081,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "mp_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.366079,
+    "compatibility": 0.366079,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "or_i1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.366029,
+    "compatibility": 0.366029,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "mp_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.366017,
+    "compatibility": 0.366017,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "pp_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.365878,
+    "compatibility": 0.365878,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_k1",
+    "atom_b": "cd_i1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.365764,
+    "compatibility": 0.365764,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "cd_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.365736,
+    "compatibility": 0.365736,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "mp_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.365723,
+    "compatibility": 0.365723,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.365599,
+    "compatibility": 0.365599,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ca_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.365501,
+    "compatibility": 0.365501,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "cd_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.365501,
+    "compatibility": 0.365501,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.36545,
+    "compatibility": 0.36545,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "oe_k1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.365358,
+    "compatibility": 0.365358,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "oe_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.364812,
+    "compatibility": 0.364812,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_i1",
+    "atom_b": "cd_k1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.364788,
+    "compatibility": 0.364788,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "cd_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.364682,
+    "compatibility": 0.364682,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "oe_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.364608,
+    "compatibility": 0.364608,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ce_k1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.36441,
+    "compatibility": 0.36441,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "ca_i1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.364,
+    "compatibility": 0.364,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "mp_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.363975,
+    "compatibility": 0.363975,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "cd_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.363942,
+    "compatibility": 0.363942,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "ce_w1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.363674,
+    "compatibility": 0.363674,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "or_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.36365,
+    "compatibility": 0.36365,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ir_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.363644,
+    "compatibility": 0.363644,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ca_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.36354,
+    "compatibility": 0.36354,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.363384,
+    "compatibility": 0.363384,
+    "shared_tags": [
+      "pluralism"
+    ],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "oe_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.363116,
+    "compatibility": 0.363116,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ce_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.363059,
+    "compatibility": 0.363059,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "mp_d1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.362922,
+    "compatibility": 0.362922,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "ce_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.362798,
+    "compatibility": 0.362798,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "oe_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.362639,
+    "compatibility": 0.362639,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "cd_k1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.362535,
+    "compatibility": 0.362535,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "cd_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.362329,
+    "compatibility": 0.362329,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "cd_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.362193,
+    "compatibility": 0.362193,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "mp_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.362024,
+    "compatibility": 0.362024,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "cc_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.361908,
+    "compatibility": 0.361908,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ir_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.36189,
+    "compatibility": 0.36189,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "or_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.361828,
+    "compatibility": 0.361828,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "mp_i1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.361785,
+    "compatibility": 0.361785,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "mp_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.361577,
+    "compatibility": 0.361577,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "ce_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.361563,
+    "compatibility": 0.361563,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "cd_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.361563,
+    "compatibility": 0.361563,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ce_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.361446,
+    "compatibility": 0.361446,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "oe_i1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.361405,
+    "compatibility": 0.361405,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "oe_d1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.361274,
+    "compatibility": 0.361274,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "cd_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.361215,
+    "compatibility": 0.361215,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "oe_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.360951,
+    "compatibility": 0.360951,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "pp_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.360867,
+    "compatibility": 0.360867,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "ca_p1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.360552,
+    "compatibility": 0.360552,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_i1",
+    "atom_b": "pp_d1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.360538,
+    "compatibility": 0.360538,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "cd_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.360483,
+    "compatibility": 0.360483,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "or_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.360448,
+    "compatibility": 0.360448,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "or_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.360416,
+    "compatibility": 0.360416,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "mp_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.360305,
+    "compatibility": 0.360305,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ir_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.359894,
+    "compatibility": 0.359894,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "ce_d1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.359832,
+    "compatibility": 0.359832,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "cc_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.359767,
+    "compatibility": 0.359767,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "mp_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.35953,
+    "compatibility": 0.35953,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "cc_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.359467,
+    "compatibility": 0.359467,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "mp_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.35935,
+    "compatibility": 0.35935,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "cd_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.359167,
+    "compatibility": 0.359167,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "ce_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.359079,
+    "compatibility": 0.359079,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "pp_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.358704,
+    "compatibility": 0.358704,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ir_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.358486,
+    "compatibility": 0.358486,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ir_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.358368,
+    "compatibility": 0.358368,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "oe_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.358276,
+    "compatibility": 0.358276,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.357957,
+    "compatibility": 0.357957,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "cd_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.357861,
+    "compatibility": 0.357861,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "ce_w1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.35786,
+    "compatibility": 0.35786,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "ce_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.3577,
+    "compatibility": 0.3577,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "oe_k1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.357676,
+    "compatibility": 0.357676,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "mp_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.357672,
+    "compatibility": 0.357672,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "or_w1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.357301,
+    "compatibility": 0.357301,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "cd_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.357282,
+    "compatibility": 0.357282,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "ce_w1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.357274,
+    "compatibility": 0.357274,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "or_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.357252,
+    "compatibility": 0.357252,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "or_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.357085,
+    "compatibility": 0.357085,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "mp_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.356987,
+    "compatibility": 0.356987,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "pp_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.356921,
+    "compatibility": 0.356921,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "cd_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.356719,
+    "compatibility": 0.356719,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "pp_w1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.356655,
+    "compatibility": 0.356655,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "cd_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.356631,
+    "compatibility": 0.356631,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "pp_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.356557,
+    "compatibility": 0.356557,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "ir_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.356292,
+    "compatibility": 0.356292,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "or_w1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.356058,
+    "compatibility": 0.356058,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "cd_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.356002,
+    "compatibility": 0.356002,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ca_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.355994,
+    "compatibility": 0.355994,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "ce_w1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.355343,
+    "compatibility": 0.355343,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "oe_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.355327,
+    "compatibility": 0.355327,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_k1",
+    "atom_b": "pp_w1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.355287,
+    "compatibility": 0.355287,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "ce_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.355286,
+    "compatibility": 0.355286,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "oe_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.355042,
+    "compatibility": 0.355042,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "oe_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.35502,
+    "compatibility": 0.35502,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "oe_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.35493,
+    "compatibility": 0.35493,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "or_i1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.354794,
+    "compatibility": 0.354794,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "pp_i1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.354609,
+    "compatibility": 0.354609,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "ca_d1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.354576,
+    "compatibility": 0.354576,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "pp_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.354492,
+    "compatibility": 0.354492,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "pp_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.354152,
+    "compatibility": 0.354152,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "mp_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.354112,
+    "compatibility": 0.354112,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "cd_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.354008,
+    "compatibility": 0.354008,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "ce_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.35395,
+    "compatibility": 0.35395,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "pp_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.353915,
+    "compatibility": 0.353915,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_p1",
+    "atom_b": "pp_w1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.353553,
+    "compatibility": 0.353553,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ce_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.353515,
+    "compatibility": 0.353515,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.353382,
+    "compatibility": 0.353382,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ce_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.353207,
+    "compatibility": 0.353207,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "pp_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.353189,
+    "compatibility": 0.353189,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "or_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.353187,
+    "compatibility": 0.353187,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "cd_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.353154,
+    "compatibility": 0.353154,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "oe_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.353089,
+    "compatibility": 0.353089,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "cd_i1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.352938,
+    "compatibility": 0.352938,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "cd_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.352668,
+    "compatibility": 0.352668,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "oe_i1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.351878,
+    "compatibility": 0.351878,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_k1",
+    "atom_b": "cd_p1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.351792,
+    "compatibility": 0.351792,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "or_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.351748,
+    "compatibility": 0.351748,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "oe_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.351452,
+    "compatibility": 0.351452,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "or_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.351426,
+    "compatibility": 0.351426,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "cd_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.351281,
+    "compatibility": 0.351281,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "mp_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.35128,
+    "compatibility": 0.35128,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ca_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.351159,
+    "compatibility": 0.351159,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "oe_d1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.351093,
+    "compatibility": 0.351093,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ce_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.351092,
+    "compatibility": 0.351092,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "or_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.351072,
+    "compatibility": 0.351072,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_i1",
+    "atom_b": "cd_d1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.351072,
+    "compatibility": 0.351072,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "pp_w1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.350739,
+    "compatibility": 0.350739,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "ce_i1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.350359,
+    "compatibility": 0.350359,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "oe_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.350121,
+    "compatibility": 0.350121,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "or_p1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.350053,
+    "compatibility": 0.350053,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ir_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.349863,
+    "compatibility": 0.349863,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "pp_d1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.349711,
+    "compatibility": 0.349711,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "pp_w1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.349683,
+    "compatibility": 0.349683,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ca_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.349539,
+    "compatibility": 0.349539,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "mp_p1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.349334,
+    "compatibility": 0.349334,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "or_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.349264,
+    "compatibility": 0.349264,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "ce_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.349257,
+    "compatibility": 0.349257,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "mp_d1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.349203,
+    "compatibility": 0.349203,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "ce_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.349013,
+    "compatibility": 0.349013,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "pp_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.348865,
+    "compatibility": 0.348865,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "ce_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.348855,
+    "compatibility": 0.348855,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "oe_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.34873,
+    "compatibility": 0.34873,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "ce_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.348696,
+    "compatibility": 0.348696,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "oe_k1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.348624,
+    "compatibility": 0.348624,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "or_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.348568,
+    "compatibility": 0.348568,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ce_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.348531,
+    "compatibility": 0.348531,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "mp_i1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.348297,
+    "compatibility": 0.348297,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.348221,
+    "compatibility": 0.348221,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "or_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.348031,
+    "compatibility": 0.348031,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "cd_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.347982,
+    "compatibility": 0.347982,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "ca_p1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.347765,
+    "compatibility": 0.347765,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "ce_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.347672,
+    "compatibility": 0.347672,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "oe_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.347483,
+    "compatibility": 0.347483,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "cd_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.347437,
+    "compatibility": 0.347437,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "or_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.3473,
+    "compatibility": 0.3473,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "or_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.347219,
+    "compatibility": 0.347219,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "oe_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.34715,
+    "compatibility": 0.34715,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "oe_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.34707,
+    "compatibility": 0.34707,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ca_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.347012,
+    "compatibility": 0.347012,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ca_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.347002,
+    "compatibility": 0.347002,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "pp_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.346986,
+    "compatibility": 0.346986,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "mp_i1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.346879,
+    "compatibility": 0.346879,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "ce_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.346825,
+    "compatibility": 0.346825,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "or_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.346683,
+    "compatibility": 0.346683,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "or_p1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.346404,
+    "compatibility": 0.346404,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "cd_p1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.346334,
+    "compatibility": 0.346334,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_k1",
+    "atom_b": "pp_p1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.346294,
+    "compatibility": 0.346294,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "oe_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.346272,
+    "compatibility": 0.346272,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "oe_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.346085,
+    "compatibility": 0.346085,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "mp_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.346048,
+    "compatibility": 0.346048,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ir_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.34589,
+    "compatibility": 0.34589,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_k1",
+    "atom_b": "mp_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.3458,
+    "compatibility": 0.3458,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "cd_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.345457,
+    "compatibility": 0.345457,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "or_d1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.345303,
+    "compatibility": 0.345303,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "ca_k1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.345273,
+    "compatibility": 0.345273,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "cd_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.345167,
+    "compatibility": 0.345167,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ce_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.345099,
+    "compatibility": 0.345099,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "pp_w1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.344895,
+    "compatibility": 0.344895,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "ce_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.344686,
+    "compatibility": 0.344686,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "pp_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.344393,
+    "compatibility": 0.344393,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.344352,
+    "compatibility": 0.344352,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "pp_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.344307,
+    "compatibility": 0.344307,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "oe_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.344082,
+    "compatibility": 0.344082,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "cc_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "constraint_closure",
+    "similarity": 0.344075,
+    "compatibility": 0.344075,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "cd_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.343264,
+    "compatibility": 0.343264,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "or_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.343183,
+    "compatibility": 0.343183,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "oe_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.343101,
+    "compatibility": 0.343101,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "oe_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.343029,
+    "compatibility": 0.343029,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "pp_p1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.342845,
+    "compatibility": 0.342845,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "oe_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.342751,
+    "compatibility": 0.342751,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "mp_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.342577,
+    "compatibility": 0.342577,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "cd_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.34244,
+    "compatibility": 0.34244,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "or_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.342308,
+    "compatibility": 0.342308,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "ce_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.341983,
+    "compatibility": 0.341983,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "mp_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.341907,
+    "compatibility": 0.341907,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ca_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.341902,
+    "compatibility": 0.341902,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "cd_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.341828,
+    "compatibility": 0.341828,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "mp_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.341771,
+    "compatibility": 0.341771,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "oe_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.341715,
+    "compatibility": 0.341715,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "ce_w1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.341489,
+    "compatibility": 0.341489,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "mp_p1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.341228,
+    "compatibility": 0.341228,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "cd_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.341198,
+    "compatibility": 0.341198,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "ir_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.341024,
+    "compatibility": 0.306922,
+    "shared_tags": [],
+    "conflicts": [
+      "replication_necessary"
+    ]
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "pp_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.340985,
+    "compatibility": 0.340985,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_p1",
+    "atom_b": "pp_i1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.340944,
+    "compatibility": 0.340944,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "cd_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.340867,
+    "compatibility": 0.340867,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_k1",
+    "atom_b": "pp_w1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.340828,
+    "compatibility": 0.340828,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "mp_i1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.340548,
+    "compatibility": 0.340548,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "cd_p1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.340362,
+    "compatibility": 0.340362,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "pp_w1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.340337,
+    "compatibility": 0.340337,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "pp_d1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.340259,
+    "compatibility": 0.340259,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "oe_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.340129,
+    "compatibility": 0.340129,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_p1",
+    "atom_b": "pp_w1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.340121,
+    "compatibility": 0.340121,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "ce_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.340073,
+    "compatibility": 0.340073,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "mp_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.339901,
+    "compatibility": 0.339901,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_d1",
+    "atom_b": "cd_k1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.33985,
+    "compatibility": 0.33985,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.339657,
+    "compatibility": 0.339657,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ca_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.339633,
+    "compatibility": 0.339633,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "cd_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.339421,
+    "compatibility": 0.339421,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.339266,
+    "compatibility": 0.339266,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "pp_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.339245,
+    "compatibility": 0.339245,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "mp_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.339229,
+    "compatibility": 0.339229,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "ce_k1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.339161,
+    "compatibility": 0.339161,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_p1",
+    "atom_b": "cd_k1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.338915,
+    "compatibility": 0.338915,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "or_w1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.338822,
+    "compatibility": 0.338822,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_p1",
+    "atom_b": "ce_d1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.338801,
+    "compatibility": 0.338801,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "or_d1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.338626,
+    "compatibility": 0.338626,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "ce_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.338427,
+    "compatibility": 0.338427,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.337584,
+    "compatibility": 0.337584,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "or_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.337548,
+    "compatibility": 0.337548,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "mp_i1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.337353,
+    "compatibility": 0.337353,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "oe_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.337182,
+    "compatibility": 0.337182,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "oe_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.337083,
+    "compatibility": 0.337083,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "pp_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.337049,
+    "compatibility": 0.337049,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "mp_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.337026,
+    "compatibility": 0.337026,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "cd_d1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.337008,
+    "compatibility": 0.337008,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.336795,
+    "compatibility": 0.336795,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "oe_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.336789,
+    "compatibility": 0.336789,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "oe_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.336605,
+    "compatibility": 0.336605,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "mp_i1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.3366,
+    "compatibility": 0.3366,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "cd_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.336385,
+    "compatibility": 0.336385,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "or_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.336185,
+    "compatibility": 0.336185,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.336024,
+    "compatibility": 0.336024,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_i1",
+    "atom_b": "cd_p1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.335924,
+    "compatibility": 0.335924,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "ce_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.335432,
+    "compatibility": 0.335432,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "mp_d1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.335424,
+    "compatibility": 0.335424,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.335423,
+    "compatibility": 0.335423,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "oe_p1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.33534,
+    "compatibility": 0.33534,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "oe_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.335167,
+    "compatibility": 0.335167,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_i1",
+    "atom_b": "oe_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.335044,
+    "compatibility": 0.335044,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "mp_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.335016,
+    "compatibility": 0.335016,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.335008,
+    "compatibility": 0.335008,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "mp_k1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.334953,
+    "compatibility": 0.334953,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "cd_k1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.334891,
+    "compatibility": 0.334891,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "ce_w1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.334646,
+    "compatibility": 0.334646,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "oe_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.334556,
+    "compatibility": 0.334556,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "or_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "observer_relational",
+    "similarity": 0.334442,
+    "compatibility": 0.334442,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ir_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "information_replication",
+    "similarity": 0.334266,
+    "compatibility": 0.334266,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "mp_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.333898,
+    "compatibility": 0.333898,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.33378,
+    "compatibility": 0.33378,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "pp_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.3336,
+    "compatibility": 0.3336,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_k1",
+    "atom_b": "ce_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.333575,
+    "compatibility": 0.333575,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "oe_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.333327,
+    "compatibility": 0.333327,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ca_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.333093,
+    "compatibility": 0.333093,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.33304,
+    "compatibility": 0.33304,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "oe_k1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.332981,
+    "compatibility": 0.332981,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "ce_i1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.332909,
+    "compatibility": 0.332909,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "oe_i1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.332763,
+    "compatibility": 0.332763,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "pp_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.33267,
+    "compatibility": 0.33267,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "ce_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.332426,
+    "compatibility": 0.332426,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "oe_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.332385,
+    "compatibility": 0.332385,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "cd_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.33228,
+    "compatibility": 0.33228,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "or_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "observer_relational",
+    "similarity": 0.331806,
+    "compatibility": 0.331806,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "mp_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.331695,
+    "compatibility": 0.331695,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ir_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "information_replication",
+    "similarity": 0.331642,
+    "compatibility": 0.331642,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "ce_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.330991,
+    "compatibility": 0.330991,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "oe_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.330793,
+    "compatibility": 0.330793,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_i1",
+    "atom_b": "oe_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.330746,
+    "compatibility": 0.330746,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "oe_p1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.330707,
+    "compatibility": 0.330707,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "cd_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.330601,
+    "compatibility": 0.330601,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "ce_w1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.330492,
+    "compatibility": 0.330492,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.330443,
+    "compatibility": 0.330443,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_k1",
+    "atom_b": "ce_d1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.330377,
+    "compatibility": 0.330377,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "mp_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.330314,
+    "compatibility": 0.330314,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.330119,
+    "compatibility": 0.330119,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "cd_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.32981,
+    "compatibility": 0.32981,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "oe_k1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.329751,
+    "compatibility": 0.329751,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_p1",
+    "atom_b": "pp_i1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.329675,
+    "compatibility": 0.329675,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_i1",
+    "atom_b": "oe_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.329663,
+    "compatibility": 0.329663,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "cd_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.329532,
+    "compatibility": 0.329532,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.329157,
+    "compatibility": 0.329157,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_k1",
+    "atom_b": "pp_d1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.328842,
+    "compatibility": 0.328842,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "pp_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.328684,
+    "compatibility": 0.328684,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_k1",
+    "atom_b": "ce_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.328625,
+    "compatibility": 0.328625,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_i1",
+    "atom_b": "ce_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.32862,
+    "compatibility": 0.295758,
+    "shared_tags": [],
+    "conflicts": [
+      "binary_life"
+    ]
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "ce_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.328311,
+    "compatibility": 0.328311,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.327966,
+    "compatibility": 0.327966,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "cd_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.327058,
+    "compatibility": 0.327058,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "or_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.326852,
+    "compatibility": 0.326852,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_k1",
+    "atom_b": "pp_d1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.326638,
+    "compatibility": 0.326638,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "mp_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.326636,
+    "compatibility": 0.326636,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.326591,
+    "compatibility": 0.326591,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.326132,
+    "compatibility": 0.326132,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "pp_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.326127,
+    "compatibility": 0.326127,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_p1",
+    "atom_b": "cd_i1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.325855,
+    "compatibility": 0.325855,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "pp_w1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.32585,
+    "compatibility": 0.32585,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_d1",
+    "atom_b": "cd_p1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.325787,
+    "compatibility": 0.325787,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "or_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.325653,
+    "compatibility": 0.325653,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "oe_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.325532,
+    "compatibility": 0.325532,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "oe_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.325176,
+    "compatibility": 0.325176,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "pp_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.325051,
+    "compatibility": 0.325051,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "oe_k1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.324746,
+    "compatibility": 0.324746,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "constraint_closure",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.32467,
+    "compatibility": 0.32467,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "pp_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.323938,
+    "compatibility": 0.323938,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "cd_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.323936,
+    "compatibility": 0.323936,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "cd_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.323829,
+    "compatibility": 0.323829,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_k1",
+    "atom_b": "cd_d1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.323744,
+    "compatibility": 0.323744,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "or_w1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.323217,
+    "compatibility": 0.323217,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "ce_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.323141,
+    "compatibility": 0.323141,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_p1",
+    "atom_b": "ce_d1",
+    "observer_a": "constraint_closure",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.323059,
+    "compatibility": 0.323059,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "oe_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.322735,
+    "compatibility": 0.322735,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.322654,
+    "compatibility": 0.322654,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "mp_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.322608,
+    "compatibility": 0.322608,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_i1",
+    "atom_b": "oe_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.322174,
+    "compatibility": 0.322174,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "oe_k1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.322161,
+    "compatibility": 0.322161,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "ce_w1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.322127,
+    "compatibility": 0.322127,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "pp_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.321641,
+    "compatibility": 0.321641,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "ca_p1",
+    "observer_a": "information_replication",
+    "observer_b": "cognitive_agency",
+    "similarity": 0.321372,
+    "compatibility": 0.321372,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "ce_w1",
+    "observer_a": "information_replication",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.321223,
+    "compatibility": 0.321223,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_i1",
+    "atom_b": "oe_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.321176,
+    "compatibility": 0.321176,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "cd_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.320539,
+    "compatibility": 0.320539,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "mp_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.320416,
+    "compatibility": 0.320416,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "mp_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.320329,
+    "compatibility": 0.320329,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "cd_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.320135,
+    "compatibility": 0.320135,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "or_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "observer_relational",
+    "similarity": 0.319394,
+    "compatibility": 0.319394,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cc_d1",
+    "atom_b": "oe_p1",
+    "observer_a": "constraint_closure",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.319371,
+    "compatibility": 0.319371,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "mp_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.319173,
+    "compatibility": 0.319173,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "or_p1",
+    "observer_a": "information_replication",
+    "observer_b": "observer_relational",
+    "similarity": 0.318596,
+    "compatibility": 0.318596,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_w1",
+    "atom_b": "cd_d1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.318436,
+    "compatibility": 0.318436,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "cd_k1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.318145,
+    "compatibility": 0.318145,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "ce_w1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.317171,
+    "compatibility": 0.317171,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "oe_k1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.31685,
+    "compatibility": 0.31685,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.316838,
+    "compatibility": 0.316838,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.316032,
+    "compatibility": 0.316032,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_w1",
+    "atom_b": "ce_d1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.31573,
+    "compatibility": 0.31573,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.315295,
+    "compatibility": 0.315295,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.315209,
+    "compatibility": 0.315209,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "pp_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.315167,
+    "compatibility": 0.315167,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_p1",
+    "atom_b": "pp_d1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.314965,
+    "compatibility": 0.314965,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.314093,
+    "compatibility": 0.314093,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "cd_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.313945,
+    "compatibility": 0.313945,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.312388,
+    "compatibility": 0.312388,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "mp_p1",
+    "observer_a": "information_replication",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.312289,
+    "compatibility": 0.312289,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "cd_p1",
+    "observer_a": "information_replication",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.311859,
+    "compatibility": 0.311859,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "cd_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "context_definition_tools",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.31131,
+    "compatibility": 0.31131,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_d1",
+    "atom_b": "oe_p1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.310683,
+    "compatibility": 0.310683,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ca_p1",
+    "atom_b": "ce_d1",
+    "observer_a": "cognitive_agency",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.310394,
+    "compatibility": 0.310394,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "mp_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "morphospace_pluralist",
+    "similarity": 0.310301,
+    "compatibility": 0.310301,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "cd_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.310101,
+    "compatibility": 0.310101,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "information_replication",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.308621,
+    "compatibility": 0.308621,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_p1",
+    "atom_b": "ce_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.308358,
+    "compatibility": 0.308358,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_w1",
+    "atom_b": "ce_d1",
+    "observer_a": "observer_relational",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.307811,
+    "compatibility": 0.307811,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.30684,
+    "compatibility": 0.30684,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "met_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "metabolism_identity",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.306216,
+    "compatibility": 0.306216,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_p1",
+    "atom_b": "cd_d1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.306195,
+    "compatibility": 0.306195,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "oe_p1",
+    "atom_b": "pp_d1",
+    "observer_a": "open_evolution_rule_change",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.305362,
+    "compatibility": 0.305362,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_d1",
+    "atom_b": "oe_p1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.304999,
+    "compatibility": 0.304999,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "mp_p1",
+    "atom_b": "ce_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.302271,
+    "compatibility": 0.302271,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ir_d1",
+    "atom_b": "oe_p1",
+    "observer_a": "information_replication",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.302086,
+    "compatibility": 0.302086,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "cd_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "context_definition_tools",
+    "similarity": 0.301867,
+    "compatibility": 0.301867,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "or_d1",
+    "atom_b": "oe_p1",
+    "observer_a": "observer_relational",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.300401,
+    "compatibility": 0.300401,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "pp_w1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.29885,
+    "compatibility": 0.29885,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "oe_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "open_evolution_rule_change",
+    "similarity": 0.293088,
+    "compatibility": 0.293088,
+    "shared_tags": [],
+    "conflicts": []
+  },
+  {
+    "atom_a": "ce_k1",
+    "atom_b": "pp_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.267346,
+    "compatibility": 0.240611,
+    "shared_tags": [],
+    "conflicts": [
+      "substrate_neutral"
+    ]
+  },
+  {
+    "atom_a": "mp_k1",
+    "atom_b": "ce_d1",
+    "observer_a": "morphospace_pluralist",
+    "observer_b": "cellular_exceptionalist",
+    "similarity": 0.224563,
+    "compatibility": 0.202107,
+    "shared_tags": [],
+    "conflicts": [
+      "binary_life"
+    ]
+  },
+  {
+    "atom_a": "ce_d1",
+    "atom_b": "pp_p1",
+    "observer_a": "cellular_exceptionalist",
+    "observer_b": "phenomenology_purpose",
+    "similarity": 0.212959,
+    "compatibility": 0.170367,
+    "shared_tags": [],
+    "conflicts": [
+      "cellular_only",
+      "substrate_neutral"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DIKWP-MESH2 Task-indexed Semantic Contract",
+  "type": "object",
+  "required": ["contract", "concept", "use", "decision_output", "prohibited_output"],
+  "properties": {
+    "contract": {"type": "string"},
+    "concept": {"type": "string"},
+    "use": {"type": "string"},
+    "minimum_shared_features": {"type": "array", "items": {"type": "string"}},
+    "must_report_conflicts": {"type": "array", "items": {"type": "string"}},
+    "must_preserve_residuals": {"type": "array", "items": {"type": "string"}},
+    "candidate_new_axes": {"type": "array", "items": {"type": "string"}},
+    "decision_output": {"type": "array", "items": {"type": "string"}},
+    "prohibited_output": {"type": "string"}
+  }
+}

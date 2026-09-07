@@ -1,0 +1,180 @@
+[
+  {
+    "candidate_dimension": "概念投影损失",
+    "candidate_dimension_en": "concept-projection-loss",
+    "trigger_features": [
+      "context",
+      "continuum",
+      "definition_tool",
+      "morphospace",
+      "pluralism",
+      "semantic_loss"
+    ],
+    "observer_support": [
+      "cognitive_agency",
+      "constraint_closure",
+      "context_definition_tools",
+      "metabolism_identity",
+      "morphospace_pluralist",
+      "observer_relational",
+      "phenomenology_purpose"
+    ],
+    "support": 0.7,
+    "cross_DIKWP_span": [
+      "D",
+      "I",
+      "K",
+      "P",
+      "W"
+    ],
+    "tension": 0.0,
+    "escape_need": 0.665,
+    "operational_question": "把高维语义场压缩成一个词或定义时，哪些关系、尺度、冲突和可能性被系统性丢失？",
+    "status": "candidate-axis-not-a-new-definition"
+  },
+  {
+    "candidate_dimension": "尺度依赖个体化",
+    "candidate_dimension_en": "scale-dependent-individuation",
+    "trigger_features": [
+      "boundary",
+      "individuality",
+      "multiscale",
+      "observer_boundary",
+      "scale"
+    ],
+    "observer_support": [
+      "cellular_exceptionalist",
+      "cognitive_agency",
+      "constraint_closure",
+      "metabolism_identity",
+      "observer_relational",
+      "open_evolution_rule_change"
+    ],
+    "support": 0.6,
+    "cross_DIKWP_span": [
+      "D",
+      "I",
+      "K",
+      "P",
+      "W"
+    ],
+    "tension": 0.0,
+    "escape_need": 0.62,
+    "operational_question": "在细胞、个体、群体、生态或数字组织的不同尺度上，什么因果闭包使其成为可追踪的个体？",
+    "status": "candidate-axis-not-a-new-definition"
+  },
+  {
+    "candidate_dimension": "观察者参与与反向塑形",
+    "candidate_dimension_en": "observer-participation",
+    "trigger_features": [
+      "interaction",
+      "mutual_transformation",
+      "observer_relative",
+      "push_back",
+      "subjectivity"
+    ],
+    "observer_support": [
+      "cognitive_agency",
+      "observer_relational",
+      "open_evolution_rule_change",
+      "phenomenology_purpose"
+    ],
+    "support": 0.4,
+    "cross_DIKWP_span": [
+      "D",
+      "I",
+      "K",
+      "P",
+      "W"
+    ],
+    "tension": 0.162,
+    "escape_need": 0.5624,
+    "operational_question": "被评估对象是否会改变观察者的分类、测量和目的，使定义本身成为互动的一部分？",
+    "status": "candidate-axis-not-a-new-definition"
+  },
+  {
+    "candidate_dimension": "可生存规范内生性",
+    "candidate_dimension_en": "endogenous-viability-normativity",
+    "trigger_features": [
+      "agency",
+      "healing",
+      "homeostasis",
+      "intrinsic_goal",
+      "self_maintenance",
+      "viability"
+    ],
+    "observer_support": [
+      "cognitive_agency",
+      "constraint_closure",
+      "metabolism_identity",
+      "phenomenology_purpose"
+    ],
+    "support": 0.4,
+    "cross_DIKWP_span": [
+      "D",
+      "I",
+      "K",
+      "P",
+      "W"
+    ],
+    "tension": 0.0,
+    "escape_need": 0.53,
+    "operational_question": "何种状态对系统而言是由其自身组织产生的可接受或不可接受状态，而非外部评价者强加？",
+    "status": "candidate-axis-not-a-new-definition"
+  },
+  {
+    "candidate_dimension": "规则自修改能力",
+    "candidate_dimension_en": "rule-self-modification",
+    "trigger_features": [
+      "meta_dynamics",
+      "novelty",
+      "open_evolution",
+      "rule_change",
+      "self_modification"
+    ],
+    "observer_support": [
+      "cognitive_agency",
+      "constraint_closure",
+      "open_evolution_rule_change",
+      "phenomenology_purpose"
+    ],
+    "support": 0.4,
+    "cross_DIKWP_span": [
+      "D",
+      "I",
+      "K",
+      "P",
+      "W"
+    ],
+    "tension": 0.0,
+    "escape_need": 0.53,
+    "operational_question": "系统是否能够改变产生自身适应、学习、复制或定义的规则，而不只是沿既定规则优化？",
+    "status": "candidate-axis-not-a-new-definition"
+  },
+  {
+    "candidate_dimension": "基质—约束可迁移性",
+    "candidate_dimension_en": "substrate-constraint-portability",
+    "trigger_features": [
+      "constraint_closure",
+      "digital_life",
+      "substrate_neutral"
+    ],
+    "observer_support": [
+      "constraint_closure",
+      "morphospace_pluralist",
+      "phenomenology_purpose"
+    ],
+    "support": 0.3,
+    "cross_DIKWP_span": [
+      "D",
+      "I",
+      "K",
+      "P",
+      "W"
+    ],
+    "tension": 0.177083,
+    "escape_need": 0.520417,
+    "operational_question": "维持身份和功能的约束能否跨碳基、硅基、化学、机器人或虚拟基质迁移？",
+    "status": "candidate-axis-not-a-new-definition"
+  }
+]

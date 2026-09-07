@@ -1,0 +1,8 @@
+{
+  "concept": "生命（Life）",
+  "observer_count": 10,
+  "atom_count": 40,
+  "subjectivity_escape_score": 0.611959,
+  "concept_escape_readiness": 0.784076,
+  "dashboard": "outputs/dashboard.html"
+}
