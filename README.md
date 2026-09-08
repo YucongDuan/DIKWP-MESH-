@@ -1,8 +1,10 @@
 # DIKWP-MESH²
 
-**DIKWP-MESH²** is an offline-first reference implementation for treating DIKWP as a co-equal semantic network rather than a hierarchy.
+Created by Yucong Duan (段玉聪).
 
-Chinese name: **DIKWP网状语义生成、跨主体概念解缚与共知演化系统**
+DIKWP-MESH² is an offline-first reference implementation for treating DIKWP as a co-equal semantic network rather than a hierarchy.
+
+Chinese name: DIKWP网状语义生成、跨主体概念解缚与共知演化系统
 
 ## What is corrected
 
@@ -102,3 +104,7 @@ preserved under `docs/source-import/` and are not presented as fresh test result
 - [Portfolio](https://github.com/YucongDuan) and [research homepage](https://yucong-duan-research.dikwp407.chatgpt.site) provide broader navigation.
 
 These are research-scope links, not a claim of tested API integration or endorsement.
+
+## Current interface presentation
+
+[Open the interface source](outputs/dashboard.html) from the current repository download. See [interface and authorship notes](INTERFACE_NOTES.md) for English coverage, report generation and validation scope.

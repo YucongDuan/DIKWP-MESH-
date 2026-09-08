@@ -1,5 +1,11 @@
 from __future__ import annotations
 
+if __package__:
+    from ._ui_presentation import localize_html as _ui_localize_html
+else:
+    from _ui_presentation import localize_html as _ui_localize_html
+
+
 import html
 import json
 from pathlib import Path
@@ -71,4 +77,4 @@ table{border-collapse:collapse;width:100%;font-size:13px}th,td{padding:8px 9px;b
 
 
 def render_dashboard(result: SemanticBundleResult, mesh: SemanticMesh, output: Path) -> None:
-    output.write_text(TEMPLATE.render(result=result.to_dict()), encoding="utf-8")
+    output.write_text(_ui_localize_html(TEMPLATE.render(result=result.to_dict())), encoding="utf-8")
