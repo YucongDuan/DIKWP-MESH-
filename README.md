@@ -1,5 +1,13 @@
 # DIKWP-MESH²
 
+
+[**Start here · 使用导读**](GETTING_STARTED.md) · [Project details · 项目详情](https://github.com/YucongDuan/YucongDuan/blob/main/projects/1301387525.md)
+
+Explore all 25 ordered D/I/K/W/P transformation classes, alternative semantic routes and observer disagreements.
+
+探索D/I/K/W/P全部25类有序转换、多条语义路径与观察者分歧。
+
+
 Created by Yucong Duan (段玉聪).
 
 DIKWP-MESH² is an offline-first reference implementation for treating DIKWP as a co-equal semantic network rather than a hierarchy.
